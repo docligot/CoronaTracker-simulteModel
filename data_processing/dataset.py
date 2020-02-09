@@ -21,7 +21,7 @@ columns = [
     "dead"
 ]
 
-# Read data from offical plantform.
+# 读取头条数据
 use_toutiao_date = "2020-02-07"
 toutiao_forum = requests.get("https://i.snssdk.com/forum/home/v1/info/?forum_id=1656784762444839").json()
 toutiao_data = json.loads(toutiao_forum["forum"]["extra"]["ncov_string_list"])
@@ -116,7 +116,7 @@ for country in toutiao_data["world"]:
         "dead": country["deathsNum"]
     })
 
-# Update records
+# 更新数据
 csv_file = "../data/DXYArea.csv"
 
 df = pd.read_csv(csv_file)
@@ -146,6 +146,5 @@ df.drop_duplicates(
     subset=["date", "country", "province", "city"], keep="last", inplace=True)
 df.sort_values(["date", "countryCode", "provinceCode", "cityCode", "city"], inplace=True)
 df.to_csv(csv_file, index=False, encoding='utf-8')
-
 
 print(f"""{datetime.now().strftime("%Y-%m-%d %H:%M:%S")}Update records successfully to ../data/DXYArea.csv""")
