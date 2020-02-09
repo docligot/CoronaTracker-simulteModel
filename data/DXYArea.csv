@@ -5273,7 +5273,6 @@ Shanghai,Field to Shanghai staff,96,20,1,2020-02-08 14:28:29.350,2020-02-08
 Shanghai,Fengxian District,9,1,0,2020-02-08 14:28:29.350,2020-02-08
 Shanghai,Baoshan District,17,0,0,2020-02-08 14:28:29.350,2020-02-08
 Shanghai,Chongming District,2,0,0,2020-02-08 14:28:29.350,2020-02-08
-Shanghai,To be a clear distinction,3,11,0,2020-02-08 14:25:26.975,2020-02-08
 Shanghai,Xuhui District,16,1,0,2020-02-08 14:28:29.350,2020-02-08
 Shanghai,Putuo District,7,0,0,2020-02-08 14:28:29.350,2020-02-08
 Shanghai,Yangpu District,7,0,0,2020-02-08 14:28:29.350,2020-02-08
@@ -5286,20 +5285,20 @@ Shanghai,Minhang District,14,2,0,2020-02-08 14:28:29.350,2020-02-08
 Shanghai,Qingpu District,5,2,0,2020-02-08 14:28:29.350,2020-02-08
 Shanghai,Jing'an District,15,3,0,2020-02-08 14:28:29.350,2020-02-08
 Shanghai,Huangpu District,5,1,0,2020-02-08 14:28:29.350,2020-02-08
-Yunnan Province,Lincang,1,0,0,2020-02-08 07:18:45.327,2020-02-08
-Yunnan Province,Lijiang,7,1,0,2020-02-08 07:18:45.327,2020-02-08
-Yunnan Province,Baoshan,9,0,0,2020-02-08 07:18:45.327,2020-02-08
-Yunnan Province,Dali,11,2,0,2020-02-08 07:18:45.327,2020-02-08
-Yunnan Province,Dehong,5,0,0,2020-02-08 07:18:45.327,2020-02-08
-Yunnan Province,Wenshan,1,0,0,2020-02-08 07:18:45.327,2020-02-08
-Yunnan Province,Kunming,41,2,0,2020-02-08 07:18:45.327,2020-02-08
-Yunnan Province,Zhaotong,10,1,0,2020-02-08 07:18:45.327,2020-02-08
-Yunnan Province,Pu'er,4,0,0,2020-02-08 07:18:45.327,2020-02-08
-Yunnan Province,Qujing,11,1,0,2020-02-08 07:18:45.327,2020-02-08
-Yunnan Province,Chuxiong,4,0,0,2020-02-08 07:18:45.327,2020-02-08
-Yunnan Province,Yuxi,14,2,0,2020-02-08 07:18:45.327,2020-02-08
-Yunnan Province,Red River,5,1,0,2020-02-08 07:18:45.327,2020-02-08
-Yunnan Province,Xishuangbanna,15,2,0,2020-02-08 07:18:45.327,2020-02-08
+Yunnan Province,Lincang,1,0,0,2020-02-08 16:35:10.822,2020-02-08
+Yunnan Province,Lijiang,7,1,0,2020-02-08 16:35:10.822,2020-02-08
+Yunnan Province,Baoshan,9,0,0,2020-02-08 16:35:10.822,2020-02-08
+Yunnan Province,Dali,11,2,0,2020-02-08 16:35:10.822,2020-02-08
+Yunnan Province,Dehong,5,0,0,2020-02-08 16:35:10.822,2020-02-08
+Yunnan Province,Wenshan,1,0,0,2020-02-08 16:35:10.822,2020-02-08
+Yunnan Province,Kunming,41,6,0,2020-02-08 16:35:10.822,2020-02-08
+Yunnan Province,Zhaotong,10,1,0,2020-02-08 16:35:10.822,2020-02-08
+Yunnan Province,Pu'er,4,0,0,2020-02-08 16:35:10.822,2020-02-08
+Yunnan Province,Qujing,11,1,0,2020-02-08 16:35:10.822,2020-02-08
+Yunnan Province,Chuxiong,4,0,0,2020-02-08 16:35:10.822,2020-02-08
+Yunnan Province,Yuxi,14,2,0,2020-02-08 16:35:10.822,2020-02-08
+Yunnan Province,Red River,5,1,0,2020-02-08 16:35:10.822,2020-02-08
+Yunnan Province,Xishuangbanna,15,2,0,2020-02-08 16:35:10.822,2020-02-08
 Inner Mongolia Autonomous Region,Wulanchabu,3,0,0,2020-02-08 11:28:08.331,2020-02-08
 Inner Mongolia Autonomous Region,Wuhai,2,0,0,2020-02-08 11:28:08.331,2020-02-08
 Inner Mongolia Autonomous Region,Hing'an,1,0,0,2020-02-08 11:28:08.331,2020-02-08
@@ -5336,113 +5335,112 @@ Jilin Province,Baicheng,1,0,0,2020-02-08 08:08:23.850,2020-02-08
 Jilin Province,Liaoyuan,6,0,0,2020-02-08 08:08:23.850,2020-02-08
 Jilin Province,Tonghua,2,0,0,2020-02-08 08:08:23.850,2020-02-08
 Jilin Province,Changchun,32,1,0,2020-02-08 08:08:23.850,2020-02-08
-Sichuan Province,Leshan,3,0,0,2020-02-08 14:32:33.025,2020-02-08
-Sichuan Province,Neijiang,17,1,0,2020-02-08 14:32:33.025,2020-02-08
-Sichuan Province,Liangshan,9,0,0,2020-02-08 14:32:33.025,2020-02-08
-Sichuan Province,Nanchong,31,2,0,2020-02-08 14:32:33.025,2020-02-08
-Sichuan Province,Yibin,9,0,0,2020-02-08 14:32:33.025,2020-02-08
-Sichuan Province,Bazhong,21,1,0,2020-02-08 14:32:33.025,2020-02-08
-Sichuan Province,Guangyuan,6,0,0,2020-02-08 14:32:33.025,2020-02-08
-Sichuan Province,Guang'an,28,3,0,2020-02-08 14:32:33.025,2020-02-08
+Sichuan Province,Leshan,3,0,0,2020-02-08 23:16:54.752,2020-02-08
+Sichuan Province,Neijiang,17,2,0,2020-02-08 23:16:54.752,2020-02-08
+Sichuan Province,Liangshan,9,0,0,2020-02-08 23:16:54.752,2020-02-08
+Sichuan Province,Nanchong,31,2,0,2020-02-08 23:16:54.752,2020-02-08
+Sichuan Province,Yibin,9,0,0,2020-02-08 23:16:54.752,2020-02-08
+Sichuan Province,Bazhong,21,1,0,2020-02-08 23:16:54.752,2020-02-08
+Sichuan Province,Guangyuan,6,0,0,2020-02-08 23:16:54.752,2020-02-08
+Sichuan Province,Guang'an,28,3,0,2020-02-08 23:16:54.752,2020-02-08
 Sichuan Province,To be clear,0,8,0,2020-02-08 11:59:32.002,2020-02-08
-Sichuan Province,Deyang,13,0,0,2020-02-08 14:32:33.025,2020-02-08
-Sichuan Province,Chengdu,109,33,1,2020-02-08 14:32:33.025,2020-02-08
-Sichuan Province,Panzhihua,12,1,0,2020-02-08 14:32:33.025,2020-02-08
-Sichuan Province,Luzhou,13,0,0,2020-02-08 14:32:33.025,2020-02-08
-Sichuan Province,Ganzi,17,0,0,2020-02-08 14:32:33.025,2020-02-08
-Sichuan Province,Meishan,6,1,0,2020-02-08 14:32:33.025,2020-02-08
-Sichuan Province,Mianyang,20,3,0,2020-02-08 14:32:33.025,2020-02-08
-Sichuan Province,Zigong,9,2,0,2020-02-08 14:32:33.025,2020-02-08
-Sichuan Province,Ziyang,2,0,0,2020-02-08 14:32:33.025,2020-02-08
-Sichuan Province,Florida,25,4,0,2020-02-08 14:32:33.025,2020-02-08
-Sichuan Province,Suining,6,2,0,2020-02-08 14:32:33.025,2020-02-08
-Sichuan Province,Aba,1,0,0,2020-02-08 14:32:33.025,2020-02-08
-Sichuan Province,Ya'an,6,1,0,2020-02-08 14:32:33.025,2020-02-08
-Tianjin,Dongli District,4,0,0,2020-02-08 11:27:07.440,2020-02-08
-Tianjin,Beichen District,1,0,0,2020-02-08 11:27:07.440,2020-02-08
-Tianjin,Nankai District,3,0,0,2020-02-08 11:27:07.440,2020-02-08
-Tianjin,Heping District,6,0,0,2020-02-08 11:27:07.440,2020-02-08
-Tianjin,Field staff to Tianjin,6,0,0,2020-02-08 11:27:07.440,2020-02-08
-Tianjin,Ninghe district,4,0,0,2020-02-08 11:27:07.440,2020-02-08
-Tianjin,Baodi,29,0,1,2020-02-08 11:27:07.440,2020-02-08
-Tianjin,WuQing District,1,0,0,2020-02-08 11:27:07.440,2020-02-08
-Tianjin,Hedong District,10,1,0,2020-02-08 11:27:07.440,2020-02-08
-Tianjin,Hebei District,10,0,0,2020-02-08 11:27:07.440,2020-02-08
-Tianjin,Hexi District,4,0,0,2020-02-08 11:27:07.440,2020-02-08
-Tianjin,Jinnan District,1,0,0,2020-02-08 11:27:07.440,2020-02-08
-Tianjin,Binhai New Area,3,0,0,2020-02-08 11:27:07.440,2020-02-08
-Tianjin,Hongqiao District,2,1,0,2020-02-08 11:27:07.440,2020-02-08
-Tianjin,Xiqing District,4,0,0,2020-02-08 11:27:07.440,2020-02-08
-Ningxia Hui Autonomous Region,Zhongwei,3,0,0,2020-02-08 11:13:56.062,2020-02-08
-Ningxia Hui Autonomous Region,Wuzhong,9,0,0,2020-02-08 11:13:56.062,2020-02-08
-Ningxia Hui Autonomous Region,Guyuan,2,0,0,2020-02-08 11:13:56.062,2020-02-08
-Ningxia Hui Autonomous Region,Ningdong CMC,1,0,0,2020-02-08 11:13:56.062,2020-02-08
-Ningxia Hui Autonomous Region,Shizuishan,1,0,0,2020-02-08 11:13:56.062,2020-02-08
-Ningxia Hui Autonomous Region,Yinchuan,29,5,0,2020-02-08 11:13:56.062,2020-02-08
-Anhui Province,Bozhou,81,5,0,2020-02-08 13:30:45.076,2020-02-08
-Anhui Province,Lu'an,51,2,0,2020-02-08 13:30:45.076,2020-02-08
-Anhui Province,Hefei,128,9,0,2020-02-08 13:30:45.076,2020-02-08
-Anhui Province,Anqing,71,6,0,2020-02-08 13:30:45.076,2020-02-08
-Anhui Province,Xuancheng,5,2,0,2020-02-08 13:30:45.076,2020-02-08
-Anhui Province,Suzhou,28,1,0,2020-02-08 13:30:45.076,2020-02-08
-Anhui Province,Chizhou,11,1,0,2020-02-08 13:30:45.076,2020-02-08
-Anhui Province,Huaibei,22,1,0,2020-02-08 13:30:45.076,2020-02-08
-Anhui Province,Huainan,21,3,0,2020-02-08 13:30:45.076,2020-02-08
-Anhui Province,Chuzhou,11,2,0,2020-02-08 13:30:45.076,2020-02-08
-Anhui Province,Wuhu,29,3,0,2020-02-08 13:30:45.076,2020-02-08
-Anhui Province,Bengbu,99,1,0,2020-02-08 13:30:45.076,2020-02-08
-Anhui Province,Tongling,23,7,0,2020-02-08 13:30:45.076,2020-02-08
-Anhui Province,Fuyang,113,11,0,2020-02-08 13:30:45.076,2020-02-08
-Anhui Province,Ma'anshan,31,2,0,2020-02-08 13:30:45.076,2020-02-08
-Anhui Province,Huangshan,9,1,0,2020-02-08 13:30:45.076,2020-02-08
-Shandong Province,Linyi,38,3,0,2020-02-08 13:11:29.571,2020-02-08
-Shandong Province,Weihai,32,5,0,2020-02-08 13:11:29.571,2020-02-08
-Shandong Province,Texas,28,2,0,2020-02-08 13:11:29.571,2020-02-08
-Shandong Province,sunshine,14,2,0,2020-02-08 13:11:29.571,2020-02-08
-Shandong Province,Zaozhuang,19,0,0,2020-02-08 13:11:29.571,2020-02-08
-Shandong Province,Tai'an,20,1,0,2020-02-08 13:11:29.571,2020-02-08
-Shandong Province,Jinan,42,3,0,2020-02-08 13:11:29.571,2020-02-08
-Shandong Province,Jining,38,8,0,2020-02-08 13:11:29.571,2020-02-08
-Shandong Province,Zibo,15,1,0,2020-02-08 13:11:29.571,2020-02-08
-Shandong Province,Binzhou,11,4,0,2020-02-08 13:11:29.571,2020-02-08
-Shandong Province,Weifang,29,0,0,2020-02-08 13:11:29.571,2020-02-08
-Shandong Province,Yantai,34,2,0,2020-02-08 13:11:29.571,2020-02-08
-Shandong Province,Liaocheng,27,1,0,2020-02-08 13:11:29.571,2020-02-08
-Shandong Province,Heze,14,3,0,2020-02-08 13:11:29.571,2020-02-08
-Shandong Province,Qingdao,46,5,0,2020-02-08 13:11:29.571,2020-02-08
-Shanxi Province,Linfen,2,1,0,2020-02-08 07:34:57.503,2020-02-08
-Shanxi Province,Luliang,6,3,0,2020-02-08 07:34:57.503,2020-02-08
-Shanxi Province,Datong,10,3,0,2020-02-08 07:34:57.503,2020-02-08
-Shanxi Province,Taiyuan,12,1,0,2020-02-08 07:34:57.503,2020-02-08
-Shanxi Province,Xinzhou,6,0,0,2020-02-08 07:34:57.503,2020-02-08
-Shanxi Province,Jinzhong,30,5,0,2020-02-08 07:34:57.503,2020-02-08
-Shanxi Province,Jincheng,8,0,0,2020-02-08 07:34:57.503,2020-02-08
-Shanxi Province,Shuozhou,4,1,0,2020-02-08 07:34:57.503,2020-02-08
-Shanxi Province,Yuncheng,17,1,0,2020-02-08 07:34:57.503,2020-02-08
-Shanxi Province,Changzhi,5,0,0,2020-02-08 07:34:57.503,2020-02-08
-Shanxi Province,Yangquan,4,0,0,2020-02-08 07:34:57.503,2020-02-08
-Guangdong Province,Dongguan,56,1,0,2020-02-08 13:01:21.677,2020-02-08
-Guangdong Province,Zhongshan,46,11,0,2020-02-08 13:01:21.677,2020-02-08
-Guangdong Province,Foshan,60,4,0,2020-02-08 13:01:21.677,2020-02-08
-Guangdong Province,Canton,298,21,0,2020-02-08 13:01:21.677,2020-02-08
-Guangdong Province,Huizhou,41,1,0,2020-02-08 13:01:21.677,2020-02-08
-Guangdong Province,Jieyang,7,1,0,2020-02-08 13:01:21.677,2020-02-08
-Guangdong Province,Not explicitly region,0,9,0,2020-02-08 12:51:14.177,2020-02-08
+Sichuan Province,Deyang,13,0,0,2020-02-08 23:16:54.752,2020-02-08
+Sichuan Province,Chengdu,109,33,1,2020-02-08 23:16:54.752,2020-02-08
+Sichuan Province,Panzhihua,12,3,0,2020-02-08 23:16:54.752,2020-02-08
+Sichuan Province,Luzhou,13,2,0,2020-02-08 23:16:54.752,2020-02-08
+Sichuan Province,Ganzi,17,0,0,2020-02-08 23:16:54.752,2020-02-08
+Sichuan Province,Meishan,6,1,0,2020-02-08 23:16:54.752,2020-02-08
+Sichuan Province,Mianyang,20,3,0,2020-02-08 23:16:54.752,2020-02-08
+Sichuan Province,Zigong,9,2,0,2020-02-08 23:16:54.752,2020-02-08
+Sichuan Province,Ziyang,3,0,0,2020-02-08 23:16:54.752,2020-02-08
+Sichuan Province,Florida,25,5,0,2020-02-08 23:16:54.752,2020-02-08
+Sichuan Province,Suining,6,2,0,2020-02-08 23:16:54.752,2020-02-08
+Sichuan Province,Aba,1,0,0,2020-02-08 23:16:54.752,2020-02-08
+Sichuan Province,Ya'an,6,1,0,2020-02-08 23:16:54.752,2020-02-08
+Tianjin,Dongli District,4,0,0,2020-02-08 16:19:57.683,2020-02-08
+Tianjin,Beichen District,1,0,0,2020-02-08 16:19:57.683,2020-02-08
+Tianjin,Nankai District,3,0,0,2020-02-08 16:19:57.683,2020-02-08
+Tianjin,Heping District,6,0,0,2020-02-08 16:19:57.683,2020-02-08
+Tianjin,Field staff to Tianjin,6,0,0,2020-02-08 16:19:57.683,2020-02-08
+Tianjin,Ninghe district,4,0,0,2020-02-08 16:19:57.683,2020-02-08
+Tianjin,Baodi,29,0,1,2020-02-08 16:19:57.683,2020-02-08
+Tianjin,WuQing District,1,0,0,2020-02-08 16:19:57.683,2020-02-08
+Tianjin,Hedong District,10,1,0,2020-02-08 16:19:57.683,2020-02-08
+Tianjin,Hebei District,10,0,0,2020-02-08 16:19:57.683,2020-02-08
+Tianjin,Hexi District,4,0,0,2020-02-08 16:19:57.683,2020-02-08
+Tianjin,Jinnan District,1,0,0,2020-02-08 16:19:57.683,2020-02-08
+Tianjin,Binhai New Area,3,0,0,2020-02-08 16:19:57.683,2020-02-08
+Tianjin,Hongqiao District,2,1,0,2020-02-08 16:19:57.683,2020-02-08
+Tianjin,Xiqing District,4,0,0,2020-02-08 16:19:57.683,2020-02-08
+Ningxia Hui Autonomous Region,Zhongwei,3,0,0,2020-02-08 17:06:38.721,2020-02-08
+Ningxia Hui Autonomous Region,Wuzhong,9,0,0,2020-02-08 17:06:38.721,2020-02-08
+Ningxia Hui Autonomous Region,Guyuan,2,0,0,2020-02-08 17:06:38.721,2020-02-08
+Ningxia Hui Autonomous Region,Ningdong CMC,1,0,0,2020-02-08 17:06:38.721,2020-02-08
+Ningxia Hui Autonomous Region,Shizuishan,1,0,0,2020-02-08 17:06:38.721,2020-02-08
+Ningxia Hui Autonomous Region,Yinchuan,29,5,0,2020-02-08 17:06:38.721,2020-02-08
+Anhui Province,Bozhou,81,5,0,2020-02-08 15:36:22.375,2020-02-08
+Anhui Province,Lu'an,51,2,0,2020-02-08 15:36:22.375,2020-02-08
+Anhui Province,Hefei,128,11,0,2020-02-08 15:36:22.375,2020-02-08
+Anhui Province,Anqing,71,6,0,2020-02-08 15:36:22.375,2020-02-08
+Anhui Province,Xuancheng,5,2,0,2020-02-08 15:36:22.375,2020-02-08
+Anhui Province,Suzhou,28,1,0,2020-02-08 15:36:22.375,2020-02-08
+Anhui Province,Chizhou,11,1,0,2020-02-08 15:36:22.375,2020-02-08
+Anhui Province,Huaibei,22,1,0,2020-02-08 15:36:22.375,2020-02-08
+Anhui Province,Huainan,21,3,0,2020-02-08 15:36:22.375,2020-02-08
+Anhui Province,Chuzhou,11,2,0,2020-02-08 15:36:22.375,2020-02-08
+Anhui Province,Wuhu,29,3,0,2020-02-08 15:36:22.375,2020-02-08
+Anhui Province,Bengbu,99,1,0,2020-02-08 15:36:22.375,2020-02-08
+Anhui Province,Tongling,23,7,0,2020-02-08 15:36:22.375,2020-02-08
+Anhui Province,Fuyang,113,11,0,2020-02-08 15:36:22.375,2020-02-08
+Anhui Province,Ma'anshan,31,2,0,2020-02-08 15:36:22.375,2020-02-08
+Anhui Province,Huangshan,9,1,0,2020-02-08 15:36:22.375,2020-02-08
+Shandong Province,Linyi,40,3,0,2020-02-08 19:25:32.088,2020-02-08
+Shandong Province,Weihai,33,5,0,2020-02-08 19:25:32.088,2020-02-08
+Shandong Province,Texas,29,4,0,2020-02-08 19:25:32.088,2020-02-08
+Shandong Province,sunshine,15,2,0,2020-02-08 19:25:32.088,2020-02-08
+Shandong Province,Zaozhuang,20,0,0,2020-02-08 19:25:32.088,2020-02-08
+Shandong Province,Tai'an,20,1,0,2020-02-08 19:25:32.088,2020-02-08
+Shandong Province,Jinan,42,3,0,2020-02-08 19:25:32.088,2020-02-08
+Shandong Province,Jining,38,8,0,2020-02-08 19:25:32.088,2020-02-08
+Shandong Province,Zibo,15,1,0,2020-02-08 19:25:32.088,2020-02-08
+Shandong Province,Binzhou,11,4,0,2020-02-08 19:25:32.088,2020-02-08
+Shandong Province,Weifang,31,0,0,2020-02-08 19:25:32.088,2020-02-08
+Shandong Province,Yantai,35,2,0,2020-02-08 19:25:32.088,2020-02-08
+Shandong Province,Liaocheng,27,1,0,2020-02-08 19:25:32.088,2020-02-08
+Shandong Province,Heze,14,3,0,2020-02-08 19:25:32.088,2020-02-08
+Shandong Province,Qingdao,46,7,0,2020-02-08 19:25:32.088,2020-02-08
+Shanxi Province,Linfen,2,1,0,2020-02-08 15:07:58.903,2020-02-08
+Shanxi Province,Luliang,6,3,0,2020-02-08 15:07:58.903,2020-02-08
+Shanxi Province,Datong,10,3,0,2020-02-08 15:07:58.903,2020-02-08
+Shanxi Province,Taiyuan,12,1,0,2020-02-08 15:07:58.903,2020-02-08
+Shanxi Province,Xinzhou,6,0,0,2020-02-08 15:07:58.903,2020-02-08
+Shanxi Province,Jinzhong,30,5,0,2020-02-08 15:07:58.903,2020-02-08
+Shanxi Province,Jincheng,8,2,0,2020-02-08 15:07:58.903,2020-02-08
+Shanxi Province,Shuozhou,4,1,0,2020-02-08 15:07:58.903,2020-02-08
+Shanxi Province,Yuncheng,17,4,0,2020-02-08 15:07:58.903,2020-02-08
+Shanxi Province,Changzhi,5,0,0,2020-02-08 15:07:58.903,2020-02-08
+Shanxi Province,Yangquan,4,0,0,2020-02-08 15:07:58.903,2020-02-08
+Guangdong Province,Dongguan,56,1,0,2020-02-08 19:46:49.463,2020-02-08
+Guangdong Province,Zhongshan,46,11,0,2020-02-08 19:46:49.463,2020-02-08
+Guangdong Province,Foshan,64,4,0,2020-02-08 19:46:49.463,2020-02-08
+Guangdong Province,Canton,301,27,0,2020-02-08 19:46:49.463,2020-02-08
+Guangdong Province,Huizhou,47,1,0,2020-02-08 19:46:49.463,2020-02-08
+Guangdong Province,Jieyang,7,1,0,2020-02-08 19:46:49.463,2020-02-08
 Guangdong Province,unknown,0,9,0,2020-02-08 11:52:27.139,2020-02-08
-Guangdong Province,Meizhou,13,4,0,2020-02-08 13:01:21.677,2020-02-08
-Guangdong Province,Shantou,25,3,0,2020-02-08 13:01:21.677,2020-02-08
-Guangdong Province,Shanwei,5,1,0,2020-02-08 13:01:21.677,2020-02-08
-Guangdong Province,Jiangmen,14,1,0,2020-02-08 13:01:21.677,2020-02-08
-Guangdong Province,Heyuan,3,0,0,2020-02-08 13:01:21.677,2020-02-08
-Guangdong Province,Shenzhen,351,31,0,2020-02-08 13:01:21.677,2020-02-08
-Guangdong Province,Qingyuan,10,3,0,2020-02-08 13:01:21.677,2020-02-08
-Guangdong Province,Zhanjiang,20,6,0,2020-02-08 13:01:21.677,2020-02-08
-Guangdong Province,Chaozhou,5,0,0,2020-02-08 13:01:21.677,2020-02-08
-Guangdong Province,Zhuhai,82,4,0,2020-02-08 13:01:21.677,2020-02-08
-Guangdong Province,Zhaoqing,14,1,1,2020-02-08 13:01:21.677,2020-02-08
-Guangdong Province,Maoming,6,1,0,2020-02-08 13:01:21.677,2020-02-08
-Guangdong Province,Yangjiang,13,1,0,2020-02-08 13:01:21.677,2020-02-08
-Guangdong Province,Shaoguan,6,1,0,2020-02-08 13:01:21.677,2020-02-08
+Guangdong Province,Meizhou,13,4,0,2020-02-08 19:46:49.463,2020-02-08
+Guangdong Province,Shantou,25,3,0,2020-02-08 19:46:49.463,2020-02-08
+Guangdong Province,Shanwei,5,1,0,2020-02-08 19:46:49.463,2020-02-08
+Guangdong Province,Jiangmen,15,1,0,2020-02-08 19:46:49.463,2020-02-08
+Guangdong Province,Heyuan,3,0,0,2020-02-08 19:46:49.463,2020-02-08
+Guangdong Province,Shenzhen,354,39,0,2020-02-08 19:46:49.463,2020-02-08
+Guangdong Province,Qingyuan,10,3,0,2020-02-08 19:46:49.463,2020-02-08
+Guangdong Province,Zhanjiang,20,6,0,2020-02-08 19:46:49.463,2020-02-08
+Guangdong Province,Chaozhou,5,0,0,2020-02-08 19:46:49.463,2020-02-08
+Guangdong Province,Zhuhai,83,4,0,2020-02-08 19:46:49.463,2020-02-08
+Guangdong Province,Zhaoqing,14,1,1,2020-02-08 19:46:49.463,2020-02-08
+Guangdong Province,Maoming,8,1,0,2020-02-08 19:46:49.463,2020-02-08
+Guangdong Province,Yangjiang,13,1,0,2020-02-08 19:46:49.463,2020-02-08
+Guangdong Province,Shaoguan,6,1,0,2020-02-08 19:46:49.463,2020-02-08
 Guangxi Zhuang Autonomous Region,North Sea,32,2,0,2020-02-08 12:57:18.872,2020-02-08
 Guangxi Zhuang Autonomous Region,Nanning,32,0,0,2020-02-08 12:57:18.872,2020-02-08
 Guangxi Zhuang Autonomous Region,guest,3,0,0,2020-02-08 12:57:18.872,2020-02-08
@@ -5467,19 +5465,19 @@ Xinjiang Uygur Autonomous Region,Turpan,1,0,0,2020-02-08 11:16:58.135,2020-02-08
 Xinjiang Uygur Autonomous Region,Bavaria,2,0,0,2020-02-08 11:16:58.135,2020-02-08
 Xinjiang Uygur Autonomous Region,ChangJi,2,0,0,2020-02-08 11:16:58.135,2020-02-08
 Xinjiang Uygur Autonomous Region,AKeSu,1,0,0,2020-02-08 11:16:58.135,2020-02-08
-Jiangsu Province,Nanjing,65,15,0,2020-02-08 09:10:13.677,2020-02-08
-Jiangsu Province,Nantong,31,2,0,2020-02-08 09:10:13.677,2020-02-08
-Jiangsu Province,Suqian,12,0,0,2020-02-08 09:10:13.677,2020-02-08
-Jiangsu Province,Changzhou,31,5,0,2020-02-08 09:10:13.677,2020-02-08
-Jiangsu Province,Xuzhou,52,3,0,2020-02-08 09:10:13.677,2020-02-08
-Jiangsu Province,Yangzhou,17,2,0,2020-02-08 09:10:13.677,2020-02-08
-Jiangsu Province,Wuxi,34,1,0,2020-02-08 09:10:13.677,2020-02-08
-Jiangsu Province,Taizhou,30,3,0,2020-02-08 09:10:13.677,2020-02-08
-Jiangsu Province,Huaian,40,2,0,2020-02-08 09:10:13.677,2020-02-08
-Jiangsu Province,Yancheng,17,3,0,2020-02-08 09:10:13.677,2020-02-08
-Jiangsu Province,Suzhou,72,4,0,2020-02-08 09:10:13.677,2020-02-08
-Jiangsu Province,Lianyungang,27,2,0,2020-02-08 09:10:13.677,2020-02-08
-Jiangsu Province,Zhenjiang,11,1,0,2020-02-08 09:10:13.677,2020-02-08
+Jiangsu Province,Nanjing,65,20,0,2020-02-08 18:14:34.167,2020-02-08
+Jiangsu Province,Nantong,31,2,0,2020-02-08 18:14:34.167,2020-02-08
+Jiangsu Province,Suqian,12,0,0,2020-02-08 18:14:34.167,2020-02-08
+Jiangsu Province,Changzhou,31,5,0,2020-02-08 18:14:34.167,2020-02-08
+Jiangsu Province,Xuzhou,52,3,0,2020-02-08 18:14:34.167,2020-02-08
+Jiangsu Province,Yangzhou,17,2,0,2020-02-08 18:14:34.167,2020-02-08
+Jiangsu Province,Wuxi,34,4,0,2020-02-08 18:14:34.167,2020-02-08
+Jiangsu Province,Taizhou,30,3,0,2020-02-08 18:14:34.167,2020-02-08
+Jiangsu Province,Huaian,40,2,0,2020-02-08 18:14:34.167,2020-02-08
+Jiangsu Province,Yancheng,17,3,0,2020-02-08 18:14:34.167,2020-02-08
+Jiangsu Province,Suzhou,72,4,0,2020-02-08 18:14:34.167,2020-02-08
+Jiangsu Province,Lianyungang,27,2,0,2020-02-08 18:14:34.167,2020-02-08
+Jiangsu Province,Zhenjiang,11,1,0,2020-02-08 18:14:34.167,2020-02-08
 Jiangxi,Shangrao,92,5,0,2020-02-08 09:21:23.660,2020-02-08
 Jiangxi,Jiujiang,97,5,0,2020-02-08 09:21:23.660,2020-02-08
 Jiangxi,Nanchang,168,20,0,2020-02-08 09:21:23.660,2020-02-08
@@ -5491,182 +5489,197 @@ Jiangxi,Jingdezhen,4,1,0,2020-02-08 09:21:23.660,2020-02-08
 Jiangxi,Pingxiang,24,1,0,2020-02-08 09:21:23.660,2020-02-08
 Jiangxi,Ganzhou,64,2,0,2020-02-08 09:21:23.660,2020-02-08
 Jiangxi,Yingtan,11,0,0,2020-02-08 09:21:23.660,2020-02-08
-Hebei Province,Baoding,18,8,0,2020-02-08 13:21:37.700,2020-02-08
-Hebei Province,Tangshan,23,2,0,2020-02-08 13:21:37.700,2020-02-08
-Hebei Province,Langfang,20,4,0,2020-02-08 13:21:37.700,2020-02-08
-Hebei Province,Zhangjiakou,14,1,0,2020-02-08 13:21:37.700,2020-02-08
-Hebei Province,Chengde,7,0,0,2020-02-08 13:21:37.700,2020-02-08
-Hebei Province,Cangzhou,28,4,1,2020-02-08 13:21:37.700,2020-02-08
-Hebei Province,Shijiazhuang,24,3,0,2020-02-08 13:21:37.700,2020-02-08
-Hebei Province,Qinhuangdao,7,0,0,2020-02-08 13:21:37.700,2020-02-08
-Hebei Province,Hengshui,7,0,0,2020-02-08 13:21:37.700,2020-02-08
-Hebei Province,Xingtai,21,4,0,2020-02-08 13:21:37.700,2020-02-08
-Hebei Province,Handan,26,2,0,2020-02-08 13:21:37.700,2020-02-08
-Henan Province,Sanmenxia,7,2,0,2020-02-08 12:54:16.881,2020-02-08
-Henan Province,Xinyang,192,15,0,2020-02-08 12:54:16.881,2020-02-08
-Henan Province,Nanyang,128,11,2,2020-02-08 12:54:16.881,2020-02-08
-Henan Province,Zhoukou,62,10,0,2020-02-08 12:54:16.881,2020-02-08
-Henan Province,Shangqiu,76,5,0,2020-02-08 12:54:16.881,2020-02-08
-Henan Province,Anyang,43,2,0,2020-02-08 12:54:16.881,2020-02-08
-Henan Province,Pingdingshan,48,1,0,2020-02-08 12:54:16.881,2020-02-08
-Henan Province,Kaifeng,21,1,0,2020-02-08 12:54:16.881,2020-02-08
-Henan Province,Xinxiang,43,4,0,2020-02-08 12:54:16.881,2020-02-08
+Hebei Province,Baoding,18,8,0,2020-02-08 19:24:31.093,2020-02-08
+Hebei Province,Tangshan,23,2,0,2020-02-08 19:24:31.093,2020-02-08
+Hebei Province,Langfang,20,4,0,2020-02-08 19:24:31.093,2020-02-08
+Hebei Province,Zhangjiakou,14,1,0,2020-02-08 19:24:31.093,2020-02-08
+Hebei Province,Chengde,7,0,0,2020-02-08 19:24:31.093,2020-02-08
+Hebei Province,Cangzhou,28,6,1,2020-02-08 19:24:31.093,2020-02-08
+Hebei Province,Shijiazhuang,24,3,0,2020-02-08 19:24:31.093,2020-02-08
+Hebei Province,Qinhuangdao,7,0,0,2020-02-08 19:24:31.093,2020-02-08
+Hebei Province,Hengshui,7,0,0,2020-02-08 19:24:31.093,2020-02-08
+Hebei Province,Xingtai,21,4,0,2020-02-08 19:24:31.093,2020-02-08
+Hebei Province,Handan,26,2,0,2020-02-08 19:24:31.093,2020-02-08
+Henan Province,Sanmenxia,7,3,0,2020-02-08 22:05:52.238,2020-02-08
+Henan Province,Xinyang,192,24,0,2020-02-08 22:05:52.238,2020-02-08
+Henan Province,Nanyang,128,16,2,2020-02-08 22:05:52.238,2020-02-08
+Henan Province,Zhoukou,62,10,0,2020-02-08 22:05:52.238,2020-02-08
+Henan Province,Shangqiu,76,5,0,2020-02-08 22:05:52.238,2020-02-08
+Henan Province,Anyang,43,3,0,2020-02-08 22:05:52.238,2020-02-08
+Henan Province,Pingdingshan,48,6,1,2020-02-08 22:05:52.238,2020-02-08
+Henan Province,Kaifeng,21,1,0,2020-02-08 22:05:52.238,2020-02-08
+Henan Province,Xinxiang,43,5,0,2020-02-08 22:05:52.238,2020-02-08
+Henan Province,Not explicitly region,0,6,2,2020-02-08 12:51:14.177,2020-02-08
 Henan Province,Unknown region,0,6,2,2020-02-08 12:13:43.840,2020-02-08
-Henan Province,Luoyang,25,2,0,2020-02-08 12:54:16.881,2020-02-08
-Henan Province,Jiyuan,4,0,0,2020-02-08 12:54:16.881,2020-02-08
-Henan Province,Luohe,29,4,0,2020-02-08 12:54:16.881,2020-02-08
-Henan Province,Puyang,7,0,0,2020-02-08 12:54:16.881,2020-02-08
-Henan Province,Jiaozuo,20,1,0,2020-02-08 12:54:16.881,2020-02-08
-Henan Province,Xuchang,30,2,0,2020-02-08 12:54:16.881,2020-02-08
-Henan Province,Zhengzhou,120,28,0,2020-02-08 12:54:16.881,2020-02-08
-Henan Province,Zhumadian,113,5,0,2020-02-08 12:54:16.881,2020-02-08
-Henan Province,Hebi,13,0,0,2020-02-08 12:54:16.881,2020-02-08
-Zhejiang Province,Lishui,17,3,0,2020-02-08 14:12:16.936,2020-02-08
-Zhejiang Province,Taizhou,133,25,0,2020-02-08 14:12:16.936,2020-02-08
-Zhejiang Province,Jiaxing,37,1,0,2020-02-08 14:12:16.936,2020-02-08
-Zhejiang Province,Ningbo,141,12,0,2020-02-08 14:12:16.936,2020-02-08
-Zhejiang Province,Hangzhou,162,22,0,2020-02-08 14:12:16.936,2020-02-08
-Zhejiang Province,Wenzhou,438,49,0,2020-02-08 14:12:16.936,2020-02-08
-Zhejiang Province,Huzhou,10,1,0,2020-02-08 14:12:16.936,2020-02-08
-Zhejiang Province,Shaoxing,36,5,0,2020-02-08 14:12:16.936,2020-02-08
-Zhejiang Province,Zhoushan,7,5,0,2020-02-08 14:12:16.936,2020-02-08
-Zhejiang Province,Quzhou,15,3,0,2020-02-08 14:12:16.936,2020-02-08
-Zhejiang Province,Jinhua,52,10,0,2020-02-08 14:12:16.936,2020-02-08
-Hainan,Wanning,12,0,0,2020-02-08 10:29:21.794,2020-02-08
-Hainan,Sanya,37,8,1,2020-02-08 10:29:21.794,2020-02-08
-Hainan,East,3,0,0,2020-02-08 10:29:21.794,2020-02-08
-Hainan,Lingao,5,0,0,2020-02-08 10:29:21.794,2020-02-08
-Hainan,Ledong,1,0,0,2020-02-08 10:29:21.794,2020-02-08
-Hainan,Baoting,2,0,0,2020-02-08 10:29:21.794,2020-02-08
-Hainan,Danzhou,11,0,0,2020-02-08 10:29:21.794,2020-02-08
-Hainan,Ting,3,0,0,2020-02-08 10:29:21.794,2020-02-08
-Hainan,Wenchang,3,0,0,2020-02-08 10:29:21.794,2020-02-08
-Hainan,Changjiang,5,0,0,2020-02-08 10:29:21.794,2020-02-08
-Hainan,Seaport,23,2,0,2020-02-08 10:29:21.794,2020-02-08
-Hainan,Chengmai,7,0,1,2020-02-08 10:29:21.794,2020-02-08
-Hainan,Qiongzhong,1,0,0,2020-02-08 10:29:21.794,2020-02-08
-Hainan,Qionghai,6,0,0,2020-02-08 10:29:21.794,2020-02-08
-Hainan,Lingshui,4,0,0,2020-02-08 10:29:21.794,2020-02-08
-Hubei Province,Xiantao,359,14,5,2020-02-08 14:06:11.916,2020-02-08
-Hubei Province,Shiyan,438,33,0,2020-02-08 14:06:11.916,2020-02-08
-Hubei Province,Xianning,476,16,2,2020-02-08 14:06:11.916,2020-02-08
-Hubei Province,Tianmen,179,1,10,2020-02-08 14:06:11.916,2020-02-08
-Hubei Province,Xiaogan,2313,38,26,2020-02-08 14:06:11.916,2020-02-08
-Hubei Province,Yichang,633,24,8,2020-02-08 14:06:11.916,2020-02-08
-Hubei Province,Enshi,160,17,0,2020-02-08 14:06:11.916,2020-02-08
-Hubei Province,Wuhan,13603,698,545,2020-02-08 14:06:11.916,2020-02-08
-Hubei Province,Qianjiang,80,1,2,2020-02-08 14:06:11.916,2020-02-08
-Hubei Province,Shennongjia,10,2,0,2020-02-08 14:06:11.916,2020-02-08
-Hubei Province,Jingzhou,941,30,11,2020-02-08 14:06:11.916,2020-02-08
-Hubei Province,Jingmen,588,36,18,2020-02-08 14:06:11.916,2020-02-08
-Hubei Province,Xiangyang,907,31,5,2020-02-08 14:06:11.916,2020-02-08
-Hubei Province,Ezhou,569,11,20,2020-02-08 14:06:11.916,2020-02-08
-Hubei Province,Suizhou,953,23,9,2020-02-08 14:06:11.916,2020-02-08
-Hubei Province,Huanggang,2041,105,36,2020-02-08 14:06:11.916,2020-02-08
-Hubei Province,Yellowstone,703,43,2,2020-02-08 14:06:11.916,2020-02-08
-Hunan Province,Loudi,59,4,0,2020-02-08 13:31:45.848,2020-02-08
-Hunan Province,Yueyang,111,6,0,2020-02-08 13:31:45.848,2020-02-08
-Hunan Province,Changde,66,14,0,2020-02-08 13:31:45.848,2020-02-08
-Hunan Province,Zhangjiajie,5,2,0,2020-02-08 13:31:45.848,2020-02-08
-Hunan Province,Huaihua,38,14,0,2020-02-08 13:31:45.848,2020-02-08
-Hunan Province,Zhuzhou,48,8,0,2020-02-08 13:31:45.848,2020-02-08
-Hunan Province,Yongzhou,40,10,0,2020-02-08 13:31:45.848,2020-02-08
-Hunan Province,Xiangtan,28,7,0,2020-02-08 13:31:45.848,2020-02-08
-Hunan Province,Xiangxi Autonomous Prefecture,8,2,0,2020-02-08 13:31:45.848,2020-02-08
-Hunan Province,Yiyang,44,6,0,2020-02-08 13:31:45.848,2020-02-08
-Hunan Province,Hengyang,43,11,0,2020-02-08 13:31:45.848,2020-02-08
-Hunan Province,Shaoyang,86,11,0,2020-02-08 13:31:45.848,2020-02-08
-Hunan Province,Chenzhou,31,8,0,2020-02-08 13:31:45.848,2020-02-08
-Hunan Province,Changsha,196,27,0,2020-02-08 13:31:45.848,2020-02-08
-Gansu province,Linxia,3,2,0,2020-02-08 08:23:36.631,2020-02-08
-Gansu province,Lanzhou,32,5,1,2020-02-08 08:23:36.631,2020-02-08
-Gansu province,Tianshui,10,1,0,2020-02-08 08:23:36.631,2020-02-08
-Gansu province,Dingxi,8,1,0,2020-02-08 08:23:36.631,2020-02-08
-Gansu province,Pingliang,2,0,0,2020-02-08 08:23:36.631,2020-02-08
-Gansu province,Qingyang,2,0,0,2020-02-08 08:23:36.631,2020-02-08
-Gansu province,Zhangye,2,0,0,2020-02-08 08:23:36.631,2020-02-08
-Gansu province,Gannan,3,0,0,2020-02-08 08:23:36.631,2020-02-08
-Gansu province,silver,4,0,0,2020-02-08 08:23:36.631,2020-02-08
-Gansu province,Jinchang,1,0,0,2020-02-08 08:23:36.631,2020-02-08
-Gansu province,Longnan,4,0,0,2020-02-08 08:23:36.631,2020-02-08
-Fujian Province,Sanming,12,1,0,2020-02-08 13:44:55.513,2020-02-08
-Fujian Province,Nanping,14,1,0,2020-02-08 13:44:55.513,2020-02-08
-Fujian Province,Xiamen,25,2,0,2020-02-08 13:44:55.513,2020-02-08
-Fujian Province,Ningde,21,4,0,2020-02-08 13:44:55.513,2020-02-08
-Fujian Province,Quanzhou,40,4,0,2020-02-08 13:44:55.513,2020-02-08
-Fujian Province,Zhangzhou,16,1,0,2020-02-08 13:44:55.513,2020-02-08
-Fujian Province,Fuzhou,59,7,0,2020-02-08 13:44:55.513,2020-02-08
-Fujian Province,Putian,47,1,0,2020-02-08 13:44:55.513,2020-02-08
-Fujian Province,Longyan,5,0,0,2020-02-08 13:44:55.513,2020-02-08
-Guizhou Province,Liupanshui,9,0,1,2020-02-08 10:11:07.560,2020-02-08
-Guizhou Province,Anshun,4,0,0,2020-02-08 10:11:07.560,2020-02-08
-Guizhou Province,Bijie,21,0,0,2020-02-08 10:11:07.560,2020-02-08
-Guizhou Province,Guiyang,18,1,0,2020-02-08 10:11:07.560,2020-02-08
-Guizhou Province,Zunyi,15,0,0,2020-02-08 10:11:07.560,2020-02-08
-Guizhou Province,Tongren,6,2,0,2020-02-08 10:11:07.560,2020-02-08
-Guizhou Province,Qiandongnan,5,0,0,2020-02-08 10:11:07.560,2020-02-08
-Guizhou Province,Qiannan,7,3,0,2020-02-08 10:11:07.560,2020-02-08
-Guizhou Province,Qianxinan,4,0,0,2020-02-08 10:11:07.560,2020-02-08
-Chongqing,Wanzhou District,78,4,1,2020-02-08 07:27:51.619,2020-02-08
-Chongqing,Wansheng Economic Development Zone,1,0,0,2020-02-08 07:27:51.619,2020-02-08
-Chongqing,Liangjiang New Area,16,0,0,2020-02-08 07:27:51.619,2020-02-08
-Chongqing,Fengdu County,9,1,0,2020-02-08 07:27:51.619,2020-02-08
-Chongqing,Jiulongpo,19,0,1,2020-02-08 07:27:51.619,2020-02-08
-Chongqing,Yunyang County,20,5,0,2020-02-08 07:27:51.619,2020-02-08
-Chongqing,South Bank area,8,0,0,2020-02-08 07:27:51.619,2020-02-08
-Chongqing,Hechuan,16,1,0,2020-02-08 07:27:51.619,2020-02-08
-Chongqing,Dianjiang County,18,1,0,2020-02-08 07:27:51.619,2020-02-08
-Chongqing,City I County,2,1,0,2020-02-08 07:27:51.619,2020-02-08
-Chongqing,Dadukou district,7,1,0,2020-02-08 07:27:51.619,2020-02-08
-Chongqing,Dazu District,10,0,0,2020-02-08 07:27:51.619,2020-02-08
-Chongqing,Fengjie County,13,1,0,2020-02-08 07:27:51.619,2020-02-08
-Chongqing,Wushan County,8,4,0,2020-02-08 07:27:51.619,2020-02-08
-Chongqing,Wuxi County,11,1,0,2020-02-08 07:27:51.619,2020-02-08
-Chongqing,Banan District,3,0,0,2020-02-08 07:27:51.619,2020-02-08
-Chongqing,Open state area,18,2,0,2020-02-08 07:27:51.619,2020-02-08
-Chongqing,Pengshui County,2,0,0,2020-02-08 07:27:51.619,2020-02-08
-Chongqing,Zhong County,16,1,0,2020-02-08 07:27:51.619,2020-02-08
-Chongqing,Liangping area,4,0,0,2020-02-08 07:27:51.619,2020-02-08
-Chongqing,Wulong district,1,0,0,2020-02-08 07:27:51.619,2020-02-08
-Chongqing,Yongchuan,3,1,0,2020-02-08 07:27:51.619,2020-02-08
-Chongqing,Jiangbei District,20,1,0,2020-02-08 07:27:51.619,2020-02-08
-Chongqing,Jiangjin district,4,1,0,2020-02-08 07:27:51.619,2020-02-08
-Chongqing,Shapingba District,2,0,0,2020-02-08 07:27:51.619,2020-02-08
-Chongqing,Fuling District,3,0,0,2020-02-08 07:27:51.619,2020-02-08
-Chongqing,Yuzhong,19,0,0,2020-02-08 07:27:51.619,2020-02-08
-Chongqing,Yu Bei District,12,2,0,2020-02-08 07:27:51.619,2020-02-08
-Chongqing,Tongnan district,13,0,0,2020-02-08 07:27:51.619,2020-02-08
-Chongqing,Bishan area,8,0,0,2020-02-08 07:27:51.619,2020-02-08
-Chongqing,Shizhu,12,0,0,2020-02-08 07:27:51.619,2020-02-08
-Chongqing,Xiushan County,1,1,0,2020-02-08 07:27:51.619,2020-02-08
-Chongqing,Qijiang,15,0,0,2020-02-08 07:27:51.619,2020-02-08
-Chongqing,Rongchang District,8,0,0,2020-02-08 07:27:51.619,2020-02-08
-Chongqing,Youyang County,1,0,0,2020-02-08 07:27:51.619,2020-02-08
-Chongqing,Tongliang district,7,0,0,2020-02-08 07:27:51.619,2020-02-08
-Chongqing,Changshou District,12,2,0,2020-02-08 07:27:51.619,2020-02-08
-Chongqing,High-tech Zone,4,0,0,2020-02-08 07:27:51.619,2020-02-08
-Chongqing,Qianjiang District,2,0,0,2020-02-08 07:27:51.619,2020-02-08
-Shaanxi Province,Xianyang,16,2,0,2020-02-08 13:55:04.485,2020-02-08
-Shaanxi Province,Shangluo,7,1,0,2020-02-08 13:55:04.485,2020-02-08
-Shaanxi Province,Good health,21,1,0,2020-02-08 13:55:04.485,2020-02-08
-Shaanxi Province,Baoji,12,2,0,2020-02-08 13:55:04.485,2020-02-08
-Shaanxi Province,Yan'an,8,0,0,2020-02-08 13:55:04.485,2020-02-08
-Shaanxi Province,Yangling,1,0,0,2020-02-08 13:55:04.485,2020-02-08
-Shaanxi Province,Yulin,3,0,0,2020-02-08 13:55:04.485,2020-02-08
-Shaanxi Province,Hanzhong,21,0,0,2020-02-08 13:55:04.485,2020-02-08
-Shaanxi Province,Weinan,9,0,0,2020-02-08 13:55:04.485,2020-02-08
-Shaanxi Province,Xi'an,88,9,0,2020-02-08 13:55:04.485,2020-02-08
-Shaanxi Province,Tongchuan,8,4,0,2020-02-08 13:55:04.485,2020-02-08
-Shaanxi Province,Hancheng,1,0,0,2020-02-08 13:55:04.485,2020-02-08
-Heilongjiang Province,Qitaihe,11,0,0,2020-02-08 12:01:33.720,2020-02-08
-Heilongjiang Province,Jiamusi,13,1,0,2020-02-08 12:01:33.720,2020-02-08
-Heilongjiang Province,Shuangyashan,36,1,2,2020-02-08 12:01:33.720,2020-02-08
-Heilongjiang Province,Harbin,100,9,0,2020-02-08 12:01:33.720,2020-02-08
-Heilongjiang Province,Daxinganling,2,0,0,2020-02-08 12:01:33.720,2020-02-08
-Heilongjiang Province,Daqing,13,0,1,2020-02-08 12:01:33.720,2020-02-08
-Heilongjiang Province,Mudanjiang,13,1,0,2020-02-08 12:01:33.720,2020-02-08
-Heilongjiang Province,Suihua,44,1,2,2020-02-08 12:01:33.720,2020-02-08
-Heilongjiang Province,Jixi,31,0,0,2020-02-08 12:01:33.720,2020-02-08
-Heilongjiang Province,Hegang,3,0,0,2020-02-08 12:01:33.720,2020-02-08
-Heilongjiang Province,Heihe,2,0,0,2020-02-08 12:01:33.720,2020-02-08
-Heilongjiang Province,Qiqihar,27,0,0,2020-02-08 12:01:33.720,2020-02-08
+Henan Province,Luoyang,25,2,0,2020-02-08 22:05:52.238,2020-02-08
+Henan Province,Jiyuan,4,0,0,2020-02-08 22:05:52.238,2020-02-08
+Henan Province,Luohe,29,4,0,2020-02-08 22:05:52.238,2020-02-08
+Henan Province,Puyang,7,0,0,2020-02-08 22:05:52.238,2020-02-08
+Henan Province,Jiaozuo,20,1,0,2020-02-08 22:05:52.238,2020-02-08
+Henan Province,Xuchang,30,2,0,2020-02-08 22:05:52.238,2020-02-08
+Henan Province,Zhengzhou,120,28,0,2020-02-08 22:05:52.238,2020-02-08
+Henan Province,Zhumadian,113,5,0,2020-02-08 22:05:52.238,2020-02-08
+Henan Province,Hebi,13,0,0,2020-02-08 22:05:52.238,2020-02-08
+Zhejiang Province,Lishui,17,5,0,2020-02-08 18:43:57.249,2020-02-08
+Zhejiang Province,Taizhou,133,25,0,2020-02-08 18:43:57.249,2020-02-08
+Zhejiang Province,Jiaxing,37,1,0,2020-02-08 18:43:57.249,2020-02-08
+Zhejiang Province,Ningbo,141,12,0,2020-02-08 18:43:57.249,2020-02-08
+Zhejiang Province,Hangzhou,162,22,0,2020-02-08 18:43:57.249,2020-02-08
+Zhejiang Province,Wenzhou,438,70,0,2020-02-08 18:43:57.249,2020-02-08
+Zhejiang Province,Huzhou,10,1,0,2020-02-08 18:43:57.249,2020-02-08
+Zhejiang Province,Shaoxing,36,5,0,2020-02-08 18:43:57.249,2020-02-08
+Zhejiang Province,Zhoushan,7,5,0,2020-02-08 18:43:57.249,2020-02-08
+Zhejiang Province,Quzhou,15,3,0,2020-02-08 18:43:57.249,2020-02-08
+Zhejiang Province,Jinhua,52,13,0,2020-02-08 18:43:57.249,2020-02-08
+Hainan,Wanning,12,0,0,2020-02-08 18:19:37.487,2020-02-08
+Hainan,Sanya,37,9,1,2020-02-08 18:19:37.487,2020-02-08
+Hainan,East,3,0,0,2020-02-08 18:19:37.487,2020-02-08
+Hainan,Lingao,5,0,0,2020-02-08 18:19:37.487,2020-02-08
+Hainan,Ledong,1,0,0,2020-02-08 18:19:37.487,2020-02-08
+Hainan,Baoting,2,0,0,2020-02-08 18:19:37.487,2020-02-08
+Hainan,Danzhou,11,0,0,2020-02-08 18:19:37.487,2020-02-08
+Hainan,Ting,3,0,0,2020-02-08 18:19:37.487,2020-02-08
+Hainan,Wenchang,3,0,0,2020-02-08 18:19:37.487,2020-02-08
+Hainan,Changjiang,5,0,0,2020-02-08 18:19:37.487,2020-02-08
+Hainan,Seaport,23,4,0,2020-02-08 18:19:37.487,2020-02-08
+Hainan,Chengmai,7,0,1,2020-02-08 18:19:37.487,2020-02-08
+Hainan,Qiongzhong,1,0,0,2020-02-08 18:19:37.487,2020-02-08
+Hainan,Qionghai,6,0,0,2020-02-08 18:19:37.487,2020-02-08
+Hainan,Lingshui,4,0,0,2020-02-08 18:19:37.487,2020-02-08
+Hubei Province,Xiantao,359,14,5,2020-02-08 22:02:50.042,2020-02-08
+Hubei Province,Shiyan,438,40,0,2020-02-08 22:02:50.042,2020-02-08
+Hubei Province,Xianning,476,16,2,2020-02-08 22:02:50.042,2020-02-08
+Hubei Province,Tianmen,179,1,10,2020-02-08 22:02:50.042,2020-02-08
+Hubei Province,Xiaogan,2313,42,26,2020-02-08 22:02:50.042,2020-02-08
+Hubei Province,Yichang,633,25,8,2020-02-08 22:02:50.042,2020-02-08
+Hubei Province,Enshi,160,20,0,2020-02-08 22:02:50.042,2020-02-08
+Hubei Province,Wuhan,13603,747,545,2020-02-08 22:02:50.042,2020-02-08
+Hubei Province,Qianjiang,80,1,2,2020-02-08 22:02:50.042,2020-02-08
+Hubei Province,Shennongjia,10,2,0,2020-02-08 22:02:50.042,2020-02-08
+Hubei Province,Jingzhou,941,31,11,2020-02-08 22:02:50.042,2020-02-08
+Hubei Province,Jingmen,588,36,18,2020-02-08 22:02:50.042,2020-02-08
+Hubei Province,Xiangyang,907,34,5,2020-02-08 22:02:50.042,2020-02-08
+Hubei Province,Ezhou,569,33,20,2020-02-08 22:02:50.042,2020-02-08
+Hubei Province,Suizhou,953,23,9,2020-02-08 22:02:50.042,2020-02-08
+Hubei Province,Huanggang,2041,105,36,2020-02-08 22:02:50.042,2020-02-08
+Hubei Province,Yellowstone,703,48,2,2020-02-08 22:02:50.042,2020-02-08
+Hunan Province,Loudi,59,8,0,2020-02-08 20:52:47.474,2020-02-08
+Hunan Province,Yueyang,111,10,1,2020-02-08 20:52:47.474,2020-02-08
+Hunan Province,Changde,66,15,0,2020-02-08 20:52:47.474,2020-02-08
+Hunan Province,Zhangjiajie,5,2,0,2020-02-08 20:52:47.474,2020-02-08
+Hunan Province,Huaihua,38,14,0,2020-02-08 20:52:47.474,2020-02-08
+Hunan Province,Zhuzhou,48,8,0,2020-02-08 20:52:47.474,2020-02-08
+Hunan Province,Yongzhou,40,10,0,2020-02-08 20:52:47.474,2020-02-08
+Hunan Province,Xiangtan,28,10,0,2020-02-08 20:52:47.474,2020-02-08
+Hunan Province,Xiangxi Autonomous Prefecture,8,3,0,2020-02-08 20:52:47.474,2020-02-08
+Hunan Province,Yiyang,44,10,0,2020-02-08 20:52:47.474,2020-02-08
+Hunan Province,Hengyang,43,13,0,2020-02-08 20:52:47.474,2020-02-08
+Hunan Province,Shaoyang,86,18,0,2020-02-08 20:52:47.474,2020-02-08
+Hunan Province,Chenzhou,31,8,0,2020-02-08 20:52:47.474,2020-02-08
+Hunan Province,Changsha,196,27,0,2020-02-08 20:52:47.474,2020-02-08
+Gansu province,Linxia,3,2,0,2020-02-08 23:14:52.573,2020-02-08
+Gansu province,Lanzhou,33,5,1,2020-02-08 23:14:52.573,2020-02-08
+Gansu province,Tianshui,12,1,0,2020-02-08 23:14:52.573,2020-02-08
+Gansu province,Dingxi,8,1,0,2020-02-08 23:14:52.573,2020-02-08
+Gansu province,Pingliang,4,0,0,2020-02-08 23:14:52.573,2020-02-08
+Gansu province,Qingyang,2,0,0,2020-02-08 23:14:52.573,2020-02-08
+Gansu province,Zhangye,2,0,0,2020-02-08 23:14:52.573,2020-02-08
+Gansu province,To be a clear distinction,0,3,0,2020-02-08 23:14:52.573,2020-02-08
+Gansu province,Gannan,6,0,0,2020-02-08 23:14:52.573,2020-02-08
+Gansu province,silver,4,0,0,2020-02-08 23:14:52.573,2020-02-08
+Gansu province,Jinchang,1,0,0,2020-02-08 23:14:52.573,2020-02-08
+Gansu province,Longnan,4,0,0,2020-02-08 23:14:52.573,2020-02-08
+Fujian Province,Sanming,12,1,0,2020-02-08 16:04:44.343,2020-02-08
+Fujian Province,Nanping,14,1,0,2020-02-08 16:04:44.343,2020-02-08
+Fujian Province,Xiamen,25,2,0,2020-02-08 16:04:44.343,2020-02-08
+Fujian Province,Ningde,21,4,0,2020-02-08 16:04:44.343,2020-02-08
+Fujian Province,Quanzhou,40,4,0,2020-02-08 16:04:44.343,2020-02-08
+Fujian Province,Zhangzhou,16,1,0,2020-02-08 16:04:44.343,2020-02-08
+Fujian Province,Fuzhou,59,10,0,2020-02-08 16:04:44.343,2020-02-08
+Fujian Province,Putian,47,1,0,2020-02-08 16:04:44.343,2020-02-08
+Fujian Province,Longyan,5,0,0,2020-02-08 16:04:44.343,2020-02-08
+Guizhou Province,Liupanshui,9,0,1,2020-02-08 14:41:39.845,2020-02-08
+Guizhou Province,Anshun,4,0,0,2020-02-08 14:41:39.845,2020-02-08
+Guizhou Province,Bijie,21,0,0,2020-02-08 14:41:39.845,2020-02-08
+Guizhou Province,Guiyang,18,1,0,2020-02-08 14:41:39.845,2020-02-08
+Guizhou Province,Zunyi,15,1,0,2020-02-08 14:41:39.845,2020-02-08
+Guizhou Province,Tongren,6,2,0,2020-02-08 14:41:39.845,2020-02-08
+Guizhou Province,Qiandongnan,5,0,0,2020-02-08 14:41:39.845,2020-02-08
+Guizhou Province,Qiannan,7,3,0,2020-02-08 14:41:39.845,2020-02-08
+Guizhou Province,Qianxinan,4,0,0,2020-02-08 14:41:39.845,2020-02-08
+Liaoning Province,Dandong,7,1,0,2020-02-08 19:47:50.438,2020-02-08
+Liaoning Province,Dalian,16,3,0,2020-02-08 19:47:50.438,2020-02-08
+Liaoning Province,Sunny,6,0,0,2020-02-08 19:47:50.438,2020-02-08
+Liaoning Province,Benxi,3,0,0,2020-02-08 19:47:50.438,2020-02-08
+Liaoning Province,Shenyang,26,3,0,2020-02-08 19:47:50.438,2020-02-08
+Liaoning Province,Panjin,11,0,0,2020-02-08 19:47:50.438,2020-02-08
+Liaoning Province,Yingkou,1,0,0,2020-02-08 19:47:50.438,2020-02-08
+Liaoning Province,Huludao,9,0,0,2020-02-08 19:47:50.438,2020-02-08
+Liaoning Province,Liaoyang,3,0,0,2020-02-08 19:47:50.438,2020-02-08
+Liaoning Province,Tieling,3,0,0,2020-02-08 19:47:50.438,2020-02-08
+Liaoning Province,Jinzhou,10,1,0,2020-02-08 19:47:50.438,2020-02-08
+Liaoning Province,Fuxin,7,0,0,2020-02-08 19:47:50.438,2020-02-08
+Liaoning Province,Anshan,3,0,0,2020-02-08 19:47:50.438,2020-02-08
+Chongqing,Wanzhou District,78,6,1,2020-02-08 18:56:06.823,2020-02-08
+Chongqing,Wansheng Economic Development Zone,1,0,0,2020-02-08 18:56:06.823,2020-02-08
+Chongqing,Liangjiang New Area,16,0,0,2020-02-08 18:56:06.823,2020-02-08
+Chongqing,Fengdu County,9,1,0,2020-02-08 18:56:06.823,2020-02-08
+Chongqing,Jiulongpo,19,1,1,2020-02-08 18:56:06.823,2020-02-08
+Chongqing,Yunyang County,20,7,0,2020-02-08 18:56:06.823,2020-02-08
+Chongqing,South Bank area,8,0,0,2020-02-08 18:56:06.823,2020-02-08
+Chongqing,Hechuan,16,1,0,2020-02-08 18:56:06.823,2020-02-08
+Chongqing,Dianjiang County,18,1,0,2020-02-08 18:56:06.823,2020-02-08
+Chongqing,City I County,2,1,0,2020-02-08 18:56:06.823,2020-02-08
+Chongqing,Dadukou district,7,1,0,2020-02-08 18:56:06.823,2020-02-08
+Chongqing,Dazu District,10,0,0,2020-02-08 18:56:06.823,2020-02-08
+Chongqing,Fengjie County,14,1,0,2020-02-08 18:56:06.823,2020-02-08
+Chongqing,Wushan County,8,4,0,2020-02-08 18:56:06.823,2020-02-08
+Chongqing,Wuxi County,11,1,0,2020-02-08 18:56:06.823,2020-02-08
+Chongqing,Banan District,3,0,0,2020-02-08 18:56:06.823,2020-02-08
+Chongqing,Open state area,18,2,0,2020-02-08 18:56:06.823,2020-02-08
+Chongqing,Pengshui County,2,0,0,2020-02-08 18:56:06.823,2020-02-08
+Chongqing,Zhong County,16,2,0,2020-02-08 18:56:06.823,2020-02-08
+Chongqing,Liangping area,4,1,0,2020-02-08 18:56:06.823,2020-02-08
+Chongqing,Wulong district,1,0,0,2020-02-08 18:56:06.823,2020-02-08
+Chongqing,Yongchuan,3,1,0,2020-02-08 18:56:06.823,2020-02-08
+Chongqing,Jiangbei District,20,1,0,2020-02-08 18:56:06.823,2020-02-08
+Chongqing,Jiangjin district,4,1,0,2020-02-08 18:56:06.823,2020-02-08
+Chongqing,Shapingba District,2,0,0,2020-02-08 18:56:06.823,2020-02-08
+Chongqing,Fuling District,3,0,0,2020-02-08 18:56:06.823,2020-02-08
+Chongqing,Yuzhong,20,1,0,2020-02-08 18:56:06.823,2020-02-08
+Chongqing,Yu Bei District,12,2,0,2020-02-08 18:56:06.823,2020-02-08
+Chongqing,Tongnan district,13,0,0,2020-02-08 18:56:06.823,2020-02-08
+Chongqing,Bishan area,8,0,0,2020-02-08 18:56:06.823,2020-02-08
+Chongqing,Shizhu,12,0,0,2020-02-08 18:56:06.823,2020-02-08
+Chongqing,Xiushan County,1,1,0,2020-02-08 18:56:06.823,2020-02-08
+Chongqing,Qijiang,15,0,0,2020-02-08 18:56:06.823,2020-02-08
+Chongqing,Rongchang District,8,0,0,2020-02-08 18:56:06.823,2020-02-08
+Chongqing,Youyang County,1,0,0,2020-02-08 18:56:06.823,2020-02-08
+Chongqing,Tongliang district,7,0,0,2020-02-08 18:56:06.823,2020-02-08
+Chongqing,Changshou District,12,2,0,2020-02-08 18:56:06.823,2020-02-08
+Chongqing,High-tech Zone,4,0,0,2020-02-08 18:56:06.823,2020-02-08
+Chongqing,Qianjiang District,2,0,0,2020-02-08 18:56:06.823,2020-02-08
+Shaanxi Province,Xianyang,16,2,0,2020-02-08 18:07:28.229,2020-02-08
+Shaanxi Province,Shangluo,7,1,0,2020-02-08 18:07:28.229,2020-02-08
+Shaanxi Province,Good health,21,1,0,2020-02-08 18:07:28.229,2020-02-08
+Shaanxi Province,Baoji,12,2,0,2020-02-08 18:07:28.229,2020-02-08
+Shaanxi Province,Yan'an,8,0,0,2020-02-08 18:07:28.229,2020-02-08
+Shaanxi Province,Yangling,1,0,0,2020-02-08 18:07:28.229,2020-02-08
+Shaanxi Province,Yulin,3,0,0,2020-02-08 18:07:28.229,2020-02-08
+Shaanxi Province,Hanzhong,21,0,0,2020-02-08 18:07:28.229,2020-02-08
+Shaanxi Province,Weinan,9,0,0,2020-02-08 18:07:28.229,2020-02-08
+Shaanxi Province,Xi'an,88,10,0,2020-02-08 18:07:28.229,2020-02-08
+Shaanxi Province,Tongchuan,8,4,0,2020-02-08 18:07:28.229,2020-02-08
+Shaanxi Province,Hancheng,1,0,0,2020-02-08 18:07:28.229,2020-02-08
+Heilongjiang Province,Qitaihe,11,0,0,2020-02-08 16:32:08.225,2020-02-08
+Heilongjiang Province,Jiamusi,13,1,0,2020-02-08 16:32:08.225,2020-02-08
+Heilongjiang Province,Shuangyashan,36,1,2,2020-02-08 16:32:08.225,2020-02-08
+Heilongjiang Province,Harbin,100,9,0,2020-02-08 16:32:08.225,2020-02-08
+Heilongjiang Province,Daxinganling,2,0,0,2020-02-08 16:32:08.225,2020-02-08
+Heilongjiang Province,Daqing,13,0,1,2020-02-08 16:32:08.225,2020-02-08
+Heilongjiang Province,Mudanjiang,13,1,0,2020-02-08 16:32:08.225,2020-02-08
+Heilongjiang Province,Suihua,44,1,2,2020-02-08 16:32:08.225,2020-02-08
+Heilongjiang Province,Jixi,31,0,0,2020-02-08 16:32:08.225,2020-02-08
+Heilongjiang Province,Hegang,3,0,0,2020-02-08 16:32:08.225,2020-02-08
+Heilongjiang Province,Heihe,2,0,0,2020-02-08 16:32:08.225,2020-02-08
+Heilongjiang Province,Qiqihar,27,0,0,2020-02-08 16:32:08.225,2020-02-08

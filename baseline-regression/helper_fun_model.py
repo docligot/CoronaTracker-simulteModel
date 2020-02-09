@@ -43,6 +43,20 @@ def split_train_test_by_date(df: pandas.core.frame.DataFrame):
     
     return Train, Test
 
+def data_processing(df):
+
+    overall_df = pd.DataFrame(df.groupby(['updateDate']).agg({'confirmed': "sum",
+                                                                'cured': "sum",
+                                                                'dead': 'sum',
+                                                                'Days': 'mean'})).reset_index()
+    Train, Test = split_train_test_by_date(overall_df)
+
+    X_train = Train['Days']
+    y_train = Train['confirmed']
+    X_test =  Test['Days']
+    y_test = Test['confirmed']
+    return X_train, X_test, y_train, y_test
+
 ##################
 ###           EDA
 ##################
@@ -89,7 +103,7 @@ def draw_city_trend(title_prefix: str, df: pandas.core.frame.DataFrame):
 def as_arrary(x):
     return [np.asarray(x)]
 
-def draw_fit_plot(degree: int, X_train, X_test, y_train, y_test, y_train_predicted, y_test_predict, df):
+def draw_fit_plot(degree: int, area: str, X_train, X_test, y_train, y_test, y_train_predicted, y_test_predict, df):
     if len(y_test)>0:
         x = pd.Series(np.concatenate((X_train, X_test)))
         y = pd.Series(np.concatenate((y_train, y_test)))
@@ -101,7 +115,7 @@ def draw_fit_plot(degree: int, X_train, X_test, y_train, y_test, y_train_predict
     plt.scatter(x, y, s=10, c = 'black')
     plt.plot(X_train, y_train_predicted, color='green')
     plt.plot(X_test, y_test_predict, color = 'blue')
-    plt.title("Polynomial Regression with degree = {}".format(degree))
+    plt.title("Polynomial Regression {} with degree = {}".format(area, degree))
     plt.ylabel('Confirmed cases')
     plt.xlabel('2020 Date')
     
@@ -116,7 +130,7 @@ def draw_fit_plot(degree: int, X_train, X_test, y_train, y_test, y_train_predict
     plt.show()
     
 
-def create_polynomial_regression_model(degree:int, df,
+def create_polynomial_regression_model(degree:int, area:str, df,
                                        X_train: pandas.core.frame.DataFrame, 
                                        X_test: pandas.core.frame.DataFrame,
                                        y_train: pandas.core.frame.DataFrame, 
@@ -161,10 +175,10 @@ def create_polynomial_regression_model(degree:int, df,
     
     # Draw fit plot
     if draw_plot == True: 
-        draw_fit_plot(degree, X_train, X_test, y_train, y_test, y_train_predicted, y_test_predict, df)
+        draw_fit_plot(degree, area, X_train, X_test, y_train, y_test, y_train_predicted, y_test_predict, df)
 
 
-def forecast_next_4_days(degree: int, df: pandas.core.frame.DataFrame):
+def forecast_next_4_days(degree: int, area:str, df: pandas.core.frame.DataFrame):
     """
     Use all observations to train, based on the 
     """
@@ -175,7 +189,7 @@ def forecast_next_4_days(degree: int, df: pandas.core.frame.DataFrame):
     X_test = [df['Days'].max() + 1, df['Days'].max() + 2, df['Days'].max() + 3, df['Days'].max() + 4]
     y_test = []
     
-    create_polynomial_regression_model(2, df, X_train, X_test, y_train, y_test, draw_plot = True)
+    create_polynomial_regression_model(2, area, df, X_train, X_test, y_train, y_test, draw_plot = True)
     
     
 
