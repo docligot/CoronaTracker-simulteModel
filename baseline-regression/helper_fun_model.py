@@ -24,9 +24,9 @@ def add_days(DXYArea: pandas.core.frame.DataFrame) -> pandas.core.frame.DataFram
     """
     Create a new column: Days, number of days after 2019-12-08 (detect the first case)
     """
-    DXYArea['updateDate'] = pd.to_datetime(DXYArea['updateDate'])
+    DXYArea['date'] = pd.to_datetime(DXYArea['date'])
     first_day = datetime.datetime(2019, 12, 8) # the time when detected the first case (2019-12-08)
-    DXYArea['Days'] = (DXYArea['updateDate'] - first_day).dt.days
+    DXYArea['Days'] = (DXYArea['date'] - first_day).dt.days
     return DXYArea
 
 def split_train_test_by_date(df: pandas.core.frame.DataFrame):
@@ -34,18 +34,18 @@ def split_train_test_by_date(df: pandas.core.frame.DataFrame):
     Separate Train and Test dataset in time series
     """
     # we use the last 3 days as test data
-    split_date = df['updateDate'].max() - datetime.timedelta(days=2)
+    split_date = df['date'].max() - datetime.timedelta(days=2)
     
     ## Separate Train and Test dataset
-    Train = df[df['updateDate'] < split_date]
-    Test = df[df['updateDate'] >= split_date]
+    Train = df[df['date'] < split_date]
+    Test = df[df['date'] >= split_date]
     print("Train dataset: data before {} \nTest dataset: the last 3 days".format(split_date))
     
     return Train, Test
 
 def data_processing(df):
 
-    overall_df = pd.DataFrame(df.groupby(['updateDate']).agg({'confirmed': "sum",
+    overall_df = pd.DataFrame(df.groupby(['date']).agg({'confirmed': "sum",
                                                                 'cured': "sum",
                                                                 'dead': 'sum',
                                                                 'Days': 'mean'})).reset_index()
@@ -64,7 +64,7 @@ def data_processing(df):
 def tsplot_conf_dead_cured(df, title_prefix, figsize=(13,10), fontsize=18, logy=False):
     fig = plt.figure()
     ax1 = fig.add_subplot(211)
-    plot_df = df.groupby('updateDate').agg('sum')
+    plot_df = df.groupby('date').agg('sum')
     plot_df.plot(y=['confirmed'], style='-*', ax=ax1, grid=True, figsize=figsize, logy=logy, color='black', marker='o')
     if logy:
         ax1.set_ylabel("log(confirmed)", color="black", fontsize=14)
@@ -84,14 +84,14 @@ def draw_province_trend(title_prefix: str, df: pandas.core.frame.DataFrame):
     """
     df is the daily dataset from DXY
     """
-    sub_df = df[df['provinceName'] == title_prefix]
+    sub_df = df[df['province'] == title_prefix]
     tsplot_conf_dead_cured(sub_df, title_prefix)
     
 def draw_city_trend(title_prefix: str, df: pandas.core.frame.DataFrame):
     """
     df is the daily dataset from DXY
     """
-    sub_df = df[df['cityName'] == title_prefix]
+    sub_df = df[df['city'] == title_prefix]
     tsplot_conf_dead_cured(sub_df, title_prefix)
 
 
@@ -119,7 +119,7 @@ def draw_fit_plot(degree: int, area: str, X_train, X_test, y_train, y_test, y_tr
     plt.ylabel('Confirmed cases')
     plt.xlabel('2020 Date')
     
-    datemin = df['updateDate'].min()
+    datemin = df['date'].min()
     numdays = len(X_train) + len(X_test)
     labels = list((datemin + datetime.timedelta(days=x)).strftime('%m-%d') for x in range(numdays))
     
