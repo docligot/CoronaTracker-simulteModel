@@ -15,6 +15,8 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import pickle as pkl
 import numpy as np
+import pandas
+import datetime
 import math
 import os
 import warnings
@@ -33,6 +35,22 @@ with open('chineseCity_to_EN.pkl','rb') as f:
 
 def isNaN(num):
     return num != num
+
+def add_days(DXYArea: pd.core.frame.DataFrame) -> pd.core.frame.DataFrame:
+    """
+    Create a new column: Days, number of days after 2019-12-08 (detect the first case)
+    """
+    DXYArea['date'] = pd.to_datetime(DXYArea['date'])
+    first_day = datetime.datetime(2019, 12, 8) # the time when detected the first case (2019-12-08)
+    DXYArea['Days'] = (DXYArea['date'] - first_day).dt.days
+    return DXYArea
+
+def add_net_confirmed_case(DXYArea: pd.core.frame.DataFrame)-> pd.core.frame.DataFrame:
+    """
+    Add net confirmed case = confirmed - cured - dead
+    """
+    DXYArea['net_confirmed'] = DXYArea['confirmed'] - DXYArea['cured'] - DXYArea['dead']
+    return DXYArea
 
 
         
@@ -69,6 +87,10 @@ def main():
     DXYArea = DXYArea[['date','country','countryCode','province', 'city', 'confirmed', 'suspected', 'cured', 'dead']]
     
     daily_frm_DXYArea = translate_to_English(DXYArea, prov_dict, city_dict)
+    
+    # add new columns
+    daily_frm_DXYArea = add_days(daily_frm_DXYArea)  # add the number of days after 2019-12-08
+    daily_frm_DXYArea = add_net_confirmed_case(daily_frm_DXYArea) # add net confirmed case
     
     print("Save area daily dataset (English) into ../data/DXYArea.csv")
     
