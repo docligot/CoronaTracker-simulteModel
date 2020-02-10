@@ -17,6 +17,23 @@ from sklearn.preprocessing import PolynomialFeatures
 import warnings
 warnings.filterwarnings('ignore')
 
+########################
+## dataset help function
+########################
+
+def get_province_df(df, provinceName: str) -> pandas.core.frame.DataFrame:
+    """
+    Return time series data of given province
+    """
+    return df[(df['province']==provinceName) & (df['city'].isnull())]
+
+
+def get_China_total(df) -> pandas.core.frame.DataFrame:
+    """
+    Return time series data of China total (including HK and Taiwan)
+    """
+    return df[(df['countryCode']=='CN') & (df['province'].isnull())]
+
 ##################
 ## Clean data
 ##################
