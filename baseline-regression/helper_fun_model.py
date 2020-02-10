@@ -37,36 +37,28 @@ def get_China_total(df) -> pandas.core.frame.DataFrame:
 ##################
 ## Clean data
 ##################
-def add_days(DXYArea: pandas.core.frame.DataFrame) -> pandas.core.frame.DataFrame:
-    """
-    Create a new column: Days, number of days after 2019-12-08 (detect the first case)
-    """
-    DXYArea['date'] = pd.to_datetime(DXYArea['date'])
-    first_day = datetime.datetime(2019, 12, 8) # the time when detected the first case (2019-12-08)
-    DXYArea['Days'] = (DXYArea['date'] - first_day).dt.days
-    return DXYArea
 
-def split_train_test_by_date(df: pandas.core.frame.DataFrame):
+def split_train_test_by_date(df: pandas.core.frame.DataFrame, ndays = 3):  ## parameterized split range
     """
     Separate Train and Test dataset in time series
     """
     # we use the last 3 days as test data
-    split_date = df['date'].max() - datetime.timedelta(days=2)
+    split_date = df['date'].max() - datetime.timedelta(days=ndays)
     
     ## Separate Train and Test dataset
     Train = df[df['date'] < split_date]
     Test = df[df['date'] >= split_date]
-    print("Train dataset: data before {} \nTest dataset: the last 3 days".format(split_date))
+    print("Train dataset: data before {} \nTest dataset: the last {} days".format(split_date, ndays))
     
     return Train, Test
 
-def data_processing(df):
+def data_processing(df, ndays = 3):
 
     overall_df = pd.DataFrame(df.groupby(['date']).agg({'confirmed': "sum",
                                                                 'cured': "sum",
                                                                 'dead': 'sum',
                                                                 'Days': 'mean'})).reset_index()
-    Train, Test = split_train_test_by_date(overall_df)
+    Train, Test = split_train_test_by_date(overall_df, ndays)
 
     X_train = Train['Days']
     y_train = Train['confirmed']
@@ -206,7 +198,7 @@ def forecast_next_4_days(degree: int, area:str, df: pandas.core.frame.DataFrame)
     X_test = [df['Days'].max() + 1, df['Days'].max() + 2, df['Days'].max() + 3, df['Days'].max() + 4]
     y_test = []
     
-    create_polynomial_regression_model(2, area, df, X_train, X_test, y_train, y_test, draw_plot = True)
+    create_polynomial_regression_model(degree, area, df, X_train, X_test, y_train, y_test, draw_plot = True)
     
     
 

@@ -1,4 +1,4 @@
-## Real-time data query and Save to csv
+## Real-time data query and save to csv
 
 * Reference from repo https://github.com/canghailan/Wuhan-2019-nCoV
 
@@ -19,7 +19,9 @@
 * The `confirmed cases` is cumulative number, including both death or healed cases. So it shouldn't decrease. However, there are some cities or provinces have decreased confirmed cases in some time point, based on the _real time query_ result, to see the detailed cases, please open and run **`Incorrect_confirmed_cases.ipynb`**. 
   * Based on the plots inside `Incorrect_confirmed_cases.ipynb`, the data looks correct after 01 Feb 2020. (China's governmemnt made adjustments, mainly in city-level before 07 Feb)
   
-
+* Added columns:
+  * `net_confirmed` = confirmed - cured - dead
+  * `Days`: number of days after 2019-12-08 (detect the first case)
 
 ### Usage
 See `DXY_AreaData_query.ipynb` or
