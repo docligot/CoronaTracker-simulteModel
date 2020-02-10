@@ -1,3 +1,5 @@
+## Real-time data query and Save to csv
+
 * Reference from repo https://github.com/canghailan/Wuhan-2019-nCoV
 
 
@@ -5,7 +7,7 @@
 
 * dataset.py: Utility functions
   * Regional data (DXYArea.csv) contains all the city-level data. Data from Hong Kong SAR, Macao SAR, Tai Wan and Tibet are province-level, not city-level data.
-  * Include other countries data
+  * Include data of other countries.
   * The data **before 2020-02-07** are collect from other resource (published paper and the official report of CCDI). The data after 2020-02-07 are real-time query from https://i.snssdk.com/forum/home/v1/info/?forum_id=1656784762444839. 
   * The number of `province total` is when city is None. see `get_province_df` function below
   * The number of `China total` is when province is None. see `get_province_df` function below. **Suggest using data after 2020-01-14**. 
@@ -14,7 +16,7 @@
   * If so, trust province-level data. 
   * Because time-delay or unknown region resource. 
 
-* The `confirmed cases` is cumulative number, including both death or healed cases. So it shouldn't decrease. However, there are some cities or provnce can have decreased confirmed cases in some time point, based on the _real time query_ result, to see the detailed cases, please open and run **`Incorrect_confirmed_cases.ipynb`**. 
+* The `confirmed cases` is cumulative number, including both death or healed cases. So it shouldn't decrease. However, there are some cities or provinces have decreased confirmed cases in some time point, based on the _real time query_ result, to see the detailed cases, please open and run **`Incorrect_confirmed_cases.ipynb`**. 
   * Based on the plots inside `Incorrect_confirmed_cases.ipynb`, the data looks correct after 01 Feb 2020. (China's governmemnt made adjustments, mainly in city-level before 07 Feb)
   
 
