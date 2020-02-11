@@ -12,7 +12,10 @@ import pandas
 import datetime
 import matplotlib.dates as mdates
 from sklearn.linear_model import LinearRegression
+from sklearn.metrics import mean_absolute_error
 from sklearn.metrics import mean_squared_error, r2_score
+from sklearn.metrics import mean_absolute_error
+from sklearn.linear_model import Ridge, RidgeCV, ElasticNet, LassoCV, LassoLarsCV, LinearRegression, ElasticNetCV
 from sklearn.preprocessing import PolynomialFeatures
 import warnings
 warnings.filterwarnings('ignore')
@@ -103,6 +106,16 @@ def draw_city_trend(title_prefix: str, df: pandas.core.frame.DataFrame):
     sub_df = df[df['city'] == title_prefix]
     tsplot_conf_dead_cured(sub_df, title_prefix)
 
+##################
+###      feature engineering
+##################
+
+def feature_engineering(df:pandas.core.frame.DataFrame, features_to_engineer):
+    for feature in features_to_engineer:
+        df[f'{feature}_lag1'] = df[f'{feature}'].shift()
+        df[f'{feature}_lag1'].fillna(0, inplace = True)
+    return df
+    
 
 ###################
 ##  Modelling
@@ -169,16 +182,20 @@ def create_polynomial_regression_model(degree:int, area:str, df,
     # evaluating the model on training dataset
     rmse_train = np.sqrt(mean_squared_error(y_train, y_train_predicted))
     r2_train = r2_score(y_train, y_train_predicted)
+    mape_train = np.mean(np.abs((y_train-y_train_predicted))/np.abs(y_train)) 
     print("Degree {}:".format(degree))
     print("RMSE of training set is {}".format(rmse_train))
-    print("R2 score of training set is {}\n".format(r2_train))
+    print("R2 score of training set is {}".format(r2_train))
+    print("MAPE of training set is {}\n".format(mape_train))
     
     if len(y_test)>0:
         # evaluating the model on test dataset
         rmse_test = np.sqrt(mean_squared_error(y_test, y_test_predict))
         r2_test = r2_score(y_test, y_test_predict)
+        mape_test = np.mean(np.abs((y_test-y_test_predict))/np.abs(y_test))
         print("RMSE of test set is {}".format(rmse_test))
         print("R2 score of test set is {}".format(r2_test))
+        print("MAPE of test set is {}".format(mape_test))
         
     print('---------------------------------------\n')
     
@@ -201,6 +218,44 @@ def forecast_next_4_days(degree: int, area:str, df: pandas.core.frame.DataFrame)
     create_polynomial_regression_model(degree, area, df, X_train, X_test, y_train, y_test, draw_plot = True)
     
     
+#############################
+###  model selection
+#############################
 
+
+def rmse_cv_train(model):
+    rmse= np.sqrt(-cross_val_score(model, X_train, y_train, scoring="neg_mean_squared_error", cv = 5))
+    return(rmse)
+
+def rmse_cv_test(model):
+    rmse= np.sqrt(-cross_val_score(model, X_test, y_test, scoring="neg_mean_squared_error", cv = 5))
+    return(rmse)
+
+def mae_cv_train(model):
+    mae= -cross_val_score(model, X_train, y_train, scoring="neg_mean_absolute_error", cv = 5)
+    return(mae)
+
+def mae_cv_test(model):
+    mae= -cross_val_score(model, X_test, y_test, scoring="neg_mean_absolute_error", cv = 5)
+    return(mae)
+
+def mape_no_cv(model, X, y):
+    y_pred = model.predict(X)
+    mape = np.abs((y-y_pred))/np.abs(y) # Check this definition
+    return np.mean(mape)
+    
+def mae_no_cv(model, X, y):
+    y_pred = model.predict(X)
+    return mean_absolute_error(y, y_pred) # Check the order of the inputs here
+
+def r2_no_cv(model, X, y):
+    y_pred = model.predict(X)
+    return r2_score(y, y_pred)
+
+def get_validation_score(model, X, y):
+    print("Linear Regression MAPE on Validation set :", mape_no_cv(model, X, y))
+    print("Linear Regression MAE on Validation set :", mae_no_cv(model, X, y))
+    print("Linear Regression R2 on Validation set :", r2_no_cv(model, X, y))
+    
 
     
