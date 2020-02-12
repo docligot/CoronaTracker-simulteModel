@@ -145,6 +145,7 @@ df["city"] = df.apply(
 df.drop_duplicates(
     subset=["date", "country", "province", "city"], keep="last", inplace=True)
 df.sort_values(["date", "countryCode", "provinceCode", "cityCode", "city"], inplace=True)
+
 df.to_csv(csv_file, index=False, encoding='utf-8')
 
 print(f"""{datetime.now().strftime("%Y-%m-%d %H:%M:%S")}Update records successfully to ../data/DXY_Chinese.csv""")
