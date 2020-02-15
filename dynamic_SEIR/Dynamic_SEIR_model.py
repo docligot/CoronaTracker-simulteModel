@@ -1,6 +1,6 @@
-## SIR model
+## SEIR model
 ## Author: Yran Jing
-## Date: 2020-02-03
+## Date: 2020-02
 
 import pandas as pd
 import numpy as np
@@ -44,11 +44,12 @@ class Train_Dynamic_SEIR:
         self.E_pre = []; 
         self.I_pre = []; 
         self.R_pre = [];
+        self.past_days = data['Days'].min() # count the number of days before the first traning point
         
         # other parameters within SEIR model
-        self.c = 5; # intial guess
-        self.b = -10; # intial guess
-        self.alpha = 0.3; # intial guess
+        self.c = 1; # intial guess
+        self.b = -3; # intial guess
+        self.alpha = 0.1; # intial guess
         self.rateSI = self._calculate_beta(c = self.c, t = 0, b = self.b, alpha = self.alpha) # intial guess
         self.rateIR = rateIR
         self.rateAl = rateAl
@@ -57,6 +58,7 @@ class Train_Dynamic_SEIR:
         self.estimation = None 
         self.modelRun = False
         self.loss = None
+        self.betalist = []
 
     
     def _calculate_beta(self, c: float, t: int, alpha: float, b: float):
@@ -70,10 +72,7 @@ class Train_Dynamic_SEIR:
         loss = sqrt (sum of squared loss)
         """
         return mean_squared_error(self.Infected, self.I_pre)
-        #loss_sum = 0;
-        #for t in range(self.steps):
-            #loss_sum += pow(self.Infected[t] - self.I_pre[t], 2);
-        #return sqrt(loss_sum)
+        
         
     def _calculate_MAPE(self):
         """
@@ -84,14 +83,23 @@ class Train_Dynamic_SEIR:
         mape = np.abs((y-y_pred))/np.abs(y)
         return np.mean(mape)
     
+    def _calculate_MAPE_last_5_days(self):
+        """
+        Calcualte MAPE between estimated value and fitted value in the last 5 days, same as the test set of baseline
+        """
+        y = np.array(self.Infected[-5:])
+        y_pred = np.array(self.I_pre[-5:])
+        mape = np.abs((y-y_pred))/np.abs(y)
+        return np.mean(mape)
+    
     def _update(self):
         """
         try to find (global mini parameter)
         """
         E =  2.71828182846
         alpha_eta  = 0.000000000000001;
-        b_eta = 0.0000000001;
-        c_eta = 0.000000000001;
+        b_eta = 0.00000000001;
+        c_eta = 0.0000000000001;
         alpha_temp=0.0;
         c_temp=0.0;
         b_temp =0.0;
@@ -105,7 +113,7 @@ class Train_Dynamic_SEIR:
             
             #loss_to_beta = 2*(formula2 - self.Infected[t])*(formula2*self.Susceptible[t]*t)/self.numIndividuals
             
-            # use china rule to calculate partial derivative
+            # use chain rule to calculate partial derivative
             beta_to_alpha = -self.c*pow(formula1,2)*(t + self.b)*(formula3 -1)*pow((1+formula1),-3)
             beta_to_b = -self.c*pow(formula1,2)*self.alpha*(formula3 -1)*pow((1+formula1),-3)
             beta_to_c = formula1*pow((1+formula1),-2)
@@ -132,7 +140,7 @@ class Train_Dynamic_SEIR:
         for e in range(self.epoch):
             # prediction list
             self.S_pre = []; self.E_pre = []; self.I_pre = []; self.R_pre = [];
-         
+            
             # make prediction step by step
             for t in range(0, self.steps):
                 if t == 0:
@@ -140,9 +148,22 @@ class Train_Dynamic_SEIR:
                     self.E_pre.append(self.Exposed[0])
                     self.I_pre.append(self.Infected[0])
                     self.R_pre.append(self.Resistant[0])
+                    
+                    # collect the optimal fitted beta
+                    if e == (self.epoch - 1):
+                        self.rateSI = self._calculate_beta(c = self.c, t = t, b = self.b, 
+                                                       alpha = self.alpha)
+                        self.betalist.append(self.rateSI)
+                        print(self.rateSI)
                 
                 else:
-                    self.rateSI = self._calculate_beta(c = self.c, t = t, b = self.b, alpha = self.alpha)
+                    self.rateSI = self._calculate_beta(c = self.c, t = t, b = self.b, 
+                                                       alpha = self.alpha)
+                    #print(self.rateSI)
+                    # collect the optimal fitted beta
+                    if e == (self.epoch - 1):
+                        self.betalist.append(self.rateSI)
+                        
                     # apply real-time data into SEIR formula
                     S_to_E = (self.rateSI * self.Susceptible[t] * self.Infected[t]) / self.numIndividuals
                     E_to_I = (self.rateAl * self.Exposed[t])
@@ -160,24 +181,43 @@ class Train_Dynamic_SEIR:
                 orient='index').transpose()
                     self.loss = self._calculate_loss()
                     MAPE = self._calculate_MAPE()
+                    MAPEtest = self._calculate_MAPE_last_5_days()
                     print("The loss in is {}".format(self.loss))
-                    print("The MAPE in is {}".format(MAPE))
-                    print("Optimial beta is {}".format(self.rateSI))
+                    print("The MAPE in the whole period is {}".format(MAPE))
+                    print("The MAPE in the last 5 days is {}".format(MAPEtest))
+                    #print("Optimial beta is {}".format(self.rateSI))
             
             ## calculate loss in each iteration
             self.loss = self._calculate_loss()
-            # calculate MAPE
             
             #print("The loss in iteration {} is {}".format(e, self.loss))
             #print("Current beta is {}".format(self.rateSI))  
             
-            ## do ML calculation
+            ## do beta optimation
             self._update()
             
         return self.estimation # the lastest estimation 
     
+    def plot_fitted_beta_R0(self, real_obs: pandas.core.frame.DataFrame):
+        fig, ax = plt.subplots(figsize=(15,6))
+        plt.plot(self.estimation['Time'], self.betalist, color='green')
+        Rlist = [x / self.rateIR for x in self.betalist] # transmissibility over time
+        plt.plot(self.estimation['Time'], Rlist, color='blue')
+        
+        # set x tricks
+        datemin = real_obs['date'].min()
+        numdays = len(real_obs) 
+        labels = list((datemin + datetime.timedelta(days=x)).strftime('%m-%d') for x in range(numdays))
+        plt.xticks(list(range(numdays)), labels, rotation=90,fontsize = 10)
+        plt.xlabel('2020 Date')
+        plt.ylabel('Rate')
+        plt.title('Fitted Dynamic Contact Rate and Transmissibility of COVID-19 over time', fontsize = 20)
+        plt.legend(['Contact Rate', 'Transmissibility'], prop={'size': 12}, bbox_to_anchor=(0.5, 1.02), 
+           ncol=2, fancybox=True, shadow=True)
+        plt.show()
+         
     def plot_fitted_result(self, real_obs: pandas.core.frame.DataFrame):
-        fig, ax = plt.subplots(figsize=(10,6))
+        fig, ax = plt.subplots(figsize=(15,6))
         plt.plot(self.estimation['Time'], self.estimation['Estimated_Infected'], color='green')
         plt.plot(self.estimation['Time'], real_obs['I'], color='y')
         plt.plot(self.estimation['Time'], self.estimation['Estimated_Exposed'], color='blue')
@@ -187,14 +227,13 @@ class Train_Dynamic_SEIR:
         datemin = real_obs['date'].min()
         numdays = len(real_obs) 
         labels = list((datemin + datetime.timedelta(days=x)).strftime('%m-%d') for x in range(numdays))
-        plt.xticks(list(range(numdays)), labels, rotation=60)
+        plt.xticks(list(range(numdays)), labels, rotation=90, fontsize = 10)
         plt.xlabel('2020 Date')
         plt.ylabel('Population')
         plt.title('Fitted value by Dynamic SEIR model', fontsize = 20)
         plt.legend(['Estimated Infected','Real Infected', 'Estimated_Exposed', 'Real Exposed'], prop={'size': 12}, bbox_to_anchor=(0.5, 1.02), 
            ncol=4, fancybox=True, shadow=True)
         plt.show()
-    
 
     
 class dynamic_SEIR:
@@ -209,7 +248,7 @@ class dynamic_SEIR:
     'rateAl' (base rate of isolation 'altha', from E to I, default 0.1)
     """
     def __init__(self, eons=1000, Susceptible=950, Exposed = 100, Infected=50, Resistant=0, rateIR=0.01, rateAl = 0.1,
-                 alpha = 0.3, c = 5, b = -10):
+                 alpha = 0.3, c = 5, b = -10, past_days = 30):
         self.eons = eons # number of prediction days
         self.Susceptible = Susceptible
         self.Exposed = Exposed
@@ -222,14 +261,16 @@ class dynamic_SEIR:
         self.alpha = alpha
         self.c = c
         self.b = b
+        self.past_days = past_days # make prediction since the last observation
         self.results = None
         self.modelRun = False
         
-    def _calculate_beta(self, c: float, t: int, alpha: float, b: float):
+    def _calculate_beta(self, c: float, t: int, alpha: float, b: float, past_days:int):
         """
         calculate beta based on some function
         """
-        return c*exp(-alpha*(t+b))*pow((1 + exp(-alpha*(t+b))),-2)
+        t = t + past_days
+        return c*exp(-alpha*(t+b))*pow((1 + exp(-alpha*(t+b))),-2) 
 
     def run(self, death_rate):
         Susceptible = [self.Susceptible]
@@ -238,7 +279,8 @@ class dynamic_SEIR:
         Resistant = [self.Resistant]
 
         for i in range(1, self.eons): # number of prediction days
-            self.rateSI = self._calculate_beta(c = self.c, t = i, b = self.b, alpha = self.alpha)
+            self.rateSI = self._calculate_beta(c = self.c, t = i, b = self.b, 
+                                               alpha = self.alpha, past_days = self.past_days)
             #print(self.rateSI)
             S_to_E = (self.rateSI * Susceptible[-1] * Infected[-1]) / self.numIndividuals
             E_to_I = (self.rateAl * Exposed[-1])

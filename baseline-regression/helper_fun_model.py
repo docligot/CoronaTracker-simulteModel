@@ -37,6 +37,24 @@ def get_China_total(df) -> pandas.core.frame.DataFrame:
     """
     return df[(df['countryCode']=='CN') & (df['province'].isnull())]
 
+def get_China_exclude_province(df, provinceName: str)-> pandas.core.frame.DataFrame:
+    """
+    Return time series data of China total exclude the given province
+    """
+    Hubei= get_province_df(df, provinceName)
+    China_total = get_China_total(df)
+    
+    NotHubei = China_total.reset_index(drop= True)
+    Hubei = Hubei.reset_index(drop= True)
+    NotHubei['suspected'] = NotHubei['suspected'] - Hubei['suspected']
+    NotHubei['cured'] = NotHubei['cured'] - Hubei['cured']
+    NotHubei['dead'] = NotHubei['dead'] - Hubei['dead']
+    NotHubei['confirmed'] = NotHubei['confirmed'] - Hubei['confirmed']
+    
+    return NotHubei
+
+
+
 ##################
 ## Clean data
 ##################
