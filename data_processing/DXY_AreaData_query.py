@@ -4,9 +4,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Feb  8 12:41:50 2020
-
 @author: leebond
-
 resource: https://github.com/jianxu305/nCov2019_analysis
 """
 
@@ -92,7 +90,10 @@ def main():
     daily_frm_DXYArea = add_days(daily_frm_DXYArea)  # add the number of days after 2019-12-08
     daily_frm_DXYArea = add_net_confirmed_case(daily_frm_DXYArea) # add net confirmed case
     
+    daily_frm_DXYArea.to_csv ('../data/DXYArea.csv', index = None, header=True)
+    
     print("Save area daily dataset (English) into ../data/DXYArea.csv")
     
 if __name__ == '__main__':
     main()
+    
