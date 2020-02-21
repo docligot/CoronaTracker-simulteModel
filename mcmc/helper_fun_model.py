@@ -32,6 +32,14 @@ def get_China_total(df) -> pandas.core.frame.DataFrame:
     """
     return df[(df['countryCode']=='CN') & (df['province'].isnull())]
 
+
+def get_China_exhubei(df) -> pandas.core.frame.DataFrame:
+    """
+    Return time series data of China total (including HK and Taiwan)
+    """
+    return df[(df['countryCode']=='CN') & (df['province']!='Hubei Province') & ~(df['province'].isnull()) \
+              & ~(df['city'].isnull())]
+
 ##################
 ## Clean data
 ##################
