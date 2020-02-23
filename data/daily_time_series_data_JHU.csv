@@ -1,1 +1,2027 @@
-Province,Country,Date,Confirmed,Deaths,RecoveredAnhui,China,22/01/20,1,0,0Beijing,China,22/01/20,14,0,0Chongqing,China,22/01/20,6,0,0Fujian,China,22/01/20,1,0,0Gansu,China,22/01/20,0,0,0Guangdong,China,22/01/20,26,0,0Guangxi,China,22/01/20,2,0,0Guizhou,China,22/01/20,1,0,0Hainan,China,22/01/20,4,0,0Hebei,China,22/01/20,1,0,0Heilongjiang,China,22/01/20,0,0,0Henan,China,22/01/20,5,0,0Hong Kong,Hong Kong,22/01/20,0,0,0Hubei,China,22/01/20,444,17,28Hunan,China,22/01/20,4,0,0Inner Mongolia,China,22/01/20,0,0,0Jiangsu,China,22/01/20,1,0,0Jiangxi,China,22/01/20,2,0,0Jilin,China,22/01/20,0,0,0Liaoning,China,22/01/20,2,0,0Macau,Macau,22/01/20,1,0,0Ningxia,China,22/01/20,1,0,0Qinghai,China,22/01/20,0,0,0Shaanxi,China,22/01/20,0,0,0Shandong,China,22/01/20,2,0,0Shanghai,China,22/01/20,9,0,0Shanxi,China,22/01/20,1,0,0Sichuan,China,22/01/20,5,0,0Taiwan,Taiwan,22/01/20,1,0,0Tianjin,China,22/01/20,4,0,0Tibet,China,22/01/20,0,0,0Washington,United States,22/01/20,1,0,0Xinjiang,China,22/01/20,0,0,0Yunnan,China,22/01/20,1,0,0Zhejiang,China,22/01/20,10,0,0,Japan,22/01/20,2,0,0,Thailand,22/01/20,2,0,0,South Korea,22/01/20,1,0,0Anhui,China,23/01/20,9,0,0Beijing,China,23/01/20,22,0,0Chongqing,China,23/01/20,9,0,0Fujian,China,23/01/20,5,0,0Gansu,China,23/01/20,2,0,0Guangdong,China,23/01/20,32,0,2Guangxi,China,23/01/20,5,0,0Guizhou,China,23/01/20,3,0,0Hainan,China,23/01/20,5,0,0Hebei,China,23/01/20,1,1,0Heilongjiang,China,23/01/20,2,0,0Henan,China,23/01/20,5,0,0Hong Kong,Hong Kong,23/01/20,2,0,0Hubei,China,23/01/20,444,17,28Hunan,China,23/01/20,9,0,0Inner Mongolia,China,23/01/20,0,0,0Jiangsu,China,23/01/20,5,0,0Jiangxi,China,23/01/20,7,0,0Jilin,China,23/01/20,1,0,0Liaoning,China,23/01/20,3,0,0Macau,Macau,23/01/20,2,0,0Ningxia,China,23/01/20,1,0,0Qinghai,China,23/01/20,0,0,0Shaanxi,China,23/01/20,3,0,0Shandong,China,23/01/20,6,0,0Shanghai,China,23/01/20,16,0,0Shanxi,China,23/01/20,1,0,0Sichuan,China,23/01/20,8,0,0Taiwan,Taiwan,23/01/20,1,0,0Tianjin,China,23/01/20,4,0,0Tibet,China,23/01/20,0,0,0Washington,United States,23/01/20,1,0,0Xinjiang,China,23/01/20,2,0,0Yunnan,China,23/01/20,2,0,0Zhejiang,China,23/01/20,27,0,0,Japan,23/01/20,1,0,0,Thailand,23/01/20,3,0,0,South Korea,23/01/20,1,0,0,Singapore,23/01/20,1,0,0,Philippines,23/01/20,0,0,0,Malaysia,23/01/20,0,0,0,Vietnam,23/01/20,2,0,0,Australia,23/01/20,0,0,0,Mexico,23/01/20,0,0,0,Brazil,23/01/20,0,0,0,Colombia,23/01/20,0,0,0Hubei,China,24/01/20,549,24,31Guangdong,China,24/01/20,53,0,2Zhejiang,China,24/01/20,43,0,1Beijing,China,24/01/20,36,0,1Chongqing,China,24/01/20,27,0,0Hunan,China,24/01/20,24,0,0Guangxi,China,24/01/20,23,0,0Shanghai,China,24/01/20,20,0,1Jiangxi,China,24/01/20,18,0,0Sichuan,China,24/01/20,15,0,0Shandong,China,24/01/20,15,0,0Anhui,China,24/01/20,15,0,0Fujian,China,24/01/20,10,0,0Henan,China,24/01/20,9,0,0Jiangsu,China,24/01/20,9,0,0Hainan,China,24/01/20,8,0,0Tianjin,China,24/01/20,8,0,0Yunnan,China,24/01/20,5,0,0Shaanxi,China,24/01/20,5,0,0Heilongjiang,China,24/01/20,4,1,0Liaoning,China,24/01/20,4,0,0Guizhou,China,24/01/20,3,0,0Jilin,China,24/01/20,3,0,0Taiwan,Taiwan,24/01/20,3,0,0Ningxia,China,24/01/20,2,0,0Hong Kong,Hong Kong,24/01/20,2,0,0Macau,Macau,24/01/20,2,0,0Hebei,China,24/01/20,2,1,0Gansu,China,24/01/20,2,0,0Xinjiang,China,24/01/20,2,0,0Shanxi,China,24/01/20,1,0,0Inner Mongolia,China,24/01/20,1,0,0Qinghai,China,24/01/20,,0,0Washington,United States,24/01/20,1,0,0Chicago,United States,24/01/20,1,0,0,Japan,24/01/20,2,0,0,Thailand,24/01/20,5,0,0,South Korea,24/01/20,2,0,0,Singapore,24/01/20,3,0,0,Vietnam,24/01/20,2,0,0,France,24/01/20,2,0,0Hubei,China,25/01/20,761,40,32Guangdong,China,25/01/20,78,0,2Zhejiang,China,25/01/20,62,0,1Chongqing,China,25/01/20,57,0,0Hunan,China,25/01/20,43,0,0Beijing,China,25/01/20,41,0,2Anhui,China,25/01/20,39,0,0Shanghai,China,25/01/20,33,0,1Henan,China,25/01/20,32,0,0Sichuan,China,25/01/20,28,0,0Shandong,China,25/01/20,27,0,0Guangxi,China,25/01/20,23,0,0Hainan,China,25/01/20,19,0,0Jiangxi,China,25/01/20,18,0,0Fujian,China,25/01/20,18,0,0Jiangsu,China,25/01/20,18,0,1Liaoning,China,25/01/20,17,0,0Shaanxi,China,25/01/20,15,0,0Yunnan,China,25/01/20,11,0,0Tianjin,China,25/01/20,10,0,0Heilongjiang,China,25/01/20,9,1,0Hebei,China,25/01/20,8,1,0Inner Mongolia,China,25/01/20,7,0,0Shanxi,China,25/01/20,6,0,0Hong Kong,Hong Kong,25/01/20,5,0,0Guizhou,China,25/01/20,4,0,0Jilin,China,25/01/20,4,0,0Gansu,China,25/01/20,4,0,0Ningxia,China,25/01/20,3,0,0Taiwan,Taiwan,25/01/20,3,0,0Xinjiang,China,25/01/20,3,0,0Macau,Macau,25/01/20,2,0,0Qinghai,China,25/01/20,1,0,0Washington,United States,25/01/20,1,0,0Illinois,United States,25/01/20,1,0,0,Japan,25/01/20,2,0,0,Thailand,25/01/20,7,0,0,South Korea,25/01/20,2,0,0,Singapore,25/01/20,3,0,0,Vietnam,25/01/20,2,0,0,France,25/01/20,3,0,0,Australia,25/01/20,4,0,0,Nepal,25/01/20,1,0,0,Malaysia,25/01/20,3,0,0Hubei,China,26/01/20,1058,52,42Guangdong,China,26/01/20,111,0,2Zhejiang,China,26/01/20,104,0,1Henan,China,26/01/20,83,1,0Chongqing,China,26/01/20,75,0,0Hunan,China,26/01/20,69,0,0Beijing,China,26/01/20,68,0,2Anhui,China,26/01/20,60,0,0Shandong,China,26/01/20,46,0,0Sichuan,China,26/01/20,44,0,0Shanghai,China,26/01/20,40,1,1Guangxi,China,26/01/20,36,0,0Jiangxi,China,26/01/20,36,0,0Fujian,China,26/01/20,35,0,0Jiangsu,China,26/01/20,33,0,1Hainan,China,26/01/20,22,0,0Shaanxi,China,26/01/20,22,0,0Liaoning,China,26/01/20,21,0,0Yunnan,China,26/01/20,16,0,0Heilongjiang,China,26/01/20,15,1,0Tianjin,China,26/01/20,14,0,0Hebei,China,26/01/20,13,1,0Shanxi,China,26/01/20,9,0,0Hong Kong,Hong Kong,26/01/20,8,0,0Inner Mongolia,China,26/01/20,7,0,0Gansu,China,26/01/20,7,0,0Guizhou,China,26/01/20,5,0,0Macau,Macau,26/01/20,5,0,0Ningxia,China,26/01/20,4,0,0Jilin,China,26/01/20,4,0,0Taiwan,Taiwan,26/01/20,4,0,0Xinjiang,China,26/01/20,4,0,0Qinghai,China,26/01/20,1,0,0Washington,United States,26/01/20,1,0,0Illinois,United States,26/01/20,1,0,0California,United States,26/01/20,2,0,0Arizona,United States,26/01/20,1,0,0,Japan,26/01/20,4,0,1,Thailand,26/01/20,8,0,2,South Korea,26/01/20,3,0,0,Singapore,26/01/20,4,0,0,Vietnam,26/01/20,2,0,0,France,26/01/20,3,0,0,Australia,26/01/20,4,0,0,Nepal,26/01/20,1,0,0,Malaysia,26/01/20,4,0,0Ontario,Canada,26/01/20,1,0,0Hubei,China,27/01/20,1423,76,45Guangdong,China,27/01/20,151,0,4Zhejiang,China,27/01/20,128,0,1Henan,China,27/01/20,128,1,0Chongqing,China,27/01/20,110,0,0Hunan,China,27/01/20,100,0,0Beijing,China,27/01/20,80,1,2Shandong,China,27/01/20,75,0,0Jiangxi,China,27/01/20,72,0,2Anhui,China,27/01/20,70,0,0Sichuan,China,27/01/20,69,0,0Fujian,China,27/01/20,59,0,0Shanghai,China,27/01/20,53,1,3Jiangsu,China,27/01/20,47,0,1Guangxi,China,27/01/20,46,0,0Shaanxi,China,27/01/20,35,0,0Hainan,China,27/01/20,33,1,0Liaoning,China,27/01/20,27,0,0Yunnan,China,27/01/20,26,0,0Tianjin,China,27/01/20,23,0,0Heilongjiang,China,27/01/20,21,1,0Hebei,China,27/01/20,18,1,0Gansu,China,27/01/20,14,0,0Shanxi,China,27/01/20,13,0,0Inner Mongolia,China,27/01/20,11,0,0Hong Kong,Hong Kong,27/01/20,8,0,0Guizhou,China,27/01/20,7,0,0Ningxia,China,27/01/20,7,0,0Jilin,China,27/01/20,6,0,0Macau,Macau,27/01/20,6,0,0Qinghai,China,27/01/20,6,0,0Taiwan,Taiwan,27/01/20,5,0,0Xinjiang,China,27/01/20,5,0,0Washington,United States,27/01/20,1,0,0Illinois,United States,27/01/20,1,0,0California,United States,27/01/20,2,0,0Arizona,United States,27/01/20,1,0,0,Japan,27/01/20,4,0,1,Thailand,27/01/20,8,0,2,South Korea,27/01/20,4,0,0,Singapore,27/01/20,5,0,0,Vietnam,27/01/20,2,0,0,France,27/01/20,3,0,0,Nepal,27/01/20,1,0,0,Malaysia,27/01/20,4,0,0Ontario,Canada,27/01/20,1,0,0,Cambodia,27/01/20,1,0,0,Sri Lanka,27/01/20,1,0,0,Ivory Coast,27/01/20,1,0,0New South Wales,Australia,27/01/20,4,0,0Victoria,Australia,27/01/20,1,0,0Hubei,China,28/01/20,3554,125,80Guangdong,China,28/01/20,207,0,4Zhejiang,China,28/01/20,173,0,3Henan,China,28/01/20,168,1,0Hunan,China,28/01/20,143,0,0Chongqing,China,28/01/20,132,0,0Jiangxi,China,28/01/20,109,0,3Anhui,China,28/01/20,106,0,0Shandong,China,28/01/20,95,0,0Beijing,China,28/01/20,91,1,4Sichuan,China,28/01/20,90,0,0Fujian,China,28/01/20,80,0,0Jiangsu,China,28/01/20,70,0,1Shanghai,China,28/01/20,66,1,4Guangxi,China,28/01/20,51,0,2Shaanxi,China,28/01/20,46,0,0Yunnan,China,28/01/20,44,0,0Hainan,China,28/01/20,40,1,0Liaoning,China,28/01/20,34,0,0Hebei,China,28/01/20,33,1,0Heilongjiang,China,28/01/20,33,1,0Shanxi,China,28/01/20,27,0,0Tianjin,China,28/01/20,24,0,0Gansu,China,28/01/20,19,0,0Inner Mongolia,China,28/01/20,15,0,0Ningxia,China,28/01/20,11,0,0Xinjiang,China,28/01/20,10,0,0Guizhou,China,28/01/20,9,0,0Jilin,China,28/01/20,8,0,0Taiwan,Taiwan,28/01/20,8,0,0Hong Kong,Hong Kong,28/01/20,8,0,0Macau,Macau,28/01/20,7,0,0Qinghai,China,28/01/20,6,0,0Washington,United States,28/01/20,1,0,0Illinois,United States,28/01/20,1,0,0California,United States,28/01/20,2,0,0Arizona,United States,28/01/20,1,0,0,Japan,28/01/20,7,0,1,Thailand,28/01/20,14,0,5,South Korea,28/01/20,4,0,0,Singapore,28/01/20,7,0,0,Vietnam,28/01/20,2,0,0,France,28/01/20,4,0,0,Nepal,28/01/20,1,0,0,Malaysia,28/01/20,4,0,0Ontario,Canada,28/01/20,1,0,0British Columbia,Canada,28/01/20,1,0,0,Cambodia,28/01/20,1,0,0,Sri Lanka,28/01/20,1,0,0New South Wales,Australia,28/01/20,4,0,0Victoria,Australia,28/01/20,1,0,0Bavaria,Germany,28/01/20,4,0,0Hubei,China,29/01/20,3554,125,88Zhejiang,China,29/01/20,296,0,3Guangdong,China,29/01/20,277,0,5Hunan,China,29/01/20,221,0,0Henan,China,29/01/20,206,2,1Anhui,China,29/01/20,152,0,2Chongqing,China,29/01/20,147,0,1Shandong,China,29/01/20,130,0,1Beijing,China,29/01/20,111,1,4Jiangxi,China,29/01/20,109,0,3Sichuan,China,29/01/20,108,1,1Jiangsu,China,29/01/20,99,0,1Shanghai,China,29/01/20,96,1,5Fujian,China,29/01/20,84,0,0Guangxi,China,29/01/20,58,0,2Shaanxi,China,29/01/20,56,0,0Yunnan,China,29/01/20,55,0,0Hebei,China,29/01/20,48,1,0Hainan,China,29/01/20,43,1,0Liaoning,China,29/01/20,39,0,1Heilongjiang,China,29/01/20,38,1,0Tianjin,China,29/01/20,27,0,0Shanxi,China,29/01/20,27,0,1Gansu,China,29/01/20,24,0,0Inner Mongolia,China,29/01/20,16,0,0Xinjiang,China,29/01/20,13,0,0Ningxia,China,29/01/20,12,0,0Hong Kong,Hong Kong,29/01/20,10,0,0Guizhou,China,29/01/20,9,0,1Jilin,China,29/01/20,9,0,0Taiwan,Taiwan,29/01/20,8,0,0Macau,Macau,29/01/20,7,0,0Qinghai,China,29/01/20,6,0,0Washington,United States,29/01/20,1,0,0Illinois,United States,29/01/20,1,0,0California,United States,29/01/20,2,0,0Arizona,United States,29/01/20,1,0,0,Japan,29/01/20,7,0,1,Thailand,29/01/20,14,0,5,South Korea,29/01/20,4,0,0,Singapore,29/01/20,7,0,0,Vietnam,29/01/20,2,0,0,France,29/01/20,5,0,0,Nepal,29/01/20,1,0,0,Malaysia,29/01/20,7,0,0Ontario,Canada,29/01/20,1,0,0British Columbia,Canada,29/01/20,1,0,0,Cambodia,29/01/20,1,0,0,Sri Lanka,29/01/20,1,0,0New South Wales,Australia,29/01/20,4,0,0Victoria,Australia,29/01/20,1,0,0Bavaria,Germany,29/01/20,4,0,0,Finland,29/01/20,1,0,0,United Arab Emirates,29/01/20,4,0,0Hubei,China,30/01/20,4903,162,90Zhejiang,China,30/01/20,428,0,4Guangdong,China,30/01/20,354,0,10Henan,China,30/01/20,278,2,2Hunan,China,30/01/20,277,0,2Anhui,China,30/01/20,200,0,2Chongqing,China,30/01/20,182,0,1Jiangxi,China,30/01/20,162,0,5Shandong,China,30/01/20,158,0,1Sichuan,China,30/01/20,142,1,1Jiangsu,China,30/01/20,129,0,1Beijing,China,30/01/20,114,1,4Shanghai,China,30/01/20,112,1,5Fujian,China,30/01/20,101,0,0Guangxi,China,30/01/20,78,0,2Yunnan,China,30/01/20,70,0,0Hebei,China,30/01/20,65,1,0Shaanxi,China,30/01/20,63,0,0Hainan,China,30/01/20,46,1,1Heilongjiang,China,30/01/20,44,2,0Liaoning,China,30/01/20,41,0,1Shanxi,China,30/01/20,35,0,1Tianjin,China,30/01/20,31,0,0Gansu,China,30/01/20,26,0,0Inner Mongolia,China,30/01/20,19,0,0Ningxia,China,30/01/20,17,0,0Jilin,China,30/01/20,14,0,1Xinjiang,China,30/01/20,14,0,0Guizhou,China,30/01/20,12,0,1Hong Kong,Hong Kong,30/01/20,10,0,0Taiwan,Taiwan,30/01/20,9,0,0Qinghai,China,30/01/20,8,0,0Macau,Macau,30/01/20,7,0,0Tibet,China,30/01/20,1,0,0Washington,United States,30/01/20,1,0,0Illinois,United States,30/01/20,1,0,0California,United States,30/01/20,2,0,0Arizona,United States,30/01/20,1,0,0,Japan,30/01/20,11,0,1,Thailand,30/01/20,14,0,5,South Korea,30/01/20,4,0,0,Singapore,30/01/20,10,0,0,Vietnam,30/01/20,2,0,0,France,30/01/20,5,0,0,Nepal,30/01/20,1,0,0,Malaysia,30/01/20,8,0,0Ontario,Canada,30/01/20,2,0,0British Columbia,Canada,30/01/20,1,0,0,Cambodia,30/01/20,1,0,0,Sri Lanka,30/01/20,1,0,0New South Wales,Australia,30/01/20,4,0,2Victoria,Australia,30/01/20,2,0,0Queensland,Australia,30/01/20,3,0,0Bavaria,Germany,30/01/20,4,0,0,Finland,30/01/20,1,0,0,United Arab Emirates,30/01/20,4,0,0,Philippines,30/01/20,1,0,0,India,30/01/20,1,0,0Hubei,China,31/01/20,5806,204,141Zhejiang,China,31/01/20,538,0,14Guangdong,China,31/01/20,436,0,11Henan,China,31/01/20,352,2,3Hunan,China,31/01/20,332,0,2Jiangxi,China,31/01/20,240,0,7Anhui,China,31/01/20,237,0,3Chongqing,China,31/01/20,211,0,1Shandong,China,31/01/20,184,0,2Sichuan,China,31/01/20,177,1,1Jiangsu,China,31/01/20,168,0,5Beijing,China,31/01/20,139,1,5Shanghai,China,31/01/20,135,1,9Fujian,China,31/01/20,120,0,0Guangxi,China,31/01/20,87,0,2Shaanxi,China,31/01/20,87,0,0Yunnan,China,31/01/20,83,0,1Hebei,China,31/01/20,82,1,0Heilongjiang,China,31/01/20,59,2,0Hainan,China,31/01/20,52,1,1Liaoning,China,31/01/20,48,0,1Shanxi,China,31/01/20,39,0,1Tianjin,China,31/01/20,32,0,0Guizhou,China,31/01/20,29,0,2Gansu,China,31/01/20,29,0,0Ningxia,China,31/01/20,21,0,0Inner Mongolia,China,31/01/20,20,0,1Xinjiang,China,31/01/20,17,0,0Jilin,China,31/01/20,14,0,1Hong Kong,Hong Kong,31/01/20,12,0,0Taiwan,Taiwan,31/01/20,10,0,0Qinghai,China,31/01/20,8,0,0Macau,Macau,31/01/20,7,0,0Tibet,China,31/01/20,1,0,0,Thailand,31/01/20,19,0,5,Japan,31/01/20,15,0,1,Singapore,31/01/20,13,0,0,South Korea,31/01/20,11,0,0,Malaysia,31/01/20,8,0,0,France,31/01/20,5,0,0Bavaria,Germany,31/01/20,5,0,0New South Wales,Australia,31/01/20,4,0,2,United Arab Emirates,31/01/20,4,0,0Victoria,Australia,31/01/20,3,0,0Illinois,United States,31/01/20,2,0,0California,United States,31/01/20,2,0,0,Vietnam,31/01/20,2,0,0Ontario,Canada,31/01/20,2,0,0Queensland,Australia,31/01/20,2,0,0,Italy,31/01/20,2,0,0,United Kingdom,31/01/20,2,0,0,RUnited Statessia,31/01/20,2,0,0Washington,United States,31/01/20,1,0,0Arizona,United States,31/01/20,1,0,0,Nepal,31/01/20,1,0,0British Columbia,Canada,31/01/20,1,0,0,Cambodia,31/01/20,1,0,0,Sri Lanka,31/01/20,1,0,0,Finland,31/01/20,1,0,0,Philippines,31/01/20,1,0,0,India,31/01/20,1,0,0,Sweden,31/01/20,1,0,0Hubei,China,01/02/20,7153,249,168Zhejiang,China,01/02/20,599,0,21Guangdong,China,01/02/20,535,0,14Henan,China,01/02/20,422,2,3Hunan,China,01/02/20,389,0,8Anhui,China,01/02/20,297,0,5Jiangxi,China,01/02/20,286,0,9Chongqing,China,01/02/20,247,1,3Sichuan,China,01/02/20,207,1,3Shandong,China,01/02/20,206,0,3Jiangsu,China,01/02/20,202,0,6Shanghai,China,01/02/20,169,1,10Beijing,China,01/02/20,168,1,9Fujian,China,01/02/20,144,0,0Shaanxi,China,01/02/20,101,0,0Guangxi,China,01/02/20,100,0,2Hebei,China,01/02/20,96,1,0Yunnan,China,01/02/20,93,0,2Heilongjiang,China,01/02/20,80,2,2Liaoning,China,01/02/20,64,0,1Hainan,China,01/02/20,62,1,1Shanxi,China,01/02/20,47,0,1Tianjin,China,01/02/20,41,0,0Gansu,China,01/02/20,40,0,0Guizhou,China,01/02/20,29,0,2Ningxia,China,01/02/20,26,0,0Inner Mongolia,China,01/02/20,23,0,1,Japan,01/02/20,20,0,1,Thailand,01/02/20,19,0,5Xinjiang,China,01/02/20,18,0,0Jilin,China,01/02/20,17,0,1,Singapore,01/02/20,16,0,0Hong Kong,Hong Kong,01/02/20,13,0,0,South Korea,01/02/20,12,0,0Taiwan,Taiwan,01/02/20,10,0,0Qinghai,China,01/02/20,9,0,0,Malaysia,01/02/20,8,0,0,Germany,01/02/20,8,0,0Macau,Macau,01/02/20,7,0,0,France,01/02/20,6,0,0,Vietnam,01/02/20,6,0,1New South Wales,Australia,01/02/20,4,0,2Victoria,Australia,01/02/20,4,0,0,United Arab Emirates,01/02/20,4,0,0Queensland,Australia,01/02/20,3,0,0Ontario,Canada,01/02/20,3,0,0,Italy,01/02/20,2,0,0,RUnited Statessia,01/02/20,2,0,0,United Kingdom,01/02/20,2,0,0"Chicago, IL",United States,01/02/20,2,0,0South Australia,Australia,01/02/20,1,0,0,Cambodia,01/02/20,1,0,0British Columbia,Canada,01/02/20,1,0,0,Finland,01/02/20,1,0,0,India,01/02/20,1,0,0Tibet,China,01/02/20,1,0,0,Nepal,01/02/20,1,0,0,Philippines,01/02/20,1,0,0,Spain,01/02/20,1,0,0,Sri Lanka,01/02/20,1,0,0,Sweden,01/02/20,1,0,0"Boston, MA",United States,01/02/20,1,0,0"Los Angeles, CA",United States,01/02/20,1,0,0"Orange, CA",United States,01/02/20,1,0,0"Santa Clara, CA",United States,01/02/20,1,0,0"Seattle, WA",United States,01/02/20,1,0,0"Tempe, AZ",United States,01/02/20,1,0,0Hubei,China,02/02/20,11177,350,295Zhejiang,China,02/02/20,661,0,32Guangdong,China,02/02/20,632,0,15Henan,China,02/02/20,493,2,10Hunan,China,02/02/20,463,0,16Anhui,China,02/02/20,340,0,7Jiangxi,China,02/02/20,333,0,12Chongqing,China,02/02/20,300,2,7Jiangsu,China,02/02/20,236,0,7Sichuan,China,02/02/20,231,1,11Shandong,China,02/02/20,230,0,6Beijing,China,02/02/20,191,1,9Shanghai,China,02/02/20,182,1,10Fujian,China,02/02/20,159,0,0Shaanxi,China,02/02/20,116,0,0Guangxi,China,02/02/20,111,0,2Yunnan,China,02/02/20,105,0,3Hebei,China,02/02/20,104,1,3Heilongjiang,China,02/02/20,95,2,2Liaoning,China,02/02/20,70,0,1Shanxi,China,02/02/20,66,0,3Hainan,China,02/02/20,64,1,4Gansu,China,02/02/20,51,0,3Tianjin,China,02/02/20,48,0,1Guizhou,China,02/02/20,38,0,2Ningxia,China,02/02/20,28,0,0Inner Mongolia,China,02/02/20,27,0,1Jilin,China,02/02/20,23,0,1Xinjiang,China,02/02/20,21,0,0,Japan,02/02/20,20,0,1,Thailand,02/02/20,19,0,5,Singapore,02/02/20,18,0,0Hong Kong,Hong Kong,02/02/20,15,0,0,South Korea,02/02/20,15,0,0Qinghai,China,02/02/20,11,0,0,Germany,02/02/20,10,0,0Taiwan,Taiwan,02/02/20,10,0,0Macau,Macau,02/02/20,8,0,0,Malaysia,02/02/20,8,0,0,France,02/02/20,6,0,0,Vietnam,02/02/20,6,0,1,United Arab Emirates,02/02/20,5,0,0New South Wales,Australia,02/02/20,4,0,2Victoria,Australia,02/02/20,4,0,0Ontario,Canada,02/02/20,3,0,0Queensland,Australia,02/02/20,2,0,0South Australia,Australia,02/02/20,2,0,0,India,02/02/20,2,0,0,Italy,02/02/20,2,0,0,Philippines,02/02/20,2,1,0,RUnited Statessia,02/02/20,2,0,0,United Kingdom,02/02/20,2,0,0"Chicago, IL",United States,02/02/20,2,0,0,Cambodia,02/02/20,1,0,0British Columbia,Canada,02/02/20,1,0,0,Finland,02/02/20,1,0,0Tibet,China,02/02/20,1,0,0,Nepal,02/02/20,1,0,0,Spain,02/02/20,1,0,0,Sri Lanka,02/02/20,1,0,0,Sweden,02/02/20,1,0,0"Boston, MA",United States,02/02/20,1,0,0"Los Angeles, CA",United States,02/02/20,1,0,0"Orange, CA",United States,02/02/20,1,0,0"Santa Clara, CA",United States,02/02/20,1,0,0"Seattle, WA",United States,02/02/20,1,0,0"Tempe, AZ",United States,02/02/20,1,0,0Hubei,China,03/02/20,13522,414,386Guangdong,China,03/02/20,725,0,21Zhejiang,China,03/02/20,724,0,43Henan,China,03/02/20,566,2,16Hunan,China,03/02/20,521,0,22Anhui,China,03/02/20,408,0,14Jiangxi,China,03/02/20,391,0,18Chongqing,China,03/02/20,337,2,9Jiangsu,China,03/02/20,271,0,8Shandong,China,03/02/20,259,0,7Sichuan,China,03/02/20,254,1,14Beijing,China,03/02/20,212,1,12Shanghai,China,03/02/20,203,1,10Fujian,China,03/02/20,179,0,1Shaanxi,China,03/02/20,128,0,0Guangxi,China,03/02/20,127,0,7Heilongjiang,China,03/02/20,121,2,2Yunnan,China,03/02/20,117,0,5Hebei,China,03/02/20,113,1,3Liaoning,China,03/02/20,74,0,1Shanxi,China,03/02/20,74,0,2Hainan,China,03/02/20,72,1,4Tianjin,China,03/02/20,60,0,1Gansu,China,03/02/20,55,0,3Guizhou,China,03/02/20,46,0,2Inner Mongolia,China,03/02/20,34,0,1Jilin,China,03/02/20,31,0,1Ningxia,China,03/02/20,31,0,1Xinjiang,China,03/02/20,24,0,0,Japan,03/02/20,20,0,1,Thailand,03/02/20,19,0,5,Singapore,03/02/20,18,0,0Hong Kong,Hong Kong,03/02/20,15,0,0,South Korea,03/02/20,15,0,0Qinghai,China,03/02/20,13,0,0,Germany,03/02/20,12,0,0Taiwan,Taiwan,03/02/20,10,0,0Macau,Macau,03/02/20,8,0,0,Malaysia,03/02/20,8,0,0,Vietnam,03/02/20,8,0,1,France,03/02/20,6,0,0,United Arab Emirates,03/02/20,5,0,0New South Wales,Australia,03/02/20,4,0,2Victoria,Australia,03/02/20,4,0,0Ontario,Canada,03/02/20,3,0,0,India,03/02/20,3,0,0Queensland,Australia,03/02/20,2,0,0South Australia,Australia,03/02/20,2,0,0,Italy,03/02/20,2,0,0,Philippines,03/02/20,2,1,0,RUnited Statessia,03/02/20,2,0,0,United Kingdom,03/02/20,2,0,0"Chicago, IL",United States,03/02/20,2,0,0"San Benito, CA",United States,03/02/20,2,0,0"Santa Clara, CA",United States,03/02/20,2,0,0,Cambodia,03/02/20,1,0,0British Columbia,Canada,03/02/20,1,0,0,Finland,03/02/20,1,0,0Tibet,China,03/02/20,1,0,0,Nepal,03/02/20,1,0,0,Spain,03/02/20,1,0,0,Sri Lanka,03/02/20,1,0,0,Sweden,03/02/20,1,0,0"Boston, MA",United States,03/02/20,1,0,0"Los Angeles, CA",United States,03/02/20,1,0,0"Orange, CA",United States,03/02/20,1,0,0"Seattle, WA",United States,03/02/20,1,0,0"Tempe, AZ",United States,03/02/20,1,0,0Hubei,China,04/02/20,16678,479,522Zhejiang,China,04/02/20,829,0,62Guangdong,China,04/02/20,813,0,30Henan,China,04/02/20,675,2,27Hunan,China,04/02/20,593,0,31Anhui,China,04/02/20,480,0,20Jiangxi,China,04/02/20,476,0,20Chongqing,China,04/02/20,366,2,9Jiangsu,China,04/02/20,308,0,12Sichuan,China,04/02/20,282,1,14Shandong,China,04/02/20,275,0,11Beijing,China,04/02/20,228,1,23Shanghai,China,04/02/20,219,1,12Fujian,China,04/02/20,194,0,3Heilongjiang,China,04/02/20,155,2,4Shaanxi,China,04/02/20,142,0,2Guangxi,China,04/02/20,139,0,10Hebei,China,04/02/20,126,1,4Yunnan,China,04/02/20,122,0,5Liaoning,China,04/02/20,81,0,2Shanxi,China,04/02/20,81,0,4Hainan,China,04/02/20,80,1,5Tianjin,China,04/02/20,67,0,2Guizhou,China,04/02/20,58,0,2Gansu,China,04/02/20,57,0,4Jilin,China,04/02/20,42,0,1Inner Mongolia,China,04/02/20,35,0,1Ningxia,China,04/02/20,34,0,1Xinjiang,China,04/02/20,29,0,0,Thailand,04/02/20,25,0,5,Singapore,04/02/20,24,0,0,Japan,04/02/20,22,0,1Hong Kong,Hong Kong,04/02/20,17,1,0,South Korea,04/02/20,16,0,0Qinghai,China,04/02/20,15,0,0,Germany,04/02/20,12,0,0Taiwan,Taiwan,04/02/20,11,0,0Macau,Macau,04/02/20,10,0,0,Malaysia,04/02/20,10,0,0,Vietnam,04/02/20,8,0,1,France,04/02/20,6,0,0,United Arab Emirates,04/02/20,5,0,0New South Wales,Australia,04/02/20,4,0,2Victoria,Australia,04/02/20,4,0,0Queensland,Australia,04/02/20,3,0,0,India,04/02/20,3,0,0South Australia,Australia,04/02/20,2,0,0"Toronto, ON",Canada,04/02/20,2,0,0,Italy,04/02/20,2,0,0,Philippines,04/02/20,2,1,0,RUnited Statessia,04/02/20,2,0,0,United Kingdom,04/02/20,2,0,0"Chicago, IL",United States,04/02/20,2,0,0"San Benito, CA",United States,04/02/20,2,0,0"Santa Clara, CA",United States,04/02/20,2,0,0,Belgium,04/02/20,1,0,0,Cambodia,04/02/20,1,0,0British Columbia,Canada,04/02/20,1,0,0"London, ON",Canada,04/02/20,1,0,0,Finland,04/02/20,1,0,0Tibet,China,04/02/20,1,0,0,Nepal,04/02/20,1,0,0,Spain,04/02/20,1,0,0,Sri Lanka,04/02/20,1,0,0,Sweden,04/02/20,1,0,0"Boston, MA",United States,04/02/20,1,0,0"Los Angeles, CA",United States,04/02/20,1,0,0"Orange, CA",United States,04/02/20,1,0,0"Seattle, WA",United States,04/02/20,1,0,0"Tempe, AZ",United States,04/02/20,1,0,0Hubei,China,05/02/20,19665,549,633Guangdong,China,05/02/20,895,0,49Zhejiang,China,05/02/20,895,0,78Henan,China,05/02/20,764,2,47Hunan,China,05/02/20,661,0,54Jiangxi,China,05/02/20,548,0,27Anhui,China,05/02/20,530,0,23Chongqing,China,05/02/20,389,2,15Jiangsu,China,05/02/20,341,0,23Shandong,China,05/02/20,307,0,15Sichuan,China,05/02/20,301,1,24Beijing,China,05/02/20,253,1,24Shanghai,China,05/02/20,243,1,15Fujian,China,05/02/20,205,0,11Heilongjiang,China,05/02/20,190,2,7Shaanxi,China,05/02/20,165,0,6Guangxi,China,05/02/20,150,0,13Hebei,China,05/02/20,135,1,6Yunnan,China,05/02/20,128,0,5Hainan,China,05/02/20,99,1,5Liaoning,China,05/02/20,89,0,4Shanxi,China,05/02/20,81,0,5Tianjin,China,05/02/20,69,1,2Guizhou,China,05/02/20,64,1,9Gansu,China,05/02/20,62,0,6Jilin,China,05/02/20,54,0,2Inner Mongolia,China,05/02/20,42,0,3Ningxia,China,05/02/20,34,0,1Xinjiang,China,05/02/20,32,0,0,Singapore,05/02/20,28,0,0,Thailand,05/02/20,25,0,5,Japan,05/02/20,22,0,1Hong Kong,Hong Kong,05/02/20,21,1,0,South Korea,05/02/20,19,0,0Qinghai,China,05/02/20,17,0,3,Germany,05/02/20,12,0,0,Malaysia,05/02/20,12,0,0Taiwan,Taiwan,05/02/20,11,0,0Macau,Macau,05/02/20,10,0,0,Vietnam,05/02/20,8,0,1,France,05/02/20,6,0,0,United Arab Emirates,05/02/20,5,0,0New South Wales,Australia,05/02/20,4,0,2Victoria,Australia,05/02/20,4,0,0Queensland,Australia,05/02/20,3,0,0,India,05/02/20,3,0,0South Australia,Australia,05/02/20,2,0,0British Columbia,Canada,05/02/20,2,0,0"Toronto, ON",Canada,05/02/20,2,0,0,Italy,05/02/20,2,0,0,Philippines,05/02/20,2,1,0,RUnited Statessia,05/02/20,2,0,0,United Kingdom,05/02/20,2,0,0"Chicago, IL",United States,05/02/20,2,0,0"San Benito, CA",United States,05/02/20,2,0,0"Santa Clara, CA",United States,05/02/20,2,0,0,Belgium,05/02/20,1,0,0,Cambodia,05/02/20,1,0,0"London, ON",Canada,05/02/20,1,0,0,Finland,05/02/20,1,0,0Tibet,China,05/02/20,1,0,0,Nepal,05/02/20,1,0,0,Spain,05/02/20,1,0,0,Sri Lanka,05/02/20,1,0,0,Sweden,05/02/20,1,0,0"Boston, MA",United States,05/02/20,1,0,0"Los Angeles, CA",United States,05/02/20,1,0,0"Madison, WI",United States,05/02/20,1,0,0"Orange, CA",United States,05/02/20,1,0,0"Seattle, WA",United States,05/02/20,1,0,0"Tempe, AZ",United States,05/02/20,1,0,0Hubei,China,06/02/20,22112,618,817Guangdong,China,06/02/20,970,0,69Zhejiang,China,06/02/20,954,0,94Henan,China,06/02/20,851,2,56Hunan,China,06/02/20,711,0,81Jiangxi,China,06/02/20,600,0,37Anhui,China,06/02/20,591,0,34Chongqing,China,06/02/20,411,2,24Jiangsu,China,06/02/20,373,0,34Shandong,China,06/02/20,347,0,27Sichuan,China,06/02/20,321,1,31Beijing,China,06/02/20,274,1,31Shanghai,China,06/02/20,257,1,25Heilongjiang,China,06/02/20,227,3,8Fujian,China,06/02/20,215,0,14Shaanxi,China,06/02/20,173,0,9Guangxi,China,06/02/20,168,0,14Hebei,China,06/02/20,157,1,13Yunnan,China,06/02/20,133,0,7Hainan,China,06/02/20,106,1,8Shanxi,China,06/02/20,96,0,12Liaoning,China,06/02/20,94,0,5Tianjin,China,06/02/20,79,1,2Guizhou,China,06/02/20,71,1,6Gansu,China,06/02/20,62,0,6Jilin,China,06/02/20,59,0,4Inner Mongolia,China,06/02/20,46,0,4,Japan,06/02/20,45,0,1Ningxia,China,06/02/20,40,0,1Xinjiang,China,06/02/20,36,0,0,Singapore,06/02/20,28,0,0,Thailand,06/02/20,25,0,5Hong Kong,Hong Kong,06/02/20,24,1,0,South Korea,06/02/20,23,0,0Qinghai,China,06/02/20,18,0,3Taiwan,Taiwan,06/02/20,16,0,1,Germany,06/02/20,12,0,0,Malaysia,06/02/20,12,0,0Macau,Macau,06/02/20,10,0,1,Vietnam,06/02/20,10,0,1,France,06/02/20,6,0,0,United Arab Emirates,06/02/20,5,0,0New South Wales,Australia,06/02/20,4,0,2Queensland,Australia,06/02/20,4,0,0Victoria,Australia,06/02/20,4,0,0,India,06/02/20,3,0,0South Australia,Australia,06/02/20,2,0,0British Columbia,Canada,06/02/20,2,0,0"Toronto, ON",Canada,06/02/20,2,0,0,Italy,06/02/20,2,0,0,Philippines,06/02/20,2,1,0,RUnited Statessia,06/02/20,2,0,0,United Kingdom,06/02/20,2,0,0"Chicago, IL",United States,06/02/20,2,0,0"San Benito, CA",United States,06/02/20,2,0,0"Santa Clara, CA",United States,06/02/20,2,0,0,Belgium,06/02/20,1,0,0,Cambodia,06/02/20,1,0,0"London, ON",Canada,06/02/20,1,0,0,Finland,06/02/20,1,0,0Tibet,China,06/02/20,1,0,0,Nepal,06/02/20,1,0,0,Spain,06/02/20,1,0,0,Sri Lanka,06/02/20,1,0,0,Sweden,06/02/20,1,0,0"Boston, MA",United States,06/02/20,1,0,0"Los Angeles, CA",United States,06/02/20,1,0,0"Madison, WI",United States,06/02/20,1,0,0"Orange, CA",United States,06/02/20,1,0,0"Seattle, WA",United States,06/02/20,1,0,0"Tempe, AZ",United States,06/02/20,1,0,0Hubei,China,07/02/20,24953,699,1115Guangdong,China,07/02/20,1034,1,88Zhejiang,China,07/02/20,1006,0,123Henan,China,07/02/20,914,3,86Hunan,China,07/02/20,772,0,112Anhui,China,07/02/20,665,0,47Jiangxi,China,07/02/20,661,0,45Chongqing,China,07/02/20,426,2,31Jiangsu,China,07/02/20,408,0,43Shandong,China,07/02/20,386,0,37Sichuan,China,07/02/20,344,1,42Beijing,China,07/02/20,297,1,33Heilongjiang,China,07/02/20,277,3,12Shanghai,China,07/02/20,277,1,30Fujian,China,07/02/20,224,0,20Shaanxi,China,07/02/20,184,0,17Guangxi,China,07/02/20,172,0,17Hebei,China,07/02/20,172,1,22Yunnan,China,07/02/20,138,0,12Hainan,China,07/02/20,117,2,10Shanxi,China,07/02/20,104,0,15Liaoning,China,07/02/20,99,0,7Guizhou,China,07/02/20,81,1,6Tianjin,China,07/02/20,81,1,2Gansu,China,07/02/20,67,0,9Jilin,China,07/02/20,65,1,4Cruise Ship,Others,07/02/20,61,0,0Inner Mongolia,China,07/02/20,50,0,5Ningxia,China,07/02/20,43,0,5Xinjiang,China,07/02/20,39,0,0,Singapore,07/02/20,30,0,0Hong Kong,Hong Kong,07/02/20,25,1,0,Japan,07/02/20,25,0,1,Thailand,07/02/20,25,0,5,South Korea,07/02/20,24,0,1Qinghai,China,07/02/20,18,0,3Taiwan,Taiwan,07/02/20,16,0,1,Germany,07/02/20,13,0,0,Malaysia,07/02/20,12,0,1Macau,Macau,07/02/20,10,0,1,Vietnam,07/02/20,10,0,1,France,07/02/20,6,0,0Queensland,Australia,07/02/20,5,0,0,United Arab Emirates,07/02/20,5,0,0New South Wales,Australia,07/02/20,4,0,2Victoria,Australia,07/02/20,4,0,0British Columbia,Canada,07/02/20,4,0,0,India,07/02/20,3,0,0,Italy,07/02/20,3,0,0,Philippines,07/02/20,3,1,0,United Kingdom,07/02/20,3,0,0South Australia,Australia,07/02/20,2,0,0"Toronto, ON",Canada,07/02/20,2,0,0,RUnited Statessia,07/02/20,2,0,0"Chicago, IL",United States,07/02/20,2,0,0"San Benito, CA",United States,07/02/20,2,0,0"Santa Clara, CA",United States,07/02/20,2,0,0,Belgium,07/02/20,1,0,0,Cambodia,07/02/20,1,0,0"London, ON",Canada,07/02/20,1,0,0,Finland,07/02/20,1,0,0Tibet,China,07/02/20,1,0,0,Nepal,07/02/20,1,0,0,Spain,07/02/20,1,0,0,Sri Lanka,07/02/20,1,0,0,Sweden,07/02/20,1,0,0"Boston, MA",United States,07/02/20,1,0,0"Los Angeles, CA",United States,07/02/20,1,0,0"Madison, WI",United States,07/02/20,1,0,0"Orange, CA",United States,07/02/20,1,0,0"Seattle, WA",United States,07/02/20,1,0,0"Tempe, AZ",United States,07/02/20,1,0,0Hubei,China,08/02/20,27100,780,1439Guangdong,China,08/02/20,1095,1,112Zhejiang,China,08/02/20,1048,0,175Henan,China,08/02/20,981,4,116Hunan,China,08/02/20,803,1,156Anhui,China,08/02/20,733,0,59Jiangxi,China,08/02/20,698,0,55Jiangsu,China,08/02/20,439,0,51Chongqing,China,08/02/20,428,2,39Shandong,China,08/02/20,416,0,44Sichuan,China,08/02/20,364,1,60Beijing,China,08/02/20,315,2,34Heilongjiang,China,08/02/20,295,5,13Shanghai,China,08/02/20,286,1,41Fujian,China,08/02/20,239,0,24Hebei,China,08/02/20,195,1,30Shaanxi,China,08/02/20,195,0,20Guangxi,China,08/02/20,183,0,17Yunnan,China,08/02/20,138,0,17Hainan,China,08/02/20,124,2,14Shanxi,China,08/02/20,115,0,21Liaoning,China,08/02/20,105,0,8Guizhou,China,08/02/20,89,1,7Tianjin,China,08/02/20,88,1,4Gansu,China,08/02/20,79,1,12Jilin,China,08/02/20,69,1,4Cruise Ship,Others,08/02/20,61,0,0Inner Mongolia,China,08/02/20,52,0,5Ningxia,China,08/02/20,45,0,15Xinjiang,China,08/02/20,42,0,0,Singapore,08/02/20,33,0,2,Thailand,08/02/20,32,0,10Hong Kong,Hong Kong,08/02/20,26,1,0,Japan,08/02/20,25,0,1,South Korea,08/02/20,24,0,1Qinghai,China,08/02/20,18,0,3Taiwan,Taiwan,08/02/20,17,0,1,Malaysia,08/02/20,16,0,1,Germany,08/02/20,13,0,0,Vietnam,08/02/20,13,0,1,France,08/02/20,11,0,0Macau,Macau,08/02/20,10,0,1,United Arab Emirates,08/02/20,7,0,0Queensland,Australia,08/02/20,5,0,0New South Wales,Australia,08/02/20,4,0,2Victoria,Australia,08/02/20,4,0,0British Columbia,Canada,08/02/20,4,0,0,India,08/02/20,3,0,0,Italy,08/02/20,3,0,0,Philippines,08/02/20,3,1,0,United Kingdom,08/02/20,3,0,0South Australia,Australia,08/02/20,2,0,0"Toronto, ON",Canada,08/02/20,2,0,0,RUnited Statessia,08/02/20,2,0,0"Chicago, IL",United States,08/02/20,2,0,0"San Benito, CA",United States,08/02/20,2,0,0"Santa Clara, CA",United States,08/02/20,2,0,0,Belgium,08/02/20,1,0,0,Cambodia,08/02/20,1,0,0"London, ON",Canada,08/02/20,1,0,0,Finland,08/02/20,1,0,0Tibet,China,08/02/20,1,0,0,Nepal,08/02/20,1,0,0,Spain,08/02/20,1,0,0,Sri Lanka,08/02/20,1,0,1,Sweden,08/02/20,1,0,0"Boston, MA",United States,08/02/20,1,0,0"Los Angeles, CA",United States,08/02/20,1,0,0"Madison, WI",United States,08/02/20,1,0,0"Orange, CA",United States,08/02/20,1,0,0"Seattle, WA",United States,08/02/20,1,0,0"Tempe, AZ",United States,08/02/20,1,0,0Hubei,China,09/02/20,29631,871,1795Guangdong,China,09/02/20,1131,1,141Zhejiang,China,09/02/20,1075,0,201Henan,China,09/02/20,1033,6,153Hunan,China,09/02/20,838,1,186Anhui,China,09/02/20,779,1,72Jiangxi,China,09/02/20,740,0,73Chongqing,China,09/02/20,468,2,51Jiangsu,China,09/02/20,468,0,71Shandong,China,09/02/20,444,1,63Sichuan,China,09/02/20,386,1,71Beijing,China,09/02/20,326,2,37Heilongjiang,China,09/02/20,307,6,14Shanghai,China,09/02/20,293,1,44Fujian,China,09/02/20,250,0,35Shaanxi,China,09/02/20,208,0,25Hebei,China,09/02/20,206,2,34Guangxi,China,09/02/20,195,1,18Yunnan,China,09/02/20,141,0,18Hainan,China,09/02/20,131,3,19Shanxi,China,09/02/20,119,0,25Liaoning,China,09/02/20,107,0,12Guizhou,China,09/02/20,99,1,7Tianjin,China,09/02/20,91,1,4Gansu,China,09/02/20,83,2,16Jilin,China,09/02/20,78,1,12Diamond Princess cruise ship,Others,09/02/20,64,0,0Inner Mongolia,China,09/02/20,54,0,5Ningxia,China,09/02/20,45,0,13Xinjiang,China,09/02/20,45,0,0,Singapore,09/02/20,40,0,2,Thailand,09/02/20,32,0,10Hong Kong,Hong Kong,09/02/20,29,1,0,Japan,09/02/20,26,0,1,South Korea,09/02/20,25,0,3Qinghai,China,09/02/20,18,0,3Taiwan,Taiwan,09/02/20,18,0,1,Malaysia,09/02/20,16,0,1,Germany,09/02/20,14,0,0,Vietnam,09/02/20,13,0,1,France,09/02/20,11,0,0Macau,Macau,09/02/20,10,0,1,United Arab Emirates,09/02/20,7,0,0Queensland,Australia,09/02/20,5,0,0New South Wales,Australia,09/02/20,4,0,2Victoria,Australia,09/02/20,4,0,0British Columbia,Canada,09/02/20,4,0,0,India,09/02/20,3,0,0,Italy,09/02/20,3,0,0,Philippines,09/02/20,3,1,0,United Kingdom,09/02/20,3,0,0South Australia,Australia,09/02/20,2,0,0"Toronto, ON",Canada,09/02/20,2,0,0,RUnited Statessia,09/02/20,2,0,0,Spain,09/02/20,2,0,0"Chicago, IL",United States,09/02/20,2,0,2"San Benito, CA",United States,09/02/20,2,0,0"Santa Clara, CA",United States,09/02/20,2,0,0,Belgium,09/02/20,1,0,0,Cambodia,09/02/20,1,0,0"London, ON",Canada,09/02/20,1,0,0,Finland,09/02/20,1,0,0Tibet,China,09/02/20,1,0,0,Nepal,09/02/20,1,0,0,Sri Lanka,09/02/20,1,0,1,Sweden,09/02/20,1,0,0"Boston, MA",United States,09/02/20,1,0,0"Los Angeles, CA",United States,09/02/20,1,0,0"Madison, WI",United States,09/02/20,1,0,0"Orange, CA",United States,09/02/20,1,0,0"Seattle, WA",United States,09/02/20,1,0,1"Tempe, AZ",United States,09/02/20,1,0,0Hubei,China,10/02/20,31728,974,2222Guangdong,China,10/02/20,1159,1,167Zhejiang,China,10/02/20,1092,0,242Henan,China,10/02/20,1073,6,191Hunan,China,10/02/20,879,1,208Anhui,China,10/02/20,830,3,88Jiangxi,China,10/02/20,771,1,105Jiangsu,China,10/02/20,492,0,81Chongqing,China,10/02/20,486,2,66Shandong,China,10/02/20,466,1,66Sichuan,China,10/02/20,405,1,80Beijing,China,10/02/20,337,2,44Heilongjiang,China,10/02/20,331,7,30Shanghai,China,10/02/20,299,1,48Fujian,China,10/02/20,261,0,39Hebei,China,10/02/20,218,2,41Shaanxi,China,10/02/20,213,0,30Guangxi,China,10/02/20,210,1,24Yunnan,China,10/02/20,149,0,19Hainan,China,10/02/20,138,3,19Diamond Princess cruise ship,Others,10/02/20,135,0,0Shanxi,China,10/02/20,119,0,25Guizhou,China,10/02/20,109,1,10Liaoning,China,10/02/20,108,0,13Tianjin,China,10/02/20,95,1,8Gansu,China,10/02/20,83,2,17Jilin,China,10/02/20,80,1,13Inner Mongolia,China,10/02/20,58,0,5Ningxia,China,10/02/20,49,0,13Xinjiang,China,10/02/20,49,0,0,Singapore,10/02/20,45,0,2Hong Kong,Hong Kong,10/02/20,38,1,0,Thailand,10/02/20,32,0,10,South Korea,10/02/20,27,0,3,Japan,10/02/20,26,0,4Qinghai,China,10/02/20,18,0,3,Malaysia,10/02/20,18,0,1Taiwan,Taiwan,10/02/20,18,0,1,Germany,10/02/20,14,0,0,Vietnam,10/02/20,14,0,1,France,10/02/20,11,0,0Macau,Macau,10/02/20,10,0,1,United Kingdom,10/02/20,8,0,0,United Arab Emirates,10/02/20,8,0,0Queensland,Australia,10/02/20,5,0,0New South Wales,Australia,10/02/20,4,0,2Victoria,Australia,10/02/20,4,0,0British Columbia,Canada,10/02/20,4,0,0,India,10/02/20,3,0,0,Italy,10/02/20,3,0,0,Philippines,10/02/20,3,1,0South Australia,Australia,10/02/20,2,0,0"Toronto, ON",Canada,10/02/20,2,0,0,RUnited Statessia,10/02/20,2,0,0,Spain,10/02/20,2,0,0"Chicago, IL",United States,10/02/20,2,0,2"San Benito, CA",United States,10/02/20,2,0,0"Santa Clara, CA",United States,10/02/20,2,0,0,Belgium,10/02/20,1,0,0,Cambodia,10/02/20,1,0,0"London, ON",Canada,10/02/20,1,0,0,Finland,10/02/20,1,0,0Tibet,China,10/02/20,1,0,0,Nepal,10/02/20,1,0,0,Sri Lanka,10/02/20,1,0,1,Sweden,10/02/20,1,0,0"Boston, MA",United States,10/02/20,1,0,0"Los Angeles, CA",United States,10/02/20,1,0,0"Madison, WI",United States,10/02/20,1,0,0"Orange, CA",United States,10/02/20,1,0,0"Seattle, WA",United States,10/02/20,1,0,1"Tempe, AZ",United States,10/02/20,1,0,0Hubei,China,11/02/20,33366,1068,2639Guangdong,China,11/02/20,1177,1,212Zhejiang,China,11/02/20,1117,0,270Henan,China,11/02/20,1105,7,218Hunan,China,11/02/20,912,1,247Anhui,China,11/02/20,860,4,105Jiangxi,China,11/02/20,804,1,128Jiangsu,China,11/02/20,515,0,93Chongqing,China,11/02/20,505,3,79Shandong,China,11/02/20,487,1,80Sichuan,China,11/02/20,417,1,85Heilongjiang,China,11/02/20,360,8,28Beijing,China,11/02/20,342,3,48Shanghai,China,11/02/20,303,1,52Fujian,China,11/02/20,267,0,45Hebei,China,11/02/20,239,2,48Shaanxi,China,11/02/20,219,0,32Guangxi,China,11/02/20,215,1,33Yunnan,China,11/02/20,153,0,20Hainan,China,11/02/20,144,3,20Diamond Princess cruise ship,Others,11/02/20,135,0,0Guizhou,China,11/02/20,127,1,17Shanxi,China,11/02/20,124,0,30Liaoning,China,11/02/20,111,0,19Tianjin,China,11/02/20,106,2,10Gansu,China,11/02/20,86,2,24Jilin,China,11/02/20,81,1,18Inner Mongolia,China,11/02/20,58,0,5Xinjiang,China,11/02/20,55,0,3Ningxia,China,11/02/20,53,0,22Hong Kong,Hong Kong,11/02/20,49,1,0,Singapore,11/02/20,47,0,9,Thailand,11/02/20,33,0,10,South Korea,11/02/20,28,0,3,Japan,11/02/20,26,0,9Qinghai,China,11/02/20,18,0,5,Malaysia,11/02/20,18,0,3Taiwan,Taiwan,11/02/20,18,0,1,Germany,11/02/20,16,0,0,Vietnam,11/02/20,15,0,6,France,11/02/20,11,0,0Macau,Macau,11/02/20,10,0,1,United Kingdom,11/02/20,8,0,0,United Arab Emirates,11/02/20,8,0,0Queensland,Australia,11/02/20,5,0,0New South Wales,Australia,11/02/20,4,0,2Victoria,Australia,11/02/20,4,0,0British Columbia,Canada,11/02/20,4,0,0,India,11/02/20,3,0,0,Italy,11/02/20,3,0,0,Philippines,11/02/20,3,1,0South Australia,Australia,11/02/20,2,0,0"Toronto, ON",Canada,11/02/20,2,0,0,RUnited Statessia,11/02/20,2,0,0,Spain,11/02/20,2,0,0"Chicago, IL",United States,11/02/20,2,0,2"San Benito, CA",United States,11/02/20,2,0,0"Santa Clara, CA",United States,11/02/20,2,0,0,Belgium,11/02/20,1,0,0,Cambodia,11/02/20,1,0,0"London, ON",Canada,11/02/20,1,0,0,Finland,11/02/20,1,0,0Tibet,China,11/02/20,1,0,0,Nepal,11/02/20,1,0,0,Sri Lanka,11/02/20,1,0,1,Sweden,11/02/20,1,0,0"Boston, MA",United States,11/02/20,1,0,0"Los Angeles, CA",United States,11/02/20,1,0,0"Madison, WI",United States,11/02/20,1,0,0"Orange, CA",United States,11/02/20,1,0,0"San Diego County, CA",United States,11/02/20,1,0,0"Seattle, WA",United States,11/02/20,1,0,1"Tempe, AZ",United States,11/02/20,1,0,0Hubei,China,12/02/20,33366,1068,2686Guangdong,China,12/02/20,1219,1,275Henan,China,12/02/20,1135,8,246Zhejiang,China,12/02/20,1131,0,321Hunan,China,12/02/20,946,2,304Anhui,China,12/02/20,889,4,127Jiangxi,China,12/02/20,844,1,152Jiangsu,China,12/02/20,543,0,125Chongqing,China,12/02/20,518,3,102Shandong,China,12/02/20,497,2,92Sichuan,China,12/02/20,436,1,92Heilongjiang,China,12/02/20,378,8,31Beijing,China,12/02/20,352,3,56Shanghai,China,12/02/20,311,1,57Fujian,China,12/02/20,272,0,53Hebei,China,12/02/20,251,2,54Shaanxi,China,12/02/20,225,0,43Guangxi,China,12/02/20,222,1,32Diamond Princess cruise ship,Others,12/02/20,175,0,0Hainan,China,12/02/20,157,4,27Yunnan,China,12/02/20,154,0,26Guizhou,China,12/02/20,133,1,18Shanxi,China,12/02/20,126,0,33Liaoning,China,12/02/20,116,1,20Tianjin,China,12/02/20,112,2,11Gansu,China,12/02/20,87,2,31Jilin,China,12/02/20,83,1,22Inner Mongolia,China,12/02/20,60,0,6Xinjiang,China,12/02/20,59,0,3Ningxia,China,12/02/20,58,0,24Hong Kong,Hong Kong,12/02/20,50,1,1,Singapore,12/02/20,50,0,15,Thailand,12/02/20,33,0,10,Japan,12/02/20,28,0,9,South Korea,12/02/20,28,0,7Qinghai,China,12/02/20,18,0,9,Malaysia,12/02/20,18,0,3Taiwan,Taiwan,12/02/20,18,0,1,Germany,12/02/20,16,0,0,Vietnam,12/02/20,15,0,6,France,12/02/20,11,0,2Macau,Macau,12/02/20,10,0,2,United Kingdom,12/02/20,9,0,1,United Arab Emirates,12/02/20,8,0,1Queensland,Australia,12/02/20,5,0,0New South Wales,Australia,12/02/20,4,0,2Victoria,Australia,12/02/20,4,0,0British Columbia,Canada,12/02/20,4,0,0,India,12/02/20,3,0,0,Italy,12/02/20,3,0,0,Philippines,12/02/20,3,1,1South Australia,Australia,12/02/20,2,0,0"Toronto, ON",Canada,12/02/20,2,0,0,RUnited Statessia,12/02/20,2,0,2,Spain,12/02/20,2,0,0"Chicago, IL",United States,12/02/20,2,0,2"San Benito, CA",United States,12/02/20,2,0,0"Santa Clara, CA",United States,12/02/20,2,0,0,Belgium,12/02/20,1,0,0,Cambodia,12/02/20,1,0,1"London, ON",Canada,12/02/20,1,0,1,Finland,12/02/20,1,0,1Tibet,China,12/02/20,1,0,1,Nepal,12/02/20,1,0,1,Sri Lanka,12/02/20,1,0,1,Sweden,12/02/20,1,0,0"Boston, MA",United States,12/02/20,1,0,0"Los Angeles, CA",United States,12/02/20,1,0,0"Madison, WI",United States,12/02/20,1,0,0"Orange, CA",United States,12/02/20,1,0,0"San Diego County, CA",United States,12/02/20,1,0,0"Seattle, WA",United States,12/02/20,1,0,1"Tempe, AZ",United States,12/02/20,1,0,0Hubei,China,13/02/20,48206,1310,3459Guangdong,China,13/02/20,1241,2,314Henan,China,13/02/20,1169,10,296Zhejiang,China,13/02/20,1145,0,360Hunan,China,13/02/20,968,2,339Anhui,China,13/02/20,910,5,157Jiangxi,China,13/02/20,872,1,170Jiangsu,China,13/02/20,570,0,139Chongqing,China,13/02/20,529,4,128Shandong,China,13/02/20,509,2,105Sichuan,China,13/02/20,451,1,104Heilongjiang,China,13/02/20,395,9,33Beijing,China,13/02/20,366,3,69Shanghai,China,13/02/20,315,1,62Fujian,China,13/02/20,279,0,57Hebei,China,13/02/20,265,3,68Shaanxi,China,13/02/20,229,0,46Guangxi,China,13/02/20,222,2,33Diamond Princess cruise ship,Others,13/02/20,175,0,0Hainan,China,13/02/20,157,4,30Yunnan,China,13/02/20,156,0,27Guizhou,China,13/02/20,135,1,27Shanxi,China,13/02/20,126,0,36Tianjin,China,13/02/20,119,3,21Liaoning,China,13/02/20,117,1,22Gansu,China,13/02/20,90,2,39Jilin,China,13/02/20,84,1,24Ningxia,China,13/02/20,64,0,24Xinjiang,China,13/02/20,63,1,6Inner Mongolia,China,13/02/20,61,0,6,Singapore,13/02/20,58,0,15Hong Kong,Hong Kong,13/02/20,53,1,1,Thailand,13/02/20,33,0,12,Japan,13/02/20,28,1,9,South Korea,13/02/20,28,0,7,Malaysia,13/02/20,19,0,3Qinghai,China,13/02/20,18,0,11Taiwan,Taiwan,13/02/20,18,0,1,Germany,13/02/20,16,0,1,Vietnam,13/02/20,16,0,7,France,13/02/20,11,0,2Macau,Macau,13/02/20,10,0,3,United Kingdom,13/02/20,9,0,1,United Arab Emirates,13/02/20,8,0,1Queensland,Australia,13/02/20,5,0,0New South Wales,Australia,13/02/20,4,0,4Victoria,Australia,13/02/20,4,0,4British Columbia,Canada,13/02/20,4,0,0,India,13/02/20,3,0,0,Italy,13/02/20,3,0,0,Philippines,13/02/20,3,1,1South Australia,Australia,13/02/20,2,0,0"Toronto, ON",Canada,13/02/20,2,0,0,RUnited Statessia,13/02/20,2,0,2,Spain,13/02/20,2,0,0"Chicago, IL",United States,13/02/20,2,0,2"San Benito, CA",United States,13/02/20,2,0,0"San Diego County, CA",United States,13/02/20,2,0,0"Santa Clara, CA",United States,13/02/20,2,0,0,Belgium,13/02/20,1,0,0,Cambodia,13/02/20,1,0,1"London, ON",Canada,13/02/20,1,0,1,Finland,13/02/20,1,0,1Tibet,China,13/02/20,1,0,1,Nepal,13/02/20,1,0,1,Sri Lanka,13/02/20,1,0,1,Sweden,13/02/20,1,0,0"Boston, MA",United States,13/02/20,1,0,0"Los Angeles, CA",United States,13/02/20,1,0,0"Madison, WI",United States,13/02/20,1,0,0"Orange, CA",United States,13/02/20,1,0,0"San Antonio, TX",United States,13/02/20,1,0,0"Seattle, WA",United States,13/02/20,1,0,1"Tempe, AZ",United States,13/02/20,1,0,0Hubei,China,14/02/20,54406,1457,4774Guangdong,China,14/02/20,1261,2,362Henan,China,14/02/20,1184,11,357Zhejiang,China,14/02/20,1155,0,403Hunan,China,14/02/20,988,2,364Anhui,China,14/02/20,934,6,193Jiangxi,China,14/02/20,900,1,187Jiangsu,China,14/02/20,593,0,157Chongqing,China,14/02/20,537,5,152Shandong,China,14/02/20,523,2,136Sichuan,China,14/02/20,463,1,114Heilongjiang,China,14/02/20,419,11,47Beijing,China,14/02/20,372,3,80Shanghai,China,14/02/20,318,1,90Hebei,China,14/02/20,283,3,87Fujian,China,14/02/20,281,0,63Shaanxi,China,14/02/20,230,0,54Guangxi,China,14/02/20,226,2,36Diamond Princess cruise ship,Others,14/02/20,218,0,0Yunnan,China,14/02/20,162,0,36Hainan,China,14/02/20,159,4,43Guizhou,China,14/02/20,140,1,28Shanxi,China,14/02/20,127,0,38Tianjin,China,14/02/20,120,3,31Liaoning,China,14/02/20,119,1,29Gansu,China,14/02/20,90,2,39Jilin,China,14/02/20,86,1,25Ningxia,China,14/02/20,67,0,24,Singapore,14/02/20,67,0,17Inner Mongolia,China,14/02/20,65,0,6Xinjiang,China,14/02/20,65,1,6Hong Kong,Hong Kong,14/02/20,56,1,1,Thailand,14/02/20,33,0,12,Japan,14/02/20,29,1,9,South Korea,14/02/20,28,0,7,Malaysia,14/02/20,19,0,3Qinghai,China,14/02/20,18,0,11Taiwan,Taiwan,14/02/20,18,0,2,Germany,14/02/20,16,0,1,Vietnam,14/02/20,16,0,7,France,14/02/20,11,0,2Macau,Macau,14/02/20,10,0,3,United Kingdom,14/02/20,9,0,1,United Arab Emirates,14/02/20,8,0,1Queensland,Australia,14/02/20,5,0,0New South Wales,Australia,14/02/20,4,0,4Victoria,Australia,14/02/20,4,0,4British Columbia,Canada,14/02/20,4,0,0,India,14/02/20,3,0,0,Italy,14/02/20,3,0,0,Philippines,14/02/20,3,1,1South Australia,Australia,14/02/20,2,0,0"Toronto, ON",Canada,14/02/20,2,0,0,RUnited Statessia,14/02/20,2,0,2,Spain,14/02/20,2,0,0"Chicago, IL",United States,14/02/20,2,0,2"San Benito, CA",United States,14/02/20,2,0,0"San Diego County, CA",United States,14/02/20,2,0,0"Santa Clara, CA",United States,14/02/20,2,0,0,Belgium,14/02/20,1,0,0,Cambodia,14/02/20,1,0,1"London, ON",Canada,14/02/20,1,0,1,Egypt,14/02/20,1,0,0,Finland,14/02/20,1,0,1Tibet,China,14/02/20,1,0,1,Nepal,14/02/20,1,0,1,Sri Lanka,14/02/20,1,0,1,Sweden,14/02/20,1,0,0"Boston, MA",United States,14/02/20,1,0,0"Los Angeles, CA",United States,14/02/20,1,0,0"Madison, WI",United States,14/02/20,1,0,0"Orange, CA",United States,14/02/20,1,0,0"San Antonio, TX",United States,14/02/20,1,0,0"Seattle, WA",United States,14/02/20,1,0,1"Tempe, AZ",United States,14/02/20,1,0,0Hubei,China,15/02/20,56249,1596,5623Guangdong,China,15/02/20,1294,2,410Henan,China,15/02/20,1212,13,391Zhejiang,China,15/02/20,1162,0,428Hunan,China,15/02/20,1001,2,425Anhui,China,15/02/20,950,6,221Jiangxi,China,15/02/20,913,1,210Jiangsu,China,15/02/20,604,0,186Chongqing,China,15/02/20,544,5,184Shandong,China,15/02/20,532,2,156Sichuan,China,15/02/20,470,1,119Heilongjiang,China,15/02/20,425,11,68Beijing,China,15/02/20,375,4,98Shanghai,China,15/02/20,326,1,124Hebei,China,15/02/20,291,3,101Fujian,China,15/02/20,285,0,71Diamond Princess cruise ship,Others,15/02/20,285,0,0Guangxi,China,15/02/20,235,2,44Shaanxi,China,15/02/20,232,0,60Yunnan,China,15/02/20,168,0,42Hainan,China,15/02/20,162,4,39Guizhou,China,15/02/20,143,1,41Shanxi,China,15/02/20,128,0,46Tianjin,China,15/02/20,122,3,37Liaoning,China,15/02/20,119,1,31Gansu,China,15/02/20,90,2,49Jilin,China,15/02/20,88,1,26,Singapore,15/02/20,72,0,18Ningxia,China,15/02/20,70,0,33Xinjiang,China,15/02/20,70,1,10Inner Mongolia,China,15/02/20,68,0,7Hong Kong,Hong Kong,15/02/20,56,1,1,Japan,15/02/20,43,1,12,Thailand,15/02/20,33,0,12,South Korea,15/02/20,28,0,9,Malaysia,15/02/20,22,0,7Qinghai,China,15/02/20,18,0,13Taiwan,Taiwan,15/02/20,18,0,2,Germany,15/02/20,16,0,1,Vietnam,15/02/20,16,0,7,France,15/02/20,12,1,4Macau,Macau,15/02/20,10,0,3,United Kingdom,15/02/20,9,0,1,United Arab Emirates,15/02/20,8,0,3Queensland,Australia,15/02/20,5,0,0New South Wales,Australia,15/02/20,4,0,4Victoria,Australia,15/02/20,4,0,4British Columbia,Canada,15/02/20,4,0,0,India,15/02/20,3,0,0,Italy,15/02/20,3,0,0,Philippines,15/02/20,3,1,1South Australia,Australia,15/02/20,2,0,0"Toronto, ON",Canada,15/02/20,2,0,0,RUnited Statessia,15/02/20,2,0,2,Spain,15/02/20,2,0,2"Chicago, IL",United States,15/02/20,2,0,2"San Benito, CA",United States,15/02/20,2,0,0"San Diego County, CA",United States,15/02/20,2,0,0"Santa Clara, CA",United States,15/02/20,2,0,0,Belgium,15/02/20,1,0,0,Cambodia,15/02/20,1,0,1"London, ON",Canada,15/02/20,1,0,1,Egypt,15/02/20,1,0,0,Finland,15/02/20,1,0,1Tibet,China,15/02/20,1,0,1,Nepal,15/02/20,1,0,1,Sri Lanka,15/02/20,1,0,1,Sweden,15/02/20,1,0,0"Boston, MA",United States,15/02/20,1,0,0"Los Angeles, CA",United States,15/02/20,1,0,0"Madison, WI",United States,15/02/20,1,0,0"Orange, CA",United States,15/02/20,1,0,0"San Antonio, TX",United States,15/02/20,1,0,0"Seattle, WA",United States,15/02/20,1,0,1"Tempe, AZ",United States,15/02/20,1,0,0Hubei,China,16/02/20,58182,1696,6639Guangdong,China,16/02/20,1316,2,465Henan,China,16/02/20,1231,13,440Zhejiang,China,16/02/20,1167,0,456Hunan,China,16/02/20,1004,3,464Anhui,China,16/02/20,962,6,255Jiangxi,China,16/02/20,925,1,240Jiangsu,China,16/02/20,617,0,218Chongqing,China,16/02/20,551,5,207Shandong,China,16/02/20,537,2,173Sichuan,China,16/02/20,481,3,131Heilongjiang,China,16/02/20,445,11,79Beijing,China,16/02/20,380,4,108Diamond Princess cruise ship,Others,16/02/20,355,0,0Shanghai,China,16/02/20,328,1,140Hebei,China,16/02/20,300,3,105Fujian,China,16/02/20,287,0,82Guangxi,China,16/02/20,237,2,49Shaanxi,China,16/02/20,236,0,71Yunnan,China,16/02/20,171,0,42Hainan,China,16/02/20,162,4,52Guizhou,China,16/02/20,144,1,46Shanxi,China,16/02/20,129,0,50Tianjin,China,16/02/20,124,3,45Liaoning,China,16/02/20,121,1,40Gansu,China,16/02/20,90,2,54Jilin,China,16/02/20,89,1,30,Singapore,16/02/20,75,0,18Xinjiang,China,16/02/20,71,1,12Inner Mongolia,China,16/02/20,70,0,8Ningxia,China,16/02/20,70,0,33,Japan,16/02/20,59,1,12Hong Kong,Hong Kong,16/02/20,57,1,2,Thailand,16/02/20,34,0,14,South Korea,16/02/20,29,0,9,Malaysia,16/02/20,22,0,7Taiwan,Taiwan,16/02/20,20,1,2Qinghai,China,16/02/20,18,0,13,Germany,16/02/20,16,0,1,Vietnam,16/02/20,16,0,7,France,16/02/20,12,1,4Macau,Macau,16/02/20,10,0,5,United Kingdom,16/02/20,9,0,8,United Arab Emirates,16/02/20,9,0,4Queensland,Australia,16/02/20,5,0,0New South Wales,Australia,16/02/20,4,0,4Victoria,Australia,16/02/20,4,0,4British Columbia,Canada,16/02/20,4,0,0,India,16/02/20,3,0,3,Italy,16/02/20,3,0,0,Philippines,16/02/20,3,1,1South Australia,Australia,16/02/20,2,0,0"Toronto, ON",Canada,16/02/20,2,0,0,RUnited Statessia,16/02/20,2,0,2,Spain,16/02/20,2,0,2"Chicago, IL",United States,16/02/20,2,0,2"San Benito, CA",United States,16/02/20,2,0,0"San Diego County, CA",United States,16/02/20,2,0,0"Santa Clara, CA",United States,16/02/20,2,0,0,Belgium,16/02/20,1,0,0,Cambodia,16/02/20,1,0,1"London, ON",Canada,16/02/20,1,0,1,Egypt,16/02/20,1,0,0,Finland,16/02/20,1,0,1Tibet,China,16/02/20,1,0,1,Nepal,16/02/20,1,0,1,Sri Lanka,16/02/20,1,0,1,Sweden,16/02/20,1,0,0"Boston, MA",United States,16/02/20,1,0,0"Los Angeles, CA",United States,16/02/20,1,0,0"Madison, WI",United States,16/02/20,1,0,0"Orange, CA",United States,16/02/20,1,0,0"San Antonio, TX",United States,16/02/20,1,0,0"Seattle, WA",United States,16/02/20,1,0,1"Tempe, AZ",United States,16/02/20,1,0,0Hubei,China,17/02/20,59989,1789,7862Guangdong,China,17/02/20,1322,4,524Henan,China,17/02/20,1246,16,509Zhejiang,China,17/02/20,1171,0,507Hunan,China,17/02/20,1006,3,498Anhui,China,17/02/20,973,6,280Jiangxi,China,17/02/20,930,1,275Jiangsu,China,17/02/20,626,0,258Chongqing,China,17/02/20,553,5,225Shandong,China,17/02/20,541,2,191Sichuan,China,17/02/20,495,3,156Heilongjiang,China,17/02/20,457,11,85Diamond Princess cruise ship,Others,17/02/20,454,0,0Beijing,China,17/02/20,381,4,114Shanghai,China,17/02/20,333,1,161Hebei,China,17/02/20,301,3,122Fujian,China,17/02/20,290,0,90Shaanxi,China,17/02/20,240,0,79Guangxi,China,17/02/20,238,2,53Yunnan,China,17/02/20,171,0,47Hainan,China,17/02/20,163,4,59Guizhou,China,17/02/20,146,1,57Shanxi,China,17/02/20,130,0,53Tianjin,China,17/02/20,125,3,46Liaoning,China,17/02/20,121,1,43Gansu,China,17/02/20,91,2,58Jilin,China,17/02/20,89,1,34,Singapore,17/02/20,77,0,24Xinjiang,China,17/02/20,75,1,12Inner Mongolia,China,17/02/20,72,0,8Ningxia,China,17/02/20,70,0,35,Japan,17/02/20,66,1,12Hong Kong,Hong Kong,17/02/20,60,1,2,Thailand,17/02/20,35,0,15,South Korea,17/02/20,30,0,10,Malaysia,17/02/20,22,0,7Taiwan,Taiwan,17/02/20,22,1,2Qinghai,China,17/02/20,18,0,13,Germany,17/02/20,16,0,1,Vietnam,17/02/20,16,0,7,France,17/02/20,12,1,4Macau,Macau,17/02/20,10,0,5,United Kingdom,17/02/20,9,0,8,United Arab Emirates,17/02/20,9,0,4Queensland,Australia,17/02/20,5,0,0British Columbia,Canada,17/02/20,5,0,0New South Wales,Australia,17/02/20,4,0,4Victoria,Australia,17/02/20,4,0,4,India,17/02/20,3,0,3,Italy,17/02/20,3,0,0,Philippines,17/02/20,3,1,1South Australia,Australia,17/02/20,2,0,2"Toronto, ON",Canada,17/02/20,2,0,0,RUnited Statessia,17/02/20,2,0,2,Spain,17/02/20,2,0,2"Chicago, IL",United States,17/02/20,2,0,2"San Benito, CA",United States,17/02/20,2,0,0"San Diego County, CA",United States,17/02/20,2,0,0"Santa Clara, CA",United States,17/02/20,2,0,0,Belgium,17/02/20,1,0,1,Cambodia,17/02/20,1,0,1"London, ON",Canada,17/02/20,1,0,1,Egypt,17/02/20,1,0,0,Finland,17/02/20,1,0,1Tibet,China,17/02/20,1,0,1,Nepal,17/02/20,1,0,1,Sri Lanka,17/02/20,1,0,1,Sweden,17/02/20,1,0,0"Boston, MA",United States,17/02/20,1,0,0"Los Angeles, CA",United States,17/02/20,1,0,0"Madison, WI",United States,17/02/20,1,0,0"Orange, CA",United States,17/02/20,1,0,0"San Antonio, TX",United States,17/02/20,1,0,0"Seattle, WA",United States,17/02/20,1,0,1"Tempe, AZ",United States,17/02/20,1,0,0Hubei,China,18/02/20,61682,1921,9128Guangdong,China,18/02/20,1328,4,565Henan,China,18/02/20,1257,19,522Zhejiang,China,18/02/20,1172,0,535Hunan,China,18/02/20,1007,4,527Anhui,China,18/02/20,982,6,361Jiangxi,China,18/02/20,933,1,310Jiangsu,China,18/02/20,629,0,280Chongqing,China,18/02/20,555,5,254Shandong,China,18/02/20,543,3,211Diamond Princess cruise ship,Others,18/02/20,542,0,0Sichuan,China,18/02/20,508,3,169Heilongjiang,China,18/02/20,464,11,111Beijing,China,18/02/20,387,4,122Shanghai,China,18/02/20,333,1,177Hebei,China,18/02/20,306,4,136Fujian,China,18/02/20,292,0,93Guangxi,China,18/02/20,242,2,69Shaanxi,China,18/02/20,240,0,89Yunnan,China,18/02/20,172,0,57Hainan,China,18/02/20,163,4,79Guizhou,China,18/02/20,146,2,66Shanxi,China,18/02/20,131,0,61Tianjin,China,18/02/20,128,3,48Liaoning,China,18/02/20,121,1,53Gansu,China,18/02/20,91,2,62Jilin,China,18/02/20,89,1,36,Singapore,18/02/20,81,0,29Xinjiang,China,18/02/20,76,1,12,Japan,18/02/20,74,1,13Inner Mongolia,China,18/02/20,73,0,8Ningxia,China,18/02/20,70,0,42Hong Kong,Hong Kong,18/02/20,62,1,2,Thailand,18/02/20,35,0,15,South Korea,18/02/20,31,0,12,Malaysia,18/02/20,22,0,13Taiwan,Taiwan,18/02/20,22,1,2Qinghai,China,18/02/20,18,0,15,Germany,18/02/20,16,0,12,Vietnam,18/02/20,16,0,7,France,18/02/20,12,1,4Macau,Macau,18/02/20,10,0,5,United Kingdom,18/02/20,9,0,8,United Arab Emirates,18/02/20,9,0,4Queensland,Australia,18/02/20,5,0,0British Columbia,Canada,18/02/20,5,0,0New South Wales,Australia,18/02/20,4,0,4Victoria,Australia,18/02/20,4,0,4,India,18/02/20,3,0,3,Italy,18/02/20,3,0,0,Philippines,18/02/20,3,1,1South Australia,Australia,18/02/20,2,0,2"Toronto, ON",Canada,18/02/20,2,0,0,RUnited Statessia,18/02/20,2,0,2,Spain,18/02/20,2,0,2"Chicago, IL",United States,18/02/20,2,0,2"San Benito, CA",United States,18/02/20,2,0,0"San Diego County, CA",United States,18/02/20,2,0,0"Santa Clara, CA",United States,18/02/20,2,0,0,Belgium,18/02/20,1,0,1,Cambodia,18/02/20,1,0,1"London, ON",Canada,18/02/20,1,0,1,Egypt,18/02/20,1,0,0,Finland,18/02/20,1,0,1Tibet,China,18/02/20,1,0,1,Nepal,18/02/20,1,0,1,Sri Lanka,18/02/20,1,0,1,Sweden,18/02/20,1,0,0"Boston, MA",United States,18/02/20,1,0,0"Los Angeles, CA",United States,18/02/20,1,0,0"Madison, WI",United States,18/02/20,1,0,0"Orange, CA",United States,18/02/20,1,0,0"San Antonio, TX",United States,18/02/20,1,0,0"Seattle, WA",United States,18/02/20,1,0,1"Tempe, AZ",United States,18/02/20,1,0,0Hubei,China,19/02/20,62031,2029,10337Guangdong,China,19/02/20,1331,5,606Henan,China,19/02/20,1262,19,573Zhejiang,China,19/02/20,1174,0,604Hunan,China,19/02/20,1008,4,561Anhui,China,19/02/20,986,6,413Jiangxi,China,19/02/20,934,1,362Jiangsu,China,19/02/20,631,0,318Diamond Princess cruise ship,Others,19/02/20,621,0,1Chongqing,China,19/02/20,560,5,274Shandong,China,19/02/20,544,3,231Sichuan,China,19/02/20,514,3,188Heilongjiang,China,19/02/20,470,12,120Beijing,China,19/02/20,393,4,145Shanghai,China,19/02/20,333,2,186Hebei,China,19/02/20,306,4,152Fujian,China,19/02/20,293,0,112Guangxi,China,19/02/20,244,2,86Shaanxi,China,19/02/20,242,0,102Yunnan,China,19/02/20,172,1,60Hainan,China,19/02/20,168,4,84Guizhou,China,19/02/20,146,2,70Shanxi,China,19/02/20,131,0,68Tianjin,China,19/02/20,130,3,54Liaoning,China,19/02/20,121,1,55Gansu,China,19/02/20,91,2,65Jilin,China,19/02/20,90,1,37,Japan,19/02/20,84,1,18,Singapore,19/02/20,84,0,34Xinjiang,China,19/02/20,76,1,20Inner Mongolia,China,19/02/20,75,0,10Ningxia,China,19/02/20,71,0,42Hong Kong,Hong Kong,19/02/20,63,2,5,Thailand,19/02/20,35,0,15,South Korea,19/02/20,31,0,12Taiwan,Taiwan,19/02/20,23,1,2,Malaysia,19/02/20,22,0,15Qinghai,China,19/02/20,18,0,16,Germany,19/02/20,16,0,12,Vietnam,19/02/20,16,0,7,France,19/02/20,12,1,4Macau,Macau,19/02/20,10,0,5,United Kingdom,19/02/20,9,0,8,United Arab Emirates,19/02/20,9,0,4Queensland,Australia,19/02/20,5,0,0British Columbia,Canada,19/02/20,5,0,0New South Wales,Australia,19/02/20,4,0,4Victoria,Australia,19/02/20,4,0,4,India,19/02/20,3,0,3,Italy,19/02/20,3,0,0,Philippines,19/02/20,3,1,1South Australia,Australia,19/02/20,2,0,2"Toronto, ON",Canada,19/02/20,2,0,0,Iran,19/02/20,2,2,0,RUnited Statessia,19/02/20,2,0,2,Spain,19/02/20,2,0,2"Chicago, IL",United States,19/02/20,2,0,2"San Benito, CA",United States,19/02/20,2,0,0"San Diego County, CA",United States,19/02/20,2,0,0"Santa Clara, CA",United States,19/02/20,2,0,0,Belgium,19/02/20,1,0,1,Cambodia,19/02/20,1,0,1"London, ON",Canada,19/02/20,1,0,1,Egypt,19/02/20,1,0,0,Finland,19/02/20,1,0,1Tibet,China,19/02/20,1,0,1,Nepal,19/02/20,1,0,1,Sri Lanka,19/02/20,1,0,1,Sweden,19/02/20,1,0,0"Boston, MA",United States,19/02/20,1,0,0"Los Angeles, CA",United States,19/02/20,1,0,0"Madison, WI",United States,19/02/20,1,0,0"Orange, CA",United States,19/02/20,1,0,0"San Antonio, TX",United States,19/02/20,1,0,0"Seattle, WA",United States,19/02/20,1,0,1"Tempe, AZ",United States,19/02/20,1,0,0Hubei,China,20/02/20,62442,2144,11788Guangdong,China,20/02/20,1332,5,642Henan,China,20/02/20,1265,19,637Zhejiang,China,20/02/20,1175,1,633Hunan,China,20/02/20,1010,4,634Anhui,China,20/02/20,987,6,474Jiangxi,China,20/02/20,934,1,433Diamond Princess cruise ship,Others,20/02/20,634,2,1Jiangsu,China,20/02/20,631,0,356Chongqing,China,20/02/20,567,6,299Shandong,China,20/02/20,546,4,254Sichuan,China,20/02/20,520,3,217Heilongjiang,China,20/02/20,476,12,136Beijing,China,20/02/20,395,4,153Shanghai,China,20/02/20,334,2,199Hebei,China,20/02/20,307,5,169Fujian,China,20/02/20,293,1,126Guangxi,China,20/02/20,245,2,90Shaanxi,China,20/02/20,245,1,118Yunnan,China,20/02/20,174,2,79Hainan,China,20/02/20,168,4,86Guizhou,China,20/02/20,146,2,72Shanxi,China,20/02/20,132,0,76Tianjin,China,20/02/20,131,3,59Liaoning,China,20/02/20,121,1,59,South Korea,20/02/20,104,1,16,Japan,20/02/20,94,1,18Gansu,China,20/02/20,91,2,71Jilin,China,20/02/20,91,1,43,Singapore,20/02/20,84,0,34Xinjiang,China,20/02/20,76,1,22Inner Mongolia,China,20/02/20,75,0,16Ningxia,China,20/02/20,71,0,44Hong Kong,Hong Kong,20/02/20,68,2,6,Thailand,20/02/20,35,0,15Taiwan,Taiwan,20/02/20,24,1,2,Malaysia,20/02/20,22,0,15Qinghai,China,20/02/20,18,0,16,Germany,20/02/20,16,0,12,Vietnam,20/02/20,16,0,7,France,20/02/20,12,1,4Macau,Macau,20/02/20,10,0,6,United Kingdom,20/02/20,9,0,8,United Arab Emirates,20/02/20,9,0,4Queensland,Australia,20/02/20,5,0,0British Columbia,Canada,20/02/20,5,0,0,Iran,20/02/20,5,2,0New South Wales,Australia,20/02/20,4,0,4Victoria,Australia,20/02/20,4,0,4,India,20/02/20,3,0,3,Italy,20/02/20,3,0,0,Philippines,20/02/20,3,1,1South Australia,Australia,20/02/20,2,0,2"Toronto, ON",Canada,20/02/20,2,0,0,RUnited Statessia,20/02/20,2,0,2,Spain,20/02/20,2,0,2"Chicago, IL",United States,20/02/20,2,0,2"San Benito, CA",United States,20/02/20,2,0,0"San Diego County, CA",United States,20/02/20,2,0,0"Santa Clara, CA",United States,20/02/20,2,0,0,Belgium,20/02/20,1,0,1,Cambodia,20/02/20,1,0,1"London, ON",Canada,20/02/20,1,0,1,Egypt,20/02/20,1,0,0,Finland,20/02/20,1,0,1Tibet,China,20/02/20,1,0,1,Nepal,20/02/20,1,0,1,Sri Lanka,20/02/20,1,0,1,Sweden,20/02/20,1,0,0"Boston, MA",United States,20/02/20,1,0,0"Los Angeles, CA",United States,20/02/20,1,0,0"Madison, WI",United States,20/02/20,1,0,0"Orange, CA",United States,20/02/20,1,0,0"San Antonio, TX",United States,20/02/20,1,0,0"Seattle, WA",United States,20/02/20,1,0,1"Tempe, AZ",United States,20/02/20,1,0,0Hubei,China,21/02/20,62662,2144,11881Guangdong,China,21/02/20,1333,5,690Henan,China,21/02/20,1267,19,736Zhejiang,China,21/02/20,1203,1,679Hunan,China,21/02/20,1011,4,661Anhui,China,21/02/20,988,6,539Jiangxi,China,21/02/20,934,1,489Shandong,China,21/02/20,749,4,281Diamond Princess cruise ship,Others,21/02/20,634,2,1Jiangsu,China,21/02/20,631,0,373Chongqing,China,21/02/20,572,6,316Sichuan,China,21/02/20,525,3,231Heilongjiang,China,21/02/20,479,12,175Beijing,China,21/02/20,396,4,169Shanghai,China,21/02/20,334,2,211Hebei,China,21/02/20,308,5,184Fujian,China,21/02/20,293,1,149Guangxi,China,21/02/20,246,2,97Shaanxi,China,21/02/20,245,1,134,South Korea,21/02/20,204,2,16Yunnan,China,21/02/20,174,2,96Hainan,China,21/02/20,168,4,95Guizhou,China,21/02/20,146,2,77Shanxi,China,21/02/20,132,0,78Tianjin,China,21/02/20,132,3,62Liaoning,China,21/02/20,121,1,61,Japan,21/02/20,105,1,22Gansu,China,21/02/20,91,2,76Jilin,China,21/02/20,91,1,45,Singapore,21/02/20,85,0,37Xinjiang,China,21/02/20,76,1,24Inner Mongolia,China,21/02/20,75,0,17Ningxia,China,21/02/20,71,0,48Hong Kong,Hong Kong,21/02/20,68,2,5,Thailand,21/02/20,35,0,17Taiwan,Taiwan,21/02/20,26,1,2,Malaysia,21/02/20,22,0,15,Italy,21/02/20,20,1,0,Iran,21/02/20,18,4,0Qinghai,China,21/02/20,18,0,18,Germany,21/02/20,16,0,14,Vietnam,21/02/20,16,0,14,France,21/02/20,12,1,4"Ashland, NE",United States,21/02/20,11,0,0Macau,Macau,21/02/20,10,0,6,United Kingdom,21/02/20,9,0,8,United Arab Emirates,21/02/20,9,0,4British Columbia,Canada,21/02/20,6,0,0Queensland,Australia,21/02/20,5,0,1"Travis, CA",United States,21/02/20,5,0,0From Diamond Princess,Australia,21/02/20,4,0,0New South Wales,Australia,21/02/20,4,0,4Victoria,Australia,21/02/20,4,0,4,India,21/02/20,3,0,3,Philippines,21/02/20,3,1,1South Australia,Australia,21/02/20,2,0,2"Toronto, ON",Canada,21/02/20,2,0,2,RUnited Statessia,21/02/20,2,0,2,Spain,21/02/20,2,0,2"Chicago, IL",United States,21/02/20,2,0,2"Lackland, TX",United States,21/02/20,2,0,0"San Benito, CA",United States,21/02/20,2,0,0"San Diego County, CA",United States,21/02/20,2,0,1"Santa Clara, CA",United States,21/02/20,2,0,1,Belgium,21/02/20,1,0,1,Cambodia,21/02/20,1,0,1"London, ON",Canada,21/02/20,1,0,1,Egypt,21/02/20,1,0,0,Finland,21/02/20,1,0,1From Diamond Princess,Israel,21/02/20,1,0,0None,Lebanon,21/02/20,1,0,0Tibet,China,21/02/20,1,0,1,Nepal,21/02/20,1,0,1,Sri Lanka,21/02/20,1,0,1,Sweden,21/02/20,1,0,0"Boston, MA",United States,21/02/20,1,0,0"Humboldt County, CA",United States,21/02/20,1,0,0"Los Angeles, CA",United States,21/02/20,1,0,0"Madison, WI",United States,21/02/20,1,0,0"Orange, CA",United States,21/02/20,1,0,0"Sacramento County, CA",United States,21/02/20,1,0,0"San Antonio, TX",United States,21/02/20,1,0,0"Seattle, WA",United States,21/02/20,1,0,1"Tempe, AZ",United States,21/02/20,1,0,0
+Province,Country,Date,Confirmed,Deaths,Recovered
+Anhui,China,22/1/20,1,0,0
+Beijing,China,22/1/20,14,0,0
+Chongqing,China,22/1/20,6,0,0
+Fujian,China,22/1/20,1,0,0
+Gansu,China,22/1/20,0,0,0
+Guangdong,China,22/1/20,26,0,0
+Guangxi,China,22/1/20,2,0,0
+Guizhou,China,22/1/20,1,0,0
+Hainan,China,22/1/20,4,0,0
+Hebei,China,22/1/20,1,0,0
+Heilongjiang,China,22/1/20,0,0,0
+Henan,China,22/1/20,5,0,0
+Hong Kong,Hong Kong,22/1/20,0,0,0
+Hubei,China,22/1/20,444,17,28
+Hunan,China,22/1/20,4,0,0
+Inner Mongolia,China,22/1/20,0,0,0
+Jiangsu,China,22/1/20,1,0,0
+Jiangxi,China,22/1/20,2,0,0
+Jilin,China,22/1/20,0,0,0
+Liaoning,China,22/1/20,2,0,0
+Macau,Macau,22/1/20,1,0,0
+Ningxia,China,22/1/20,1,0,0
+Qinghai,China,22/1/20,0,0,0
+Shaanxi,China,22/1/20,0,0,0
+Shandong,China,22/1/20,2,0,0
+Shanghai,China,22/1/20,9,0,0
+Shanxi,China,22/1/20,1,0,0
+Sichuan,China,22/1/20,5,0,0
+Taiwan,Taiwan,22/1/20,1,0,0
+Tianjin,China,22/1/20,4,0,0
+Tibet,China,22/1/20,0,0,0
+Washington,United States,22/1/20,1,0,0
+Xinjiang,China,22/1/20,0,0,0
+Yunnan,China,22/1/20,1,0,0
+Zhejiang,China,22/1/20,10,0,0
+,Japan,22/1/20,2,0,0
+,Thailand,22/1/20,2,0,0
+,South Korea,22/1/20,1,0,0
+Anhui,China,23/1/20,9,0,0
+Beijing,China,23/1/20,22,0,0
+Chongqing,China,23/1/20,9,0,0
+Fujian,China,23/1/20,5,0,0
+Gansu,China,23/1/20,2,0,0
+Guangdong,China,23/1/20,32,0,2
+Guangxi,China,23/1/20,5,0,0
+Guizhou,China,23/1/20,3,0,0
+Hainan,China,23/1/20,5,0,0
+Hebei,China,23/1/20,1,1,0
+Heilongjiang,China,23/1/20,2,0,0
+Henan,China,23/1/20,5,0,0
+Hong Kong,Hong Kong,23/1/20,2,0,0
+Hubei,China,23/1/20,444,17,28
+Hunan,China,23/1/20,9,0,0
+Inner Mongolia,China,23/1/20,0,0,0
+Jiangsu,China,23/1/20,5,0,0
+Jiangxi,China,23/1/20,7,0,0
+Jilin,China,23/1/20,1,0,0
+Liaoning,China,23/1/20,3,0,0
+Macau,Macau,23/1/20,2,0,0
+Ningxia,China,23/1/20,1,0,0
+Qinghai,China,23/1/20,0,0,0
+Shaanxi,China,23/1/20,3,0,0
+Shandong,China,23/1/20,6,0,0
+Shanghai,China,23/1/20,16,0,0
+Shanxi,China,23/1/20,1,0,0
+Sichuan,China,23/1/20,8,0,0
+Taiwan,Taiwan,23/1/20,1,0,0
+Tianjin,China,23/1/20,4,0,0
+Tibet,China,23/1/20,0,0,0
+Washington,United States,23/1/20,1,0,0
+Xinjiang,China,23/1/20,2,0,0
+Yunnan,China,23/1/20,2,0,0
+Zhejiang,China,23/1/20,27,0,0
+,Japan,23/1/20,1,0,0
+,Thailand,23/1/20,3,0,0
+,South Korea,23/1/20,1,0,0
+,Singapore,23/1/20,1,0,0
+,Philippines,23/1/20,0,0,0
+,Malaysia,23/1/20,0,0,0
+,Vietnam,23/1/20,2,0,0
+,Australia,23/1/20,0,0,0
+,Mexico,23/1/20,0,0,0
+,Brazil,23/1/20,0,0,0
+,Colombia,23/1/20,0,0,0
+Hubei,China,24/1/20,549,24,31
+Guangdong,China,24/1/20,53,0,2
+Zhejiang,China,24/1/20,43,0,1
+Beijing,China,24/1/20,36,0,1
+Chongqing,China,24/1/20,27,0,0
+Hunan,China,24/1/20,24,0,0
+Guangxi,China,24/1/20,23,0,0
+Shanghai,China,24/1/20,20,0,1
+Jiangxi,China,24/1/20,18,0,0
+Sichuan,China,24/1/20,15,0,0
+Shandong,China,24/1/20,15,0,0
+Anhui,China,24/1/20,15,0,0
+Fujian,China,24/1/20,10,0,0
+Henan,China,24/1/20,9,0,0
+Jiangsu,China,24/1/20,9,0,0
+Hainan,China,24/1/20,8,0,0
+Tianjin,China,24/1/20,8,0,0
+Yunnan,China,24/1/20,5,0,0
+Shaanxi,China,24/1/20,5,0,0
+Heilongjiang,China,24/1/20,4,1,0
+Liaoning,China,24/1/20,4,0,0
+Guizhou,China,24/1/20,3,0,0
+Jilin,China,24/1/20,3,0,0
+Taiwan,Taiwan,24/1/20,3,0,0
+Ningxia,China,24/1/20,2,0,0
+Hong Kong,Hong Kong,24/1/20,2,0,0
+Macau,Macau,24/1/20,2,0,0
+Hebei,China,24/1/20,2,1,0
+Gansu,China,24/1/20,2,0,0
+Xinjiang,China,24/1/20,2,0,0
+Shanxi,China,24/1/20,1,0,0
+Inner Mongolia,China,24/1/20,1,0,0
+Qinghai,China,24/1/20,,0,0
+Washington,United States,24/1/20,1,0,0
+Chicago,United States,24/1/20,1,0,0
+,Japan,24/1/20,2,0,0
+,Thailand,24/1/20,5,0,0
+,South Korea,24/1/20,2,0,0
+,Singapore,24/1/20,3,0,0
+,Vietnam,24/1/20,2,0,0
+,France,24/1/20,2,0,0
+Hubei,China,25/1/20,761,40,32
+Guangdong,China,25/1/20,78,0,2
+Zhejiang,China,25/1/20,62,0,1
+Chongqing,China,25/1/20,57,0,0
+Hunan,China,25/1/20,43,0,0
+Beijing,China,25/1/20,41,0,2
+Anhui,China,25/1/20,39,0,0
+Shanghai,China,25/1/20,33,0,1
+Henan,China,25/1/20,32,0,0
+Sichuan,China,25/1/20,28,0,0
+Shandong,China,25/1/20,27,0,0
+Guangxi,China,25/1/20,23,0,0
+Hainan,China,25/1/20,19,0,0
+Jiangxi,China,25/1/20,18,0,0
+Fujian,China,25/1/20,18,0,0
+Jiangsu,China,25/1/20,18,0,1
+Liaoning,China,25/1/20,17,0,0
+Shaanxi,China,25/1/20,15,0,0
+Yunnan,China,25/1/20,11,0,0
+Tianjin,China,25/1/20,10,0,0
+Heilongjiang,China,25/1/20,9,1,0
+Hebei,China,25/1/20,8,1,0
+Inner Mongolia,China,25/1/20,7,0,0
+Shanxi,China,25/1/20,6,0,0
+Hong Kong,Hong Kong,25/1/20,5,0,0
+Guizhou,China,25/1/20,4,0,0
+Jilin,China,25/1/20,4,0,0
+Gansu,China,25/1/20,4,0,0
+Ningxia,China,25/1/20,3,0,0
+Taiwan,Taiwan,25/1/20,3,0,0
+Xinjiang,China,25/1/20,3,0,0
+Macau,Macau,25/1/20,2,0,0
+Qinghai,China,25/1/20,1,0,0
+Washington,United States,25/1/20,1,0,0
+Illinois,United States,25/1/20,1,0,0
+,Japan,25/1/20,2,0,0
+,Thailand,25/1/20,7,0,0
+,South Korea,25/1/20,2,0,0
+,Singapore,25/1/20,3,0,0
+,Vietnam,25/1/20,2,0,0
+,France,25/1/20,3,0,0
+,Australia,25/1/20,4,0,0
+,Nepal,25/1/20,1,0,0
+,Malaysia,25/1/20,3,0,0
+Hubei,China,26/1/20,1058,52,42
+Guangdong,China,26/1/20,111,0,2
+Zhejiang,China,26/1/20,104,0,1
+Henan,China,26/1/20,83,1,0
+Chongqing,China,26/1/20,75,0,0
+Hunan,China,26/1/20,69,0,0
+Beijing,China,26/1/20,68,0,2
+Anhui,China,26/1/20,60,0,0
+Shandong,China,26/1/20,46,0,0
+Sichuan,China,26/1/20,44,0,0
+Shanghai,China,26/1/20,40,1,1
+Guangxi,China,26/1/20,36,0,0
+Jiangxi,China,26/1/20,36,0,0
+Fujian,China,26/1/20,35,0,0
+Jiangsu,China,26/1/20,33,0,1
+Hainan,China,26/1/20,22,0,0
+Shaanxi,China,26/1/20,22,0,0
+Liaoning,China,26/1/20,21,0,0
+Yunnan,China,26/1/20,16,0,0
+Heilongjiang,China,26/1/20,15,1,0
+Tianjin,China,26/1/20,14,0,0
+Hebei,China,26/1/20,13,1,0
+Shanxi,China,26/1/20,9,0,0
+Hong Kong,Hong Kong,26/1/20,8,0,0
+Inner Mongolia,China,26/1/20,7,0,0
+Gansu,China,26/1/20,7,0,0
+Guizhou,China,26/1/20,5,0,0
+Macau,Macau,26/1/20,5,0,0
+Ningxia,China,26/1/20,4,0,0
+Jilin,China,26/1/20,4,0,0
+Taiwan,Taiwan,26/1/20,4,0,0
+Xinjiang,China,26/1/20,4,0,0
+Qinghai,China,26/1/20,1,0,0
+Washington,United States,26/1/20,1,0,0
+Illinois,United States,26/1/20,1,0,0
+California,United States,26/1/20,2,0,0
+Arizona,United States,26/1/20,1,0,0
+,Japan,26/1/20,4,0,1
+,Thailand,26/1/20,8,0,2
+,South Korea,26/1/20,3,0,0
+,Singapore,26/1/20,4,0,0
+,Vietnam,26/1/20,2,0,0
+,France,26/1/20,3,0,0
+,Australia,26/1/20,4,0,0
+,Nepal,26/1/20,1,0,0
+,Malaysia,26/1/20,4,0,0
+Ontario,Canada,26/1/20,1,0,0
+Hubei,China,27/1/20,1423,76,45
+Guangdong,China,27/1/20,151,0,4
+Zhejiang,China,27/1/20,128,0,1
+Henan,China,27/1/20,128,1,0
+Chongqing,China,27/1/20,110,0,0
+Hunan,China,27/1/20,100,0,0
+Beijing,China,27/1/20,80,1,2
+Shandong,China,27/1/20,75,0,0
+Jiangxi,China,27/1/20,72,0,2
+Anhui,China,27/1/20,70,0,0
+Sichuan,China,27/1/20,69,0,0
+Fujian,China,27/1/20,59,0,0
+Shanghai,China,27/1/20,53,1,3
+Jiangsu,China,27/1/20,47,0,1
+Guangxi,China,27/1/20,46,0,0
+Shaanxi,China,27/1/20,35,0,0
+Hainan,China,27/1/20,33,1,0
+Liaoning,China,27/1/20,27,0,0
+Yunnan,China,27/1/20,26,0,0
+Tianjin,China,27/1/20,23,0,0
+Heilongjiang,China,27/1/20,21,1,0
+Hebei,China,27/1/20,18,1,0
+Gansu,China,27/1/20,14,0,0
+Shanxi,China,27/1/20,13,0,0
+Inner Mongolia,China,27/1/20,11,0,0
+Hong Kong,Hong Kong,27/1/20,8,0,0
+Guizhou,China,27/1/20,7,0,0
+Ningxia,China,27/1/20,7,0,0
+Jilin,China,27/1/20,6,0,0
+Macau,Macau,27/1/20,6,0,0
+Qinghai,China,27/1/20,6,0,0
+Taiwan,Taiwan,27/1/20,5,0,0
+Xinjiang,China,27/1/20,5,0,0
+Washington,United States,27/1/20,1,0,0
+Illinois,United States,27/1/20,1,0,0
+California,United States,27/1/20,2,0,0
+Arizona,United States,27/1/20,1,0,0
+,Japan,27/1/20,4,0,1
+,Thailand,27/1/20,8,0,2
+,South Korea,27/1/20,4,0,0
+,Singapore,27/1/20,5,0,0
+,Vietnam,27/1/20,2,0,0
+,France,27/1/20,3,0,0
+,Nepal,27/1/20,1,0,0
+,Malaysia,27/1/20,4,0,0
+Ontario,Canada,27/1/20,1,0,0
+,Cambodia,27/1/20,1,0,0
+,Sri Lanka,27/1/20,1,0,0
+,Ivory Coast,27/1/20,1,0,0
+New South Wales,Australia,27/1/20,4,0,0
+Victoria,Australia,27/1/20,1,0,0
+Hubei,China,28/1/20,3554,125,80
+Guangdong,China,28/1/20,207,0,4
+Zhejiang,China,28/1/20,173,0,3
+Henan,China,28/1/20,168,1,0
+Hunan,China,28/1/20,143,0,0
+Chongqing,China,28/1/20,132,0,0
+Jiangxi,China,28/1/20,109,0,3
+Anhui,China,28/1/20,106,0,0
+Shandong,China,28/1/20,95,0,0
+Beijing,China,28/1/20,91,1,4
+Sichuan,China,28/1/20,90,0,0
+Fujian,China,28/1/20,80,0,0
+Jiangsu,China,28/1/20,70,0,1
+Shanghai,China,28/1/20,66,1,4
+Guangxi,China,28/1/20,51,0,2
+Shaanxi,China,28/1/20,46,0,0
+Yunnan,China,28/1/20,44,0,0
+Hainan,China,28/1/20,40,1,0
+Liaoning,China,28/1/20,34,0,0
+Hebei,China,28/1/20,33,1,0
+Heilongjiang,China,28/1/20,33,1,0
+Shanxi,China,28/1/20,27,0,0
+Tianjin,China,28/1/20,24,0,0
+Gansu,China,28/1/20,19,0,0
+Inner Mongolia,China,28/1/20,15,0,0
+Ningxia,China,28/1/20,11,0,0
+Xinjiang,China,28/1/20,10,0,0
+Guizhou,China,28/1/20,9,0,0
+Jilin,China,28/1/20,8,0,0
+Taiwan,Taiwan,28/1/20,8,0,0
+Hong Kong,Hong Kong,28/1/20,8,0,0
+Macau,Macau,28/1/20,7,0,0
+Qinghai,China,28/1/20,6,0,0
+Washington,United States,28/1/20,1,0,0
+Illinois,United States,28/1/20,1,0,0
+California,United States,28/1/20,2,0,0
+Arizona,United States,28/1/20,1,0,0
+,Japan,28/1/20,7,0,1
+,Thailand,28/1/20,14,0,5
+,South Korea,28/1/20,4,0,0
+,Singapore,28/1/20,7,0,0
+,Vietnam,28/1/20,2,0,0
+,France,28/1/20,4,0,0
+,Nepal,28/1/20,1,0,0
+,Malaysia,28/1/20,4,0,0
+Ontario,Canada,28/1/20,1,0,0
+British Columbia,Canada,28/1/20,1,0,0
+,Cambodia,28/1/20,1,0,0
+,Sri Lanka,28/1/20,1,0,0
+New South Wales,Australia,28/1/20,4,0,0
+Victoria,Australia,28/1/20,1,0,0
+Bavaria,Germany,28/1/20,4,0,0
+Hubei,China,29/1/20,3554,125,88
+Zhejiang,China,29/1/20,296,0,3
+Guangdong,China,29/1/20,277,0,5
+Hunan,China,29/1/20,221,0,0
+Henan,China,29/1/20,206,2,1
+Anhui,China,29/1/20,152,0,2
+Chongqing,China,29/1/20,147,0,1
+Shandong,China,29/1/20,130,0,1
+Beijing,China,29/1/20,111,1,4
+Jiangxi,China,29/1/20,109,0,3
+Sichuan,China,29/1/20,108,1,1
+Jiangsu,China,29/1/20,99,0,1
+Shanghai,China,29/1/20,96,1,5
+Fujian,China,29/1/20,84,0,0
+Guangxi,China,29/1/20,58,0,2
+Shaanxi,China,29/1/20,56,0,0
+Yunnan,China,29/1/20,55,0,0
+Hebei,China,29/1/20,48,1,0
+Hainan,China,29/1/20,43,1,0
+Liaoning,China,29/1/20,39,0,1
+Heilongjiang,China,29/1/20,38,1,0
+Tianjin,China,29/1/20,27,0,0
+Shanxi,China,29/1/20,27,0,1
+Gansu,China,29/1/20,24,0,0
+Inner Mongolia,China,29/1/20,16,0,0
+Xinjiang,China,29/1/20,13,0,0
+Ningxia,China,29/1/20,12,0,0
+Hong Kong,Hong Kong,29/1/20,10,0,0
+Guizhou,China,29/1/20,9,0,1
+Jilin,China,29/1/20,9,0,0
+Taiwan,Taiwan,29/1/20,8,0,0
+Macau,Macau,29/1/20,7,0,0
+Qinghai,China,29/1/20,6,0,0
+Washington,United States,29/1/20,1,0,0
+Illinois,United States,29/1/20,1,0,0
+California,United States,29/1/20,2,0,0
+Arizona,United States,29/1/20,1,0,0
+,Japan,29/1/20,7,0,1
+,Thailand,29/1/20,14,0,5
+,South Korea,29/1/20,4,0,0
+,Singapore,29/1/20,7,0,0
+,Vietnam,29/1/20,2,0,0
+,France,29/1/20,5,0,0
+,Nepal,29/1/20,1,0,0
+,Malaysia,29/1/20,7,0,0
+Ontario,Canada,29/1/20,1,0,0
+British Columbia,Canada,29/1/20,1,0,0
+,Cambodia,29/1/20,1,0,0
+,Sri Lanka,29/1/20,1,0,0
+New South Wales,Australia,29/1/20,4,0,0
+Victoria,Australia,29/1/20,1,0,0
+Bavaria,Germany,29/1/20,4,0,0
+,Finland,29/1/20,1,0,0
+,United Arab Emirates,29/1/20,4,0,0
+Hubei,China,30/1/20,4903,162,90
+Zhejiang,China,30/1/20,428,0,4
+Guangdong,China,30/1/20,354,0,10
+Henan,China,30/1/20,278,2,2
+Hunan,China,30/1/20,277,0,2
+Anhui,China,30/1/20,200,0,2
+Chongqing,China,30/1/20,182,0,1
+Jiangxi,China,30/1/20,162,0,5
+Shandong,China,30/1/20,158,0,1
+Sichuan,China,30/1/20,142,1,1
+Jiangsu,China,30/1/20,129,0,1
+Beijing,China,30/1/20,114,1,4
+Shanghai,China,30/1/20,112,1,5
+Fujian,China,30/1/20,101,0,0
+Guangxi,China,30/1/20,78,0,2
+Yunnan,China,30/1/20,70,0,0
+Hebei,China,30/1/20,65,1,0
+Shaanxi,China,30/1/20,63,0,0
+Hainan,China,30/1/20,46,1,1
+Heilongjiang,China,30/1/20,44,2,0
+Liaoning,China,30/1/20,41,0,1
+Shanxi,China,30/1/20,35,0,1
+Tianjin,China,30/1/20,31,0,0
+Gansu,China,30/1/20,26,0,0
+Inner Mongolia,China,30/1/20,19,0,0
+Ningxia,China,30/1/20,17,0,0
+Jilin,China,30/1/20,14,0,1
+Xinjiang,China,30/1/20,14,0,0
+Guizhou,China,30/1/20,12,0,1
+Hong Kong,Hong Kong,30/1/20,10,0,0
+Taiwan,Taiwan,30/1/20,9,0,0
+Qinghai,China,30/1/20,8,0,0
+Macau,Macau,30/1/20,7,0,0
+Tibet,China,30/1/20,1,0,0
+Washington,United States,30/1/20,1,0,0
+Illinois,United States,30/1/20,1,0,0
+California,United States,30/1/20,2,0,0
+Arizona,United States,30/1/20,1,0,0
+,Japan,30/1/20,11,0,1
+,Thailand,30/1/20,14,0,5
+,South Korea,30/1/20,4,0,0
+,Singapore,30/1/20,10,0,0
+,Vietnam,30/1/20,2,0,0
+,France,30/1/20,5,0,0
+,Nepal,30/1/20,1,0,0
+,Malaysia,30/1/20,8,0,0
+Ontario,Canada,30/1/20,2,0,0
+British Columbia,Canada,30/1/20,1,0,0
+,Cambodia,30/1/20,1,0,0
+,Sri Lanka,30/1/20,1,0,0
+New South Wales,Australia,30/1/20,4,0,2
+Victoria,Australia,30/1/20,2,0,0
+Queensland,Australia,30/1/20,3,0,0
+Bavaria,Germany,30/1/20,4,0,0
+,Finland,30/1/20,1,0,0
+,United Arab Emirates,30/1/20,4,0,0
+,Philippines,30/1/20,1,0,0
+,India,30/1/20,1,0,0
+Hubei,China,31/1/20,5806,204,141
+Zhejiang,China,31/1/20,538,0,14
+Guangdong,China,31/1/20,436,0,11
+Henan,China,31/1/20,352,2,3
+Hunan,China,31/1/20,332,0,2
+Jiangxi,China,31/1/20,240,0,7
+Anhui,China,31/1/20,237,0,3
+Chongqing,China,31/1/20,211,0,1
+Shandong,China,31/1/20,184,0,2
+Sichuan,China,31/1/20,177,1,1
+Jiangsu,China,31/1/20,168,0,5
+Beijing,China,31/1/20,139,1,5
+Shanghai,China,31/1/20,135,1,9
+Fujian,China,31/1/20,120,0,0
+Guangxi,China,31/1/20,87,0,2
+Shaanxi,China,31/1/20,87,0,0
+Yunnan,China,31/1/20,83,0,1
+Hebei,China,31/1/20,82,1,0
+Heilongjiang,China,31/1/20,59,2,0
+Hainan,China,31/1/20,52,1,1
+Liaoning,China,31/1/20,48,0,1
+Shanxi,China,31/1/20,39,0,1
+Tianjin,China,31/1/20,32,0,0
+Guizhou,China,31/1/20,29,0,2
+Gansu,China,31/1/20,29,0,0
+Ningxia,China,31/1/20,21,0,0
+Inner Mongolia,China,31/1/20,20,0,1
+Xinjiang,China,31/1/20,17,0,0
+Jilin,China,31/1/20,14,0,1
+Hong Kong,Hong Kong,31/1/20,12,0,0
+Taiwan,Taiwan,31/1/20,10,0,0
+Qinghai,China,31/1/20,8,0,0
+Macau,Macau,31/1/20,7,0,0
+Tibet,China,31/1/20,1,0,0
+,Thailand,31/1/20,19,0,5
+,Japan,31/1/20,15,0,1
+,Singapore,31/1/20,13,0,0
+,South Korea,31/1/20,11,0,0
+,Malaysia,31/1/20,8,0,0
+,France,31/1/20,5,0,0
+Bavaria,Germany,31/1/20,5,0,0
+New South Wales,Australia,31/1/20,4,0,2
+,United Arab Emirates,31/1/20,4,0,0
+Victoria,Australia,31/1/20,3,0,0
+Illinois,United States,31/1/20,2,0,0
+California,United States,31/1/20,2,0,0
+,Vietnam,31/1/20,2,0,0
+Ontario,Canada,31/1/20,2,0,0
+Queensland,Australia,31/1/20,2,0,0
+,Italy,31/1/20,2,0,0
+,United Kingdom,31/1/20,2,0,0
+,RUnited Statessia,31/1/20,2,0,0
+Washington,United States,31/1/20,1,0,0
+Arizona,United States,31/1/20,1,0,0
+,Nepal,31/1/20,1,0,0
+British Columbia,Canada,31/1/20,1,0,0
+,Cambodia,31/1/20,1,0,0
+,Sri Lanka,31/1/20,1,0,0
+,Finland,31/1/20,1,0,0
+,Philippines,31/1/20,1,0,0
+,India,31/1/20,1,0,0
+,Sweden,31/1/20,1,0,0
+Hubei,China,1/2/20,7153,249,168
+Zhejiang,China,1/2/20,599,0,21
+Guangdong,China,1/2/20,535,0,14
+Henan,China,1/2/20,422,2,3
+Hunan,China,1/2/20,389,0,8
+Anhui,China,1/2/20,297,0,5
+Jiangxi,China,1/2/20,286,0,9
+Chongqing,China,1/2/20,247,1,3
+Sichuan,China,1/2/20,207,1,3
+Shandong,China,1/2/20,206,0,3
+Jiangsu,China,1/2/20,202,0,6
+Shanghai,China,1/2/20,169,1,10
+Beijing,China,1/2/20,168,1,9
+Fujian,China,1/2/20,144,0,0
+Shaanxi,China,1/2/20,101,0,0
+Guangxi,China,1/2/20,100,0,2
+Hebei,China,1/2/20,96,1,0
+Yunnan,China,1/2/20,93,0,2
+Heilongjiang,China,1/2/20,80,2,2
+Liaoning,China,1/2/20,64,0,1
+Hainan,China,1/2/20,62,1,1
+Shanxi,China,1/2/20,47,0,1
+Tianjin,China,1/2/20,41,0,0
+Gansu,China,1/2/20,40,0,0
+Guizhou,China,1/2/20,29,0,2
+Ningxia,China,1/2/20,26,0,0
+Inner Mongolia,China,1/2/20,23,0,1
+,Japan,1/2/20,20,0,1
+,Thailand,1/2/20,19,0,5
+Xinjiang,China,1/2/20,18,0,0
+Jilin,China,1/2/20,17,0,1
+,Singapore,1/2/20,16,0,0
+Hong Kong,Hong Kong,1/2/20,13,0,0
+,South Korea,1/2/20,12,0,0
+Taiwan,Taiwan,1/2/20,10,0,0
+Qinghai,China,1/2/20,9,0,0
+,Malaysia,1/2/20,8,0,0
+,Germany,1/2/20,8,0,0
+Macau,Macau,1/2/20,7,0,0
+,France,1/2/20,6,0,0
+,Vietnam,1/2/20,6,0,1
+New South Wales,Australia,1/2/20,4,0,2
+Victoria,Australia,1/2/20,4,0,0
+,United Arab Emirates,1/2/20,4,0,0
+Queensland,Australia,1/2/20,3,0,0
+Ontario,Canada,1/2/20,3,0,0
+,Italy,1/2/20,2,0,0
+,RUnited Statessia,1/2/20,2,0,0
+,United Kingdom,1/2/20,2,0,0
+"Chicago, IL",United States,1/2/20,2,0,0
+South Australia,Australia,1/2/20,1,0,0
+,Cambodia,1/2/20,1,0,0
+British Columbia,Canada,1/2/20,1,0,0
+,Finland,1/2/20,1,0,0
+,India,1/2/20,1,0,0
+Tibet,China,1/2/20,1,0,0
+,Nepal,1/2/20,1,0,0
+,Philippines,1/2/20,1,0,0
+,Spain,1/2/20,1,0,0
+,Sri Lanka,1/2/20,1,0,0
+,Sweden,1/2/20,1,0,0
+"Boston, MA",United States,1/2/20,1,0,0
+"Los Angeles, CA",United States,1/2/20,1,0,0
+"Orange, CA",United States,1/2/20,1,0,0
+"Santa Clara, CA",United States,1/2/20,1,0,0
+"Seattle, WA",United States,1/2/20,1,0,0
+"Tempe, AZ",United States,1/2/20,1,0,0
+Hubei,China,2/2/20,11177,350,295
+Zhejiang,China,2/2/20,661,0,32
+Guangdong,China,2/2/20,632,0,15
+Henan,China,2/2/20,493,2,10
+Hunan,China,2/2/20,463,0,16
+Anhui,China,2/2/20,340,0,7
+Jiangxi,China,2/2/20,333,0,12
+Chongqing,China,2/2/20,300,2,7
+Jiangsu,China,2/2/20,236,0,7
+Sichuan,China,2/2/20,231,1,11
+Shandong,China,2/2/20,230,0,6
+Beijing,China,2/2/20,191,1,9
+Shanghai,China,2/2/20,182,1,10
+Fujian,China,2/2/20,159,0,0
+Shaanxi,China,2/2/20,116,0,0
+Guangxi,China,2/2/20,111,0,2
+Yunnan,China,2/2/20,105,0,3
+Hebei,China,2/2/20,104,1,3
+Heilongjiang,China,2/2/20,95,2,2
+Liaoning,China,2/2/20,70,0,1
+Shanxi,China,2/2/20,66,0,3
+Hainan,China,2/2/20,64,1,4
+Gansu,China,2/2/20,51,0,3
+Tianjin,China,2/2/20,48,0,1
+Guizhou,China,2/2/20,38,0,2
+Ningxia,China,2/2/20,28,0,0
+Inner Mongolia,China,2/2/20,27,0,1
+Jilin,China,2/2/20,23,0,1
+Xinjiang,China,2/2/20,21,0,0
+,Japan,2/2/20,20,0,1
+,Thailand,2/2/20,19,0,5
+,Singapore,2/2/20,18,0,0
+Hong Kong,Hong Kong,2/2/20,15,0,0
+,South Korea,2/2/20,15,0,0
+Qinghai,China,2/2/20,11,0,0
+,Germany,2/2/20,10,0,0
+Taiwan,Taiwan,2/2/20,10,0,0
+Macau,Macau,2/2/20,8,0,0
+,Malaysia,2/2/20,8,0,0
+,France,2/2/20,6,0,0
+,Vietnam,2/2/20,6,0,1
+,United Arab Emirates,2/2/20,5,0,0
+New South Wales,Australia,2/2/20,4,0,2
+Victoria,Australia,2/2/20,4,0,0
+Ontario,Canada,2/2/20,3,0,0
+Queensland,Australia,2/2/20,2,0,0
+South Australia,Australia,2/2/20,2,0,0
+,India,2/2/20,2,0,0
+,Italy,2/2/20,2,0,0
+,Philippines,2/2/20,2,1,0
+,RUnited Statessia,2/2/20,2,0,0
+,United Kingdom,2/2/20,2,0,0
+"Chicago, IL",United States,2/2/20,2,0,0
+,Cambodia,2/2/20,1,0,0
+British Columbia,Canada,2/2/20,1,0,0
+,Finland,2/2/20,1,0,0
+Tibet,China,2/2/20,1,0,0
+,Nepal,2/2/20,1,0,0
+,Spain,2/2/20,1,0,0
+,Sri Lanka,2/2/20,1,0,0
+,Sweden,2/2/20,1,0,0
+"Boston, MA",United States,2/2/20,1,0,0
+"Los Angeles, CA",United States,2/2/20,1,0,0
+"Orange, CA",United States,2/2/20,1,0,0
+"Santa Clara, CA",United States,2/2/20,1,0,0
+"Seattle, WA",United States,2/2/20,1,0,0
+"Tempe, AZ",United States,2/2/20,1,0,0
+Hubei,China,3/2/20,13522,414,386
+Guangdong,China,3/2/20,725,0,21
+Zhejiang,China,3/2/20,724,0,43
+Henan,China,3/2/20,566,2,16
+Hunan,China,3/2/20,521,0,22
+Anhui,China,3/2/20,408,0,14
+Jiangxi,China,3/2/20,391,0,18
+Chongqing,China,3/2/20,337,2,9
+Jiangsu,China,3/2/20,271,0,8
+Shandong,China,3/2/20,259,0,7
+Sichuan,China,3/2/20,254,1,14
+Beijing,China,3/2/20,212,1,12
+Shanghai,China,3/2/20,203,1,10
+Fujian,China,3/2/20,179,0,1
+Shaanxi,China,3/2/20,128,0,0
+Guangxi,China,3/2/20,127,0,7
+Heilongjiang,China,3/2/20,121,2,2
+Yunnan,China,3/2/20,117,0,5
+Hebei,China,3/2/20,113,1,3
+Liaoning,China,3/2/20,74,0,1
+Shanxi,China,3/2/20,74,0,2
+Hainan,China,3/2/20,72,1,4
+Tianjin,China,3/2/20,60,0,1
+Gansu,China,3/2/20,55,0,3
+Guizhou,China,3/2/20,46,0,2
+Inner Mongolia,China,3/2/20,34,0,1
+Jilin,China,3/2/20,31,0,1
+Ningxia,China,3/2/20,31,0,1
+Xinjiang,China,3/2/20,24,0,0
+,Japan,3/2/20,20,0,1
+,Thailand,3/2/20,19,0,5
+,Singapore,3/2/20,18,0,0
+Hong Kong,Hong Kong,3/2/20,15,0,0
+,South Korea,3/2/20,15,0,0
+Qinghai,China,3/2/20,13,0,0
+,Germany,3/2/20,12,0,0
+Taiwan,Taiwan,3/2/20,10,0,0
+Macau,Macau,3/2/20,8,0,0
+,Malaysia,3/2/20,8,0,0
+,Vietnam,3/2/20,8,0,1
+,France,3/2/20,6,0,0
+,United Arab Emirates,3/2/20,5,0,0
+New South Wales,Australia,3/2/20,4,0,2
+Victoria,Australia,3/2/20,4,0,0
+Ontario,Canada,3/2/20,3,0,0
+,India,3/2/20,3,0,0
+Queensland,Australia,3/2/20,2,0,0
+South Australia,Australia,3/2/20,2,0,0
+,Italy,3/2/20,2,0,0
+,Philippines,3/2/20,2,1,0
+,RUnited Statessia,3/2/20,2,0,0
+,United Kingdom,3/2/20,2,0,0
+"Chicago, IL",United States,3/2/20,2,0,0
+"San Benito, CA",United States,3/2/20,2,0,0
+"Santa Clara, CA",United States,3/2/20,2,0,0
+,Cambodia,3/2/20,1,0,0
+British Columbia,Canada,3/2/20,1,0,0
+,Finland,3/2/20,1,0,0
+Tibet,China,3/2/20,1,0,0
+,Nepal,3/2/20,1,0,0
+,Spain,3/2/20,1,0,0
+,Sri Lanka,3/2/20,1,0,0
+,Sweden,3/2/20,1,0,0
+"Boston, MA",United States,3/2/20,1,0,0
+"Los Angeles, CA",United States,3/2/20,1,0,0
+"Orange, CA",United States,3/2/20,1,0,0
+"Seattle, WA",United States,3/2/20,1,0,0
+"Tempe, AZ",United States,3/2/20,1,0,0
+Hubei,China,4/2/20,16678,479,522
+Zhejiang,China,4/2/20,829,0,62
+Guangdong,China,4/2/20,813,0,30
+Henan,China,4/2/20,675,2,27
+Hunan,China,4/2/20,593,0,31
+Anhui,China,4/2/20,480,0,20
+Jiangxi,China,4/2/20,476,0,20
+Chongqing,China,4/2/20,366,2,9
+Jiangsu,China,4/2/20,308,0,12
+Sichuan,China,4/2/20,282,1,14
+Shandong,China,4/2/20,275,0,11
+Beijing,China,4/2/20,228,1,23
+Shanghai,China,4/2/20,219,1,12
+Fujian,China,4/2/20,194,0,3
+Heilongjiang,China,4/2/20,155,2,4
+Shaanxi,China,4/2/20,142,0,2
+Guangxi,China,4/2/20,139,0,10
+Hebei,China,4/2/20,126,1,4
+Yunnan,China,4/2/20,122,0,5
+Liaoning,China,4/2/20,81,0,2
+Shanxi,China,4/2/20,81,0,4
+Hainan,China,4/2/20,80,1,5
+Tianjin,China,4/2/20,67,0,2
+Guizhou,China,4/2/20,58,0,2
+Gansu,China,4/2/20,57,0,4
+Jilin,China,4/2/20,42,0,1
+Inner Mongolia,China,4/2/20,35,0,1
+Ningxia,China,4/2/20,34,0,1
+Xinjiang,China,4/2/20,29,0,0
+,Thailand,4/2/20,25,0,5
+,Singapore,4/2/20,24,0,0
+,Japan,4/2/20,22,0,1
+Hong Kong,Hong Kong,4/2/20,17,1,0
+,South Korea,4/2/20,16,0,0
+Qinghai,China,4/2/20,15,0,0
+,Germany,4/2/20,12,0,0
+Taiwan,Taiwan,4/2/20,11,0,0
+Macau,Macau,4/2/20,10,0,0
+,Malaysia,4/2/20,10,0,0
+,Vietnam,4/2/20,8,0,1
+,France,4/2/20,6,0,0
+,United Arab Emirates,4/2/20,5,0,0
+New South Wales,Australia,4/2/20,4,0,2
+Victoria,Australia,4/2/20,4,0,0
+Queensland,Australia,4/2/20,3,0,0
+,India,4/2/20,3,0,0
+South Australia,Australia,4/2/20,2,0,0
+"Toronto, ON",Canada,4/2/20,2,0,0
+,Italy,4/2/20,2,0,0
+,Philippines,4/2/20,2,1,0
+,RUnited Statessia,4/2/20,2,0,0
+,United Kingdom,4/2/20,2,0,0
+"Chicago, IL",United States,4/2/20,2,0,0
+"San Benito, CA",United States,4/2/20,2,0,0
+"Santa Clara, CA",United States,4/2/20,2,0,0
+,Belgium,4/2/20,1,0,0
+,Cambodia,4/2/20,1,0,0
+British Columbia,Canada,4/2/20,1,0,0
+"London, ON",Canada,4/2/20,1,0,0
+,Finland,4/2/20,1,0,0
+Tibet,China,4/2/20,1,0,0
+,Nepal,4/2/20,1,0,0
+,Spain,4/2/20,1,0,0
+,Sri Lanka,4/2/20,1,0,0
+,Sweden,4/2/20,1,0,0
+"Boston, MA",United States,4/2/20,1,0,0
+"Los Angeles, CA",United States,4/2/20,1,0,0
+"Orange, CA",United States,4/2/20,1,0,0
+"Seattle, WA",United States,4/2/20,1,0,0
+"Tempe, AZ",United States,4/2/20,1,0,0
+Hubei,China,5/2/20,19665,549,633
+Guangdong,China,5/2/20,895,0,49
+Zhejiang,China,5/2/20,895,0,78
+Henan,China,5/2/20,764,2,47
+Hunan,China,5/2/20,661,0,54
+Jiangxi,China,5/2/20,548,0,27
+Anhui,China,5/2/20,530,0,23
+Chongqing,China,5/2/20,389,2,15
+Jiangsu,China,5/2/20,341,0,23
+Shandong,China,5/2/20,307,0,15
+Sichuan,China,5/2/20,301,1,24
+Beijing,China,5/2/20,253,1,24
+Shanghai,China,5/2/20,243,1,15
+Fujian,China,5/2/20,205,0,11
+Heilongjiang,China,5/2/20,190,2,7
+Shaanxi,China,5/2/20,165,0,6
+Guangxi,China,5/2/20,150,0,13
+Hebei,China,5/2/20,135,1,6
+Yunnan,China,5/2/20,128,0,5
+Hainan,China,5/2/20,99,1,5
+Liaoning,China,5/2/20,89,0,4
+Shanxi,China,5/2/20,81,0,5
+Tianjin,China,5/2/20,69,1,2
+Guizhou,China,5/2/20,64,1,9
+Gansu,China,5/2/20,62,0,6
+Jilin,China,5/2/20,54,0,2
+Inner Mongolia,China,5/2/20,42,0,3
+Ningxia,China,5/2/20,34,0,1
+Xinjiang,China,5/2/20,32,0,0
+,Singapore,5/2/20,28,0,0
+,Thailand,5/2/20,25,0,5
+,Japan,5/2/20,22,0,1
+Hong Kong,Hong Kong,5/2/20,21,1,0
+,South Korea,5/2/20,19,0,0
+Qinghai,China,5/2/20,17,0,3
+,Germany,5/2/20,12,0,0
+,Malaysia,5/2/20,12,0,0
+Taiwan,Taiwan,5/2/20,11,0,0
+Macau,Macau,5/2/20,10,0,0
+,Vietnam,5/2/20,8,0,1
+,France,5/2/20,6,0,0
+,United Arab Emirates,5/2/20,5,0,0
+New South Wales,Australia,5/2/20,4,0,2
+Victoria,Australia,5/2/20,4,0,0
+Queensland,Australia,5/2/20,3,0,0
+,India,5/2/20,3,0,0
+South Australia,Australia,5/2/20,2,0,0
+British Columbia,Canada,5/2/20,2,0,0
+"Toronto, ON",Canada,5/2/20,2,0,0
+,Italy,5/2/20,2,0,0
+,Philippines,5/2/20,2,1,0
+,RUnited Statessia,5/2/20,2,0,0
+,United Kingdom,5/2/20,2,0,0
+"Chicago, IL",United States,5/2/20,2,0,0
+"San Benito, CA",United States,5/2/20,2,0,0
+"Santa Clara, CA",United States,5/2/20,2,0,0
+,Belgium,5/2/20,1,0,0
+,Cambodia,5/2/20,1,0,0
+"London, ON",Canada,5/2/20,1,0,0
+,Finland,5/2/20,1,0,0
+Tibet,China,5/2/20,1,0,0
+,Nepal,5/2/20,1,0,0
+,Spain,5/2/20,1,0,0
+,Sri Lanka,5/2/20,1,0,0
+,Sweden,5/2/20,1,0,0
+"Boston, MA",United States,5/2/20,1,0,0
+"Los Angeles, CA",United States,5/2/20,1,0,0
+"Madison, WI",United States,5/2/20,1,0,0
+"Orange, CA",United States,5/2/20,1,0,0
+"Seattle, WA",United States,5/2/20,1,0,0
+"Tempe, AZ",United States,5/2/20,1,0,0
+Hubei,China,6/2/20,22112,618,817
+Guangdong,China,6/2/20,970,0,69
+Zhejiang,China,6/2/20,954,0,94
+Henan,China,6/2/20,851,2,56
+Hunan,China,6/2/20,711,0,81
+Jiangxi,China,6/2/20,600,0,37
+Anhui,China,6/2/20,591,0,34
+Chongqing,China,6/2/20,411,2,24
+Jiangsu,China,6/2/20,373,0,34
+Shandong,China,6/2/20,347,0,27
+Sichuan,China,6/2/20,321,1,31
+Beijing,China,6/2/20,274,1,31
+Shanghai,China,6/2/20,257,1,25
+Heilongjiang,China,6/2/20,227,3,8
+Fujian,China,6/2/20,215,0,14
+Shaanxi,China,6/2/20,173,0,9
+Guangxi,China,6/2/20,168,0,14
+Hebei,China,6/2/20,157,1,13
+Yunnan,China,6/2/20,133,0,7
+Hainan,China,6/2/20,106,1,8
+Shanxi,China,6/2/20,96,0,12
+Liaoning,China,6/2/20,94,0,5
+Tianjin,China,6/2/20,79,1,2
+Guizhou,China,6/2/20,71,1,6
+Gansu,China,6/2/20,62,0,6
+Jilin,China,6/2/20,59,0,4
+Inner Mongolia,China,6/2/20,46,0,4
+,Japan,6/2/20,45,0,1
+Ningxia,China,6/2/20,40,0,1
+Xinjiang,China,6/2/20,36,0,0
+,Singapore,6/2/20,28,0,0
+,Thailand,6/2/20,25,0,5
+Hong Kong,Hong Kong,6/2/20,24,1,0
+,South Korea,6/2/20,23,0,0
+Qinghai,China,6/2/20,18,0,3
+Taiwan,Taiwan,6/2/20,16,0,1
+,Germany,6/2/20,12,0,0
+,Malaysia,6/2/20,12,0,0
+Macau,Macau,6/2/20,10,0,1
+,Vietnam,6/2/20,10,0,1
+,France,6/2/20,6,0,0
+,United Arab Emirates,6/2/20,5,0,0
+New South Wales,Australia,6/2/20,4,0,2
+Queensland,Australia,6/2/20,4,0,0
+Victoria,Australia,6/2/20,4,0,0
+,India,6/2/20,3,0,0
+South Australia,Australia,6/2/20,2,0,0
+British Columbia,Canada,6/2/20,2,0,0
+"Toronto, ON",Canada,6/2/20,2,0,0
+,Italy,6/2/20,2,0,0
+,Philippines,6/2/20,2,1,0
+,RUnited Statessia,6/2/20,2,0,0
+,United Kingdom,6/2/20,2,0,0
+"Chicago, IL",United States,6/2/20,2,0,0
+"San Benito, CA",United States,6/2/20,2,0,0
+"Santa Clara, CA",United States,6/2/20,2,0,0
+,Belgium,6/2/20,1,0,0
+,Cambodia,6/2/20,1,0,0
+"London, ON",Canada,6/2/20,1,0,0
+,Finland,6/2/20,1,0,0
+Tibet,China,6/2/20,1,0,0
+,Nepal,6/2/20,1,0,0
+,Spain,6/2/20,1,0,0
+,Sri Lanka,6/2/20,1,0,0
+,Sweden,6/2/20,1,0,0
+"Boston, MA",United States,6/2/20,1,0,0
+"Los Angeles, CA",United States,6/2/20,1,0,0
+"Madison, WI",United States,6/2/20,1,0,0
+"Orange, CA",United States,6/2/20,1,0,0
+"Seattle, WA",United States,6/2/20,1,0,0
+"Tempe, AZ",United States,6/2/20,1,0,0
+Hubei,China,7/2/20,24953,699,1115
+Guangdong,China,7/2/20,1034,1,88
+Zhejiang,China,7/2/20,1006,0,123
+Henan,China,7/2/20,914,3,86
+Hunan,China,7/2/20,772,0,112
+Anhui,China,7/2/20,665,0,47
+Jiangxi,China,7/2/20,661,0,45
+Chongqing,China,7/2/20,426,2,31
+Jiangsu,China,7/2/20,408,0,43
+Shandong,China,7/2/20,386,0,37
+Sichuan,China,7/2/20,344,1,42
+Beijing,China,7/2/20,297,1,33
+Heilongjiang,China,7/2/20,277,3,12
+Shanghai,China,7/2/20,277,1,30
+Fujian,China,7/2/20,224,0,20
+Shaanxi,China,7/2/20,184,0,17
+Guangxi,China,7/2/20,172,0,17
+Hebei,China,7/2/20,172,1,22
+Yunnan,China,7/2/20,138,0,12
+Hainan,China,7/2/20,117,2,10
+Shanxi,China,7/2/20,104,0,15
+Liaoning,China,7/2/20,99,0,7
+Guizhou,China,7/2/20,81,1,6
+Tianjin,China,7/2/20,81,1,2
+Gansu,China,7/2/20,67,0,9
+Jilin,China,7/2/20,65,1,4
+Cruise Ship,Others,7/2/20,61,0,0
+Inner Mongolia,China,7/2/20,50,0,5
+Ningxia,China,7/2/20,43,0,5
+Xinjiang,China,7/2/20,39,0,0
+,Singapore,7/2/20,30,0,0
+Hong Kong,Hong Kong,7/2/20,25,1,0
+,Japan,7/2/20,25,0,1
+,Thailand,7/2/20,25,0,5
+,South Korea,7/2/20,24,0,1
+Qinghai,China,7/2/20,18,0,3
+Taiwan,Taiwan,7/2/20,16,0,1
+,Germany,7/2/20,13,0,0
+,Malaysia,7/2/20,12,0,1
+Macau,Macau,7/2/20,10,0,1
+,Vietnam,7/2/20,10,0,1
+,France,7/2/20,6,0,0
+Queensland,Australia,7/2/20,5,0,0
+,United Arab Emirates,7/2/20,5,0,0
+New South Wales,Australia,7/2/20,4,0,2
+Victoria,Australia,7/2/20,4,0,0
+British Columbia,Canada,7/2/20,4,0,0
+,India,7/2/20,3,0,0
+,Italy,7/2/20,3,0,0
+,Philippines,7/2/20,3,1,0
+,United Kingdom,7/2/20,3,0,0
+South Australia,Australia,7/2/20,2,0,0
+"Toronto, ON",Canada,7/2/20,2,0,0
+,RUnited Statessia,7/2/20,2,0,0
+"Chicago, IL",United States,7/2/20,2,0,0
+"San Benito, CA",United States,7/2/20,2,0,0
+"Santa Clara, CA",United States,7/2/20,2,0,0
+,Belgium,7/2/20,1,0,0
+,Cambodia,7/2/20,1,0,0
+"London, ON",Canada,7/2/20,1,0,0
+,Finland,7/2/20,1,0,0
+Tibet,China,7/2/20,1,0,0
+,Nepal,7/2/20,1,0,0
+,Spain,7/2/20,1,0,0
+,Sri Lanka,7/2/20,1,0,0
+,Sweden,7/2/20,1,0,0
+"Boston, MA",United States,7/2/20,1,0,0
+"Los Angeles, CA",United States,7/2/20,1,0,0
+"Madison, WI",United States,7/2/20,1,0,0
+"Orange, CA",United States,7/2/20,1,0,0
+"Seattle, WA",United States,7/2/20,1,0,0
+"Tempe, AZ",United States,7/2/20,1,0,0
+Hubei,China,8/2/20,27100,780,1439
+Guangdong,China,8/2/20,1095,1,112
+Zhejiang,China,8/2/20,1048,0,175
+Henan,China,8/2/20,981,4,116
+Hunan,China,8/2/20,803,1,156
+Anhui,China,8/2/20,733,0,59
+Jiangxi,China,8/2/20,698,0,55
+Jiangsu,China,8/2/20,439,0,51
+Chongqing,China,8/2/20,428,2,39
+Shandong,China,8/2/20,416,0,44
+Sichuan,China,8/2/20,364,1,60
+Beijing,China,8/2/20,315,2,34
+Heilongjiang,China,8/2/20,295,5,13
+Shanghai,China,8/2/20,286,1,41
+Fujian,China,8/2/20,239,0,24
+Hebei,China,8/2/20,195,1,30
+Shaanxi,China,8/2/20,195,0,20
+Guangxi,China,8/2/20,183,0,17
+Yunnan,China,8/2/20,138,0,17
+Hainan,China,8/2/20,124,2,14
+Shanxi,China,8/2/20,115,0,21
+Liaoning,China,8/2/20,105,0,8
+Guizhou,China,8/2/20,89,1,7
+Tianjin,China,8/2/20,88,1,4
+Gansu,China,8/2/20,79,1,12
+Jilin,China,8/2/20,69,1,4
+Cruise Ship,Others,8/2/20,61,0,0
+Inner Mongolia,China,8/2/20,52,0,5
+Ningxia,China,8/2/20,45,0,15
+Xinjiang,China,8/2/20,42,0,0
+,Singapore,8/2/20,33,0,2
+,Thailand,8/2/20,32,0,10
+Hong Kong,Hong Kong,8/2/20,26,1,0
+,Japan,8/2/20,25,0,1
+,South Korea,8/2/20,24,0,1
+Qinghai,China,8/2/20,18,0,3
+Taiwan,Taiwan,8/2/20,17,0,1
+,Malaysia,8/2/20,16,0,1
+,Germany,8/2/20,13,0,0
+,Vietnam,8/2/20,13,0,1
+,France,8/2/20,11,0,0
+Macau,Macau,8/2/20,10,0,1
+,United Arab Emirates,8/2/20,7,0,0
+Queensland,Australia,8/2/20,5,0,0
+New South Wales,Australia,8/2/20,4,0,2
+Victoria,Australia,8/2/20,4,0,0
+British Columbia,Canada,8/2/20,4,0,0
+,India,8/2/20,3,0,0
+,Italy,8/2/20,3,0,0
+,Philippines,8/2/20,3,1,0
+,United Kingdom,8/2/20,3,0,0
+South Australia,Australia,8/2/20,2,0,0
+"Toronto, ON",Canada,8/2/20,2,0,0
+,RUnited Statessia,8/2/20,2,0,0
+"Chicago, IL",United States,8/2/20,2,0,0
+"San Benito, CA",United States,8/2/20,2,0,0
+"Santa Clara, CA",United States,8/2/20,2,0,0
+,Belgium,8/2/20,1,0,0
+,Cambodia,8/2/20,1,0,0
+"London, ON",Canada,8/2/20,1,0,0
+,Finland,8/2/20,1,0,0
+Tibet,China,8/2/20,1,0,0
+,Nepal,8/2/20,1,0,0
+,Spain,8/2/20,1,0,0
+,Sri Lanka,8/2/20,1,0,1
+,Sweden,8/2/20,1,0,0
+"Boston, MA",United States,8/2/20,1,0,0
+"Los Angeles, CA",United States,8/2/20,1,0,0
+"Madison, WI",United States,8/2/20,1,0,0
+"Orange, CA",United States,8/2/20,1,0,0
+"Seattle, WA",United States,8/2/20,1,0,0
+"Tempe, AZ",United States,8/2/20,1,0,0
+Hubei,China,9/2/20,29631,871,1795
+Guangdong,China,9/2/20,1131,1,141
+Zhejiang,China,9/2/20,1075,0,201
+Henan,China,9/2/20,1033,6,153
+Hunan,China,9/2/20,838,1,186
+Anhui,China,9/2/20,779,1,72
+Jiangxi,China,9/2/20,740,0,73
+Chongqing,China,9/2/20,468,2,51
+Jiangsu,China,9/2/20,468,0,71
+Shandong,China,9/2/20,444,1,63
+Sichuan,China,9/2/20,386,1,71
+Beijing,China,9/2/20,326,2,37
+Heilongjiang,China,9/2/20,307,6,14
+Shanghai,China,9/2/20,293,1,44
+Fujian,China,9/2/20,250,0,35
+Shaanxi,China,9/2/20,208,0,25
+Hebei,China,9/2/20,206,2,34
+Guangxi,China,9/2/20,195,1,18
+Yunnan,China,9/2/20,141,0,18
+Hainan,China,9/2/20,131,3,19
+Shanxi,China,9/2/20,119,0,25
+Liaoning,China,9/2/20,107,0,12
+Guizhou,China,9/2/20,99,1,7
+Tianjin,China,9/2/20,91,1,4
+Gansu,China,9/2/20,83,2,16
+Jilin,China,9/2/20,78,1,12
+Diamond Princess cruise ship,Others,9/2/20,64,0,0
+Inner Mongolia,China,9/2/20,54,0,5
+Ningxia,China,9/2/20,45,0,13
+Xinjiang,China,9/2/20,45,0,0
+,Singapore,9/2/20,40,0,2
+,Thailand,9/2/20,32,0,10
+Hong Kong,Hong Kong,9/2/20,29,1,0
+,Japan,9/2/20,26,0,1
+,South Korea,9/2/20,25,0,3
+Qinghai,China,9/2/20,18,0,3
+Taiwan,Taiwan,9/2/20,18,0,1
+,Malaysia,9/2/20,16,0,1
+,Germany,9/2/20,14,0,0
+,Vietnam,9/2/20,13,0,1
+,France,9/2/20,11,0,0
+Macau,Macau,9/2/20,10,0,1
+,United Arab Emirates,9/2/20,7,0,0
+Queensland,Australia,9/2/20,5,0,0
+New South Wales,Australia,9/2/20,4,0,2
+Victoria,Australia,9/2/20,4,0,0
+British Columbia,Canada,9/2/20,4,0,0
+,India,9/2/20,3,0,0
+,Italy,9/2/20,3,0,0
+,Philippines,9/2/20,3,1,0
+,United Kingdom,9/2/20,3,0,0
+South Australia,Australia,9/2/20,2,0,0
+"Toronto, ON",Canada,9/2/20,2,0,0
+,RUnited Statessia,9/2/20,2,0,0
+,Spain,9/2/20,2,0,0
+"Chicago, IL",United States,9/2/20,2,0,2
+"San Benito, CA",United States,9/2/20,2,0,0
+"Santa Clara, CA",United States,9/2/20,2,0,0
+,Belgium,9/2/20,1,0,0
+,Cambodia,9/2/20,1,0,0
+"London, ON",Canada,9/2/20,1,0,0
+,Finland,9/2/20,1,0,0
+Tibet,China,9/2/20,1,0,0
+,Nepal,9/2/20,1,0,0
+,Sri Lanka,9/2/20,1,0,1
+,Sweden,9/2/20,1,0,0
+"Boston, MA",United States,9/2/20,1,0,0
+"Los Angeles, CA",United States,9/2/20,1,0,0
+"Madison, WI",United States,9/2/20,1,0,0
+"Orange, CA",United States,9/2/20,1,0,0
+"Seattle, WA",United States,9/2/20,1,0,1
+"Tempe, AZ",United States,9/2/20,1,0,0
+Hubei,China,10/2/20,31728,974,2222
+Guangdong,China,10/2/20,1159,1,167
+Zhejiang,China,10/2/20,1092,0,242
+Henan,China,10/2/20,1073,6,191
+Hunan,China,10/2/20,879,1,208
+Anhui,China,10/2/20,830,3,88
+Jiangxi,China,10/2/20,771,1,105
+Jiangsu,China,10/2/20,492,0,81
+Chongqing,China,10/2/20,486,2,66
+Shandong,China,10/2/20,466,1,66
+Sichuan,China,10/2/20,405,1,80
+Beijing,China,10/2/20,337,2,44
+Heilongjiang,China,10/2/20,331,7,30
+Shanghai,China,10/2/20,299,1,48
+Fujian,China,10/2/20,261,0,39
+Hebei,China,10/2/20,218,2,41
+Shaanxi,China,10/2/20,213,0,30
+Guangxi,China,10/2/20,210,1,24
+Yunnan,China,10/2/20,149,0,19
+Hainan,China,10/2/20,138,3,19
+Diamond Princess cruise ship,Others,10/2/20,135,0,0
+Shanxi,China,10/2/20,119,0,25
+Guizhou,China,10/2/20,109,1,10
+Liaoning,China,10/2/20,108,0,13
+Tianjin,China,10/2/20,95,1,8
+Gansu,China,10/2/20,83,2,17
+Jilin,China,10/2/20,80,1,13
+Inner Mongolia,China,10/2/20,58,0,5
+Ningxia,China,10/2/20,49,0,13
+Xinjiang,China,10/2/20,49,0,0
+,Singapore,10/2/20,45,0,2
+Hong Kong,Hong Kong,10/2/20,38,1,0
+,Thailand,10/2/20,32,0,10
+,South Korea,10/2/20,27,0,3
+,Japan,10/2/20,26,0,4
+Qinghai,China,10/2/20,18,0,3
+,Malaysia,10/2/20,18,0,1
+Taiwan,Taiwan,10/2/20,18,0,1
+,Germany,10/2/20,14,0,0
+,Vietnam,10/2/20,14,0,1
+,France,10/2/20,11,0,0
+Macau,Macau,10/2/20,10,0,1
+,United Kingdom,10/2/20,8,0,0
+,United Arab Emirates,10/2/20,8,0,0
+Queensland,Australia,10/2/20,5,0,0
+New South Wales,Australia,10/2/20,4,0,2
+Victoria,Australia,10/2/20,4,0,0
+British Columbia,Canada,10/2/20,4,0,0
+,India,10/2/20,3,0,0
+,Italy,10/2/20,3,0,0
+,Philippines,10/2/20,3,1,0
+South Australia,Australia,10/2/20,2,0,0
+"Toronto, ON",Canada,10/2/20,2,0,0
+,RUnited Statessia,10/2/20,2,0,0
+,Spain,10/2/20,2,0,0
+"Chicago, IL",United States,10/2/20,2,0,2
+"San Benito, CA",United States,10/2/20,2,0,0
+"Santa Clara, CA",United States,10/2/20,2,0,0
+,Belgium,10/2/20,1,0,0
+,Cambodia,10/2/20,1,0,0
+"London, ON",Canada,10/2/20,1,0,0
+,Finland,10/2/20,1,0,0
+Tibet,China,10/2/20,1,0,0
+,Nepal,10/2/20,1,0,0
+,Sri Lanka,10/2/20,1,0,1
+,Sweden,10/2/20,1,0,0
+"Boston, MA",United States,10/2/20,1,0,0
+"Los Angeles, CA",United States,10/2/20,1,0,0
+"Madison, WI",United States,10/2/20,1,0,0
+"Orange, CA",United States,10/2/20,1,0,0
+"Seattle, WA",United States,10/2/20,1,0,1
+"Tempe, AZ",United States,10/2/20,1,0,0
+Hubei,China,11/2/20,33366,1068,2639
+Guangdong,China,11/2/20,1177,1,212
+Zhejiang,China,11/2/20,1117,0,270
+Henan,China,11/2/20,1105,7,218
+Hunan,China,11/2/20,912,1,247
+Anhui,China,11/2/20,860,4,105
+Jiangxi,China,11/2/20,804,1,128
+Jiangsu,China,11/2/20,515,0,93
+Chongqing,China,11/2/20,505,3,79
+Shandong,China,11/2/20,487,1,80
+Sichuan,China,11/2/20,417,1,85
+Heilongjiang,China,11/2/20,360,8,28
+Beijing,China,11/2/20,342,3,48
+Shanghai,China,11/2/20,303,1,52
+Fujian,China,11/2/20,267,0,45
+Hebei,China,11/2/20,239,2,48
+Shaanxi,China,11/2/20,219,0,32
+Guangxi,China,11/2/20,215,1,33
+Yunnan,China,11/2/20,153,0,20
+Hainan,China,11/2/20,144,3,20
+Diamond Princess cruise ship,Others,11/2/20,135,0,0
+Guizhou,China,11/2/20,127,1,17
+Shanxi,China,11/2/20,124,0,30
+Liaoning,China,11/2/20,111,0,19
+Tianjin,China,11/2/20,106,2,10
+Gansu,China,11/2/20,86,2,24
+Jilin,China,11/2/20,81,1,18
+Inner Mongolia,China,11/2/20,58,0,5
+Xinjiang,China,11/2/20,55,0,3
+Ningxia,China,11/2/20,53,0,22
+Hong Kong,Hong Kong,11/2/20,49,1,0
+,Singapore,11/2/20,47,0,9
+,Thailand,11/2/20,33,0,10
+,South Korea,11/2/20,28,0,3
+,Japan,11/2/20,26,0,9
+Qinghai,China,11/2/20,18,0,5
+,Malaysia,11/2/20,18,0,3
+Taiwan,Taiwan,11/2/20,18,0,1
+,Germany,11/2/20,16,0,0
+,Vietnam,11/2/20,15,0,6
+,France,11/2/20,11,0,0
+Macau,Macau,11/2/20,10,0,1
+,United Kingdom,11/2/20,8,0,0
+,United Arab Emirates,11/2/20,8,0,0
+Queensland,Australia,11/2/20,5,0,0
+New South Wales,Australia,11/2/20,4,0,2
+Victoria,Australia,11/2/20,4,0,0
+British Columbia,Canada,11/2/20,4,0,0
+,India,11/2/20,3,0,0
+,Italy,11/2/20,3,0,0
+,Philippines,11/2/20,3,1,0
+South Australia,Australia,11/2/20,2,0,0
+"Toronto, ON",Canada,11/2/20,2,0,0
+,RUnited Statessia,11/2/20,2,0,0
+,Spain,11/2/20,2,0,0
+"Chicago, IL",United States,11/2/20,2,0,2
+"San Benito, CA",United States,11/2/20,2,0,0
+"Santa Clara, CA",United States,11/2/20,2,0,0
+,Belgium,11/2/20,1,0,0
+,Cambodia,11/2/20,1,0,0
+"London, ON",Canada,11/2/20,1,0,0
+,Finland,11/2/20,1,0,0
+Tibet,China,11/2/20,1,0,0
+,Nepal,11/2/20,1,0,0
+,Sri Lanka,11/2/20,1,0,1
+,Sweden,11/2/20,1,0,0
+"Boston, MA",United States,11/2/20,1,0,0
+"Los Angeles, CA",United States,11/2/20,1,0,0
+"Madison, WI",United States,11/2/20,1,0,0
+"Orange, CA",United States,11/2/20,1,0,0
+"San Diego County, CA",United States,11/2/20,1,0,0
+"Seattle, WA",United States,11/2/20,1,0,1
+"Tempe, AZ",United States,11/2/20,1,0,0
+Hubei,China,12/2/20,33366,1068,2686
+Guangdong,China,12/2/20,1219,1,275
+Henan,China,12/2/20,1135,8,246
+Zhejiang,China,12/2/20,1131,0,321
+Hunan,China,12/2/20,946,2,304
+Anhui,China,12/2/20,889,4,127
+Jiangxi,China,12/2/20,844,1,152
+Jiangsu,China,12/2/20,543,0,125
+Chongqing,China,12/2/20,518,3,102
+Shandong,China,12/2/20,497,2,92
+Sichuan,China,12/2/20,436,1,92
+Heilongjiang,China,12/2/20,378,8,31
+Beijing,China,12/2/20,352,3,56
+Shanghai,China,12/2/20,311,1,57
+Fujian,China,12/2/20,272,0,53
+Hebei,China,12/2/20,251,2,54
+Shaanxi,China,12/2/20,225,0,43
+Guangxi,China,12/2/20,222,1,32
+Diamond Princess cruise ship,Others,12/2/20,175,0,0
+Hainan,China,12/2/20,157,4,27
+Yunnan,China,12/2/20,154,0,26
+Guizhou,China,12/2/20,133,1,18
+Shanxi,China,12/2/20,126,0,33
+Liaoning,China,12/2/20,116,1,20
+Tianjin,China,12/2/20,112,2,11
+Gansu,China,12/2/20,87,2,31
+Jilin,China,12/2/20,83,1,22
+Inner Mongolia,China,12/2/20,60,0,6
+Xinjiang,China,12/2/20,59,0,3
+Ningxia,China,12/2/20,58,0,24
+Hong Kong,Hong Kong,12/2/20,50,1,1
+,Singapore,12/2/20,50,0,15
+,Thailand,12/2/20,33,0,10
+,Japan,12/2/20,28,0,9
+,South Korea,12/2/20,28,0,7
+Qinghai,China,12/2/20,18,0,9
+,Malaysia,12/2/20,18,0,3
+Taiwan,Taiwan,12/2/20,18,0,1
+,Germany,12/2/20,16,0,0
+,Vietnam,12/2/20,15,0,6
+,France,12/2/20,11,0,2
+Macau,Macau,12/2/20,10,0,2
+,United Kingdom,12/2/20,9,0,1
+,United Arab Emirates,12/2/20,8,0,1
+Queensland,Australia,12/2/20,5,0,0
+New South Wales,Australia,12/2/20,4,0,2
+Victoria,Australia,12/2/20,4,0,0
+British Columbia,Canada,12/2/20,4,0,0
+,India,12/2/20,3,0,0
+,Italy,12/2/20,3,0,0
+,Philippines,12/2/20,3,1,1
+South Australia,Australia,12/2/20,2,0,0
+"Toronto, ON",Canada,12/2/20,2,0,0
+,RUnited Statessia,12/2/20,2,0,2
+,Spain,12/2/20,2,0,0
+"Chicago, IL",United States,12/2/20,2,0,2
+"San Benito, CA",United States,12/2/20,2,0,0
+"Santa Clara, CA",United States,12/2/20,2,0,0
+,Belgium,12/2/20,1,0,0
+,Cambodia,12/2/20,1,0,1
+"London, ON",Canada,12/2/20,1,0,1
+,Finland,12/2/20,1,0,1
+Tibet,China,12/2/20,1,0,1
+,Nepal,12/2/20,1,0,1
+,Sri Lanka,12/2/20,1,0,1
+,Sweden,12/2/20,1,0,0
+"Boston, MA",United States,12/2/20,1,0,0
+"Los Angeles, CA",United States,12/2/20,1,0,0
+"Madison, WI",United States,12/2/20,1,0,0
+"Orange, CA",United States,12/2/20,1,0,0
+"San Diego County, CA",United States,12/2/20,1,0,0
+"Seattle, WA",United States,12/2/20,1,0,1
+"Tempe, AZ",United States,12/2/20,1,0,0
+Hubei,China,13/2/20,48206,1310,3459
+Guangdong,China,13/2/20,1241,2,314
+Henan,China,13/2/20,1169,10,296
+Zhejiang,China,13/2/20,1145,0,360
+Hunan,China,13/2/20,968,2,339
+Anhui,China,13/2/20,910,5,157
+Jiangxi,China,13/2/20,872,1,170
+Jiangsu,China,13/2/20,570,0,139
+Chongqing,China,13/2/20,529,4,128
+Shandong,China,13/2/20,509,2,105
+Sichuan,China,13/2/20,451,1,104
+Heilongjiang,China,13/2/20,395,9,33
+Beijing,China,13/2/20,366,3,69
+Shanghai,China,13/2/20,315,1,62
+Fujian,China,13/2/20,279,0,57
+Hebei,China,13/2/20,265,3,68
+Shaanxi,China,13/2/20,229,0,46
+Guangxi,China,13/2/20,222,2,33
+Diamond Princess cruise ship,Others,13/2/20,175,0,0
+Hainan,China,13/2/20,157,4,30
+Yunnan,China,13/2/20,156,0,27
+Guizhou,China,13/2/20,135,1,27
+Shanxi,China,13/2/20,126,0,36
+Tianjin,China,13/2/20,119,3,21
+Liaoning,China,13/2/20,117,1,22
+Gansu,China,13/2/20,90,2,39
+Jilin,China,13/2/20,84,1,24
+Ningxia,China,13/2/20,64,0,24
+Xinjiang,China,13/2/20,63,1,6
+Inner Mongolia,China,13/2/20,61,0,6
+,Singapore,13/2/20,58,0,15
+Hong Kong,Hong Kong,13/2/20,53,1,1
+,Thailand,13/2/20,33,0,12
+,Japan,13/2/20,28,1,9
+,South Korea,13/2/20,28,0,7
+,Malaysia,13/2/20,19,0,3
+Qinghai,China,13/2/20,18,0,11
+Taiwan,Taiwan,13/2/20,18,0,1
+,Germany,13/2/20,16,0,1
+,Vietnam,13/2/20,16,0,7
+,France,13/2/20,11,0,2
+Macau,Macau,13/2/20,10,0,3
+,United Kingdom,13/2/20,9,0,1
+,United Arab Emirates,13/2/20,8,0,1
+Queensland,Australia,13/2/20,5,0,0
+New South Wales,Australia,13/2/20,4,0,4
+Victoria,Australia,13/2/20,4,0,4
+British Columbia,Canada,13/2/20,4,0,0
+,India,13/2/20,3,0,0
+,Italy,13/2/20,3,0,0
+,Philippines,13/2/20,3,1,1
+South Australia,Australia,13/2/20,2,0,0
+"Toronto, ON",Canada,13/2/20,2,0,0
+,RUnited Statessia,13/2/20,2,0,2
+,Spain,13/2/20,2,0,0
+"Chicago, IL",United States,13/2/20,2,0,2
+"San Benito, CA",United States,13/2/20,2,0,0
+"San Diego County, CA",United States,13/2/20,2,0,0
+"Santa Clara, CA",United States,13/2/20,2,0,0
+,Belgium,13/2/20,1,0,0
+,Cambodia,13/2/20,1,0,1
+"London, ON",Canada,13/2/20,1,0,1
+,Finland,13/2/20,1,0,1
+Tibet,China,13/2/20,1,0,1
+,Nepal,13/2/20,1,0,1
+,Sri Lanka,13/2/20,1,0,1
+,Sweden,13/2/20,1,0,0
+"Boston, MA",United States,13/2/20,1,0,0
+"Los Angeles, CA",United States,13/2/20,1,0,0
+"Madison, WI",United States,13/2/20,1,0,0
+"Orange, CA",United States,13/2/20,1,0,0
+"San Antonio, TX",United States,13/2/20,1,0,0
+"Seattle, WA",United States,13/2/20,1,0,1
+"Tempe, AZ",United States,13/2/20,1,0,0
+Hubei,China,14/2/20,54406,1457,4774
+Guangdong,China,14/2/20,1261,2,362
+Henan,China,14/2/20,1184,11,357
+Zhejiang,China,14/2/20,1155,0,403
+Hunan,China,14/2/20,988,2,364
+Anhui,China,14/2/20,934,6,193
+Jiangxi,China,14/2/20,900,1,187
+Jiangsu,China,14/2/20,593,0,157
+Chongqing,China,14/2/20,537,5,152
+Shandong,China,14/2/20,523,2,136
+Sichuan,China,14/2/20,463,1,114
+Heilongjiang,China,14/2/20,419,11,47
+Beijing,China,14/2/20,372,3,80
+Shanghai,China,14/2/20,318,1,90
+Hebei,China,14/2/20,283,3,87
+Fujian,China,14/2/20,281,0,63
+Shaanxi,China,14/2/20,230,0,54
+Guangxi,China,14/2/20,226,2,36
+Diamond Princess cruise ship,Others,14/2/20,218,0,0
+Yunnan,China,14/2/20,162,0,36
+Hainan,China,14/2/20,159,4,43
+Guizhou,China,14/2/20,140,1,28
+Shanxi,China,14/2/20,127,0,38
+Tianjin,China,14/2/20,120,3,31
+Liaoning,China,14/2/20,119,1,29
+Gansu,China,14/2/20,90,2,39
+Jilin,China,14/2/20,86,1,25
+Ningxia,China,14/2/20,67,0,24
+,Singapore,14/2/20,67,0,17
+Inner Mongolia,China,14/2/20,65,0,6
+Xinjiang,China,14/2/20,65,1,6
+Hong Kong,Hong Kong,14/2/20,56,1,1
+,Thailand,14/2/20,33,0,12
+,Japan,14/2/20,29,1,9
+,South Korea,14/2/20,28,0,7
+,Malaysia,14/2/20,19,0,3
+Qinghai,China,14/2/20,18,0,11
+Taiwan,Taiwan,14/2/20,18,0,2
+,Germany,14/2/20,16,0,1
+,Vietnam,14/2/20,16,0,7
+,France,14/2/20,11,0,2
+Macau,Macau,14/2/20,10,0,3
+,United Kingdom,14/2/20,9,0,1
+,United Arab Emirates,14/2/20,8,0,1
+Queensland,Australia,14/2/20,5,0,0
+New South Wales,Australia,14/2/20,4,0,4
+Victoria,Australia,14/2/20,4,0,4
+British Columbia,Canada,14/2/20,4,0,0
+,India,14/2/20,3,0,0
+,Italy,14/2/20,3,0,0
+,Philippines,14/2/20,3,1,1
+South Australia,Australia,14/2/20,2,0,0
+"Toronto, ON",Canada,14/2/20,2,0,0
+,RUnited Statessia,14/2/20,2,0,2
+,Spain,14/2/20,2,0,0
+"Chicago, IL",United States,14/2/20,2,0,2
+"San Benito, CA",United States,14/2/20,2,0,0
+"San Diego County, CA",United States,14/2/20,2,0,0
+"Santa Clara, CA",United States,14/2/20,2,0,0
+,Belgium,14/2/20,1,0,0
+,Cambodia,14/2/20,1,0,1
+"London, ON",Canada,14/2/20,1,0,1
+,Egypt,14/2/20,1,0,0
+,Finland,14/2/20,1,0,1
+Tibet,China,14/2/20,1,0,1
+,Nepal,14/2/20,1,0,1
+,Sri Lanka,14/2/20,1,0,1
+,Sweden,14/2/20,1,0,0
+"Boston, MA",United States,14/2/20,1,0,0
+"Los Angeles, CA",United States,14/2/20,1,0,0
+"Madison, WI",United States,14/2/20,1,0,0
+"Orange, CA",United States,14/2/20,1,0,0
+"San Antonio, TX",United States,14/2/20,1,0,0
+"Seattle, WA",United States,14/2/20,1,0,1
+"Tempe, AZ",United States,14/2/20,1,0,0
+Hubei,China,15/2/20,56249,1596,5623
+Guangdong,China,15/2/20,1294,2,410
+Henan,China,15/2/20,1212,13,391
+Zhejiang,China,15/2/20,1162,0,428
+Hunan,China,15/2/20,1001,2,425
+Anhui,China,15/2/20,950,6,221
+Jiangxi,China,15/2/20,913,1,210
+Jiangsu,China,15/2/20,604,0,186
+Chongqing,China,15/2/20,544,5,184
+Shandong,China,15/2/20,532,2,156
+Sichuan,China,15/2/20,470,1,119
+Heilongjiang,China,15/2/20,425,11,68
+Beijing,China,15/2/20,375,4,98
+Shanghai,China,15/2/20,326,1,124
+Hebei,China,15/2/20,291,3,101
+Fujian,China,15/2/20,285,0,71
+Diamond Princess cruise ship,Others,15/2/20,285,0,0
+Guangxi,China,15/2/20,235,2,44
+Shaanxi,China,15/2/20,232,0,60
+Yunnan,China,15/2/20,168,0,42
+Hainan,China,15/2/20,162,4,39
+Guizhou,China,15/2/20,143,1,41
+Shanxi,China,15/2/20,128,0,46
+Tianjin,China,15/2/20,122,3,37
+Liaoning,China,15/2/20,119,1,31
+Gansu,China,15/2/20,90,2,49
+Jilin,China,15/2/20,88,1,26
+,Singapore,15/2/20,72,0,18
+Ningxia,China,15/2/20,70,0,33
+Xinjiang,China,15/2/20,70,1,10
+Inner Mongolia,China,15/2/20,68,0,7
+Hong Kong,Hong Kong,15/2/20,56,1,1
+,Japan,15/2/20,43,1,12
+,Thailand,15/2/20,33,0,12
+,South Korea,15/2/20,28,0,9
+,Malaysia,15/2/20,22,0,7
+Qinghai,China,15/2/20,18,0,13
+Taiwan,Taiwan,15/2/20,18,0,2
+,Germany,15/2/20,16,0,1
+,Vietnam,15/2/20,16,0,7
+,France,15/2/20,12,1,4
+Macau,Macau,15/2/20,10,0,3
+,United Kingdom,15/2/20,9,0,1
+,United Arab Emirates,15/2/20,8,0,3
+Queensland,Australia,15/2/20,5,0,0
+New South Wales,Australia,15/2/20,4,0,4
+Victoria,Australia,15/2/20,4,0,4
+British Columbia,Canada,15/2/20,4,0,0
+,India,15/2/20,3,0,0
+,Italy,15/2/20,3,0,0
+,Philippines,15/2/20,3,1,1
+South Australia,Australia,15/2/20,2,0,0
+"Toronto, ON",Canada,15/2/20,2,0,0
+,RUnited Statessia,15/2/20,2,0,2
+,Spain,15/2/20,2,0,2
+"Chicago, IL",United States,15/2/20,2,0,2
+"San Benito, CA",United States,15/2/20,2,0,0
+"San Diego County, CA",United States,15/2/20,2,0,0
+"Santa Clara, CA",United States,15/2/20,2,0,0
+,Belgium,15/2/20,1,0,0
+,Cambodia,15/2/20,1,0,1
+"London, ON",Canada,15/2/20,1,0,1
+,Egypt,15/2/20,1,0,0
+,Finland,15/2/20,1,0,1
+Tibet,China,15/2/20,1,0,1
+,Nepal,15/2/20,1,0,1
+,Sri Lanka,15/2/20,1,0,1
+,Sweden,15/2/20,1,0,0
+"Boston, MA",United States,15/2/20,1,0,0
+"Los Angeles, CA",United States,15/2/20,1,0,0
+"Madison, WI",United States,15/2/20,1,0,0
+"Orange, CA",United States,15/2/20,1,0,0
+"San Antonio, TX",United States,15/2/20,1,0,0
+"Seattle, WA",United States,15/2/20,1,0,1
+"Tempe, AZ",United States,15/2/20,1,0,0
+Hubei,China,16/2/20,58182,1696,6639
+Guangdong,China,16/2/20,1316,2,465
+Henan,China,16/2/20,1231,13,440
+Zhejiang,China,16/2/20,1167,0,456
+Hunan,China,16/2/20,1004,3,464
+Anhui,China,16/2/20,962,6,255
+Jiangxi,China,16/2/20,925,1,240
+Jiangsu,China,16/2/20,617,0,218
+Chongqing,China,16/2/20,551,5,207
+Shandong,China,16/2/20,537,2,173
+Sichuan,China,16/2/20,481,3,131
+Heilongjiang,China,16/2/20,445,11,79
+Beijing,China,16/2/20,380,4,108
+Diamond Princess cruise ship,Others,16/2/20,355,0,0
+Shanghai,China,16/2/20,328,1,140
+Hebei,China,16/2/20,300,3,105
+Fujian,China,16/2/20,287,0,82
+Guangxi,China,16/2/20,237,2,49
+Shaanxi,China,16/2/20,236,0,71
+Yunnan,China,16/2/20,171,0,42
+Hainan,China,16/2/20,162,4,52
+Guizhou,China,16/2/20,144,1,46
+Shanxi,China,16/2/20,129,0,50
+Tianjin,China,16/2/20,124,3,45
+Liaoning,China,16/2/20,121,1,40
+Gansu,China,16/2/20,90,2,54
+Jilin,China,16/2/20,89,1,30
+,Singapore,16/2/20,75,0,18
+Xinjiang,China,16/2/20,71,1,12
+Inner Mongolia,China,16/2/20,70,0,8
+Ningxia,China,16/2/20,70,0,33
+,Japan,16/2/20,59,1,12
+Hong Kong,Hong Kong,16/2/20,57,1,2
+,Thailand,16/2/20,34,0,14
+,South Korea,16/2/20,29,0,9
+,Malaysia,16/2/20,22,0,7
+Taiwan,Taiwan,16/2/20,20,1,2
+Qinghai,China,16/2/20,18,0,13
+,Germany,16/2/20,16,0,1
+,Vietnam,16/2/20,16,0,7
+,France,16/2/20,12,1,4
+Macau,Macau,16/2/20,10,0,5
+,United Kingdom,16/2/20,9,0,8
+,United Arab Emirates,16/2/20,9,0,4
+Queensland,Australia,16/2/20,5,0,0
+New South Wales,Australia,16/2/20,4,0,4
+Victoria,Australia,16/2/20,4,0,4
+British Columbia,Canada,16/2/20,4,0,0
+,India,16/2/20,3,0,3
+,Italy,16/2/20,3,0,0
+,Philippines,16/2/20,3,1,1
+South Australia,Australia,16/2/20,2,0,0
+"Toronto, ON",Canada,16/2/20,2,0,0
+,RUnited Statessia,16/2/20,2,0,2
+,Spain,16/2/20,2,0,2
+"Chicago, IL",United States,16/2/20,2,0,2
+"San Benito, CA",United States,16/2/20,2,0,0
+"San Diego County, CA",United States,16/2/20,2,0,0
+"Santa Clara, CA",United States,16/2/20,2,0,0
+,Belgium,16/2/20,1,0,0
+,Cambodia,16/2/20,1,0,1
+"London, ON",Canada,16/2/20,1,0,1
+,Egypt,16/2/20,1,0,0
+,Finland,16/2/20,1,0,1
+Tibet,China,16/2/20,1,0,1
+,Nepal,16/2/20,1,0,1
+,Sri Lanka,16/2/20,1,0,1
+,Sweden,16/2/20,1,0,0
+"Boston, MA",United States,16/2/20,1,0,0
+"Los Angeles, CA",United States,16/2/20,1,0,0
+"Madison, WI",United States,16/2/20,1,0,0
+"Orange, CA",United States,16/2/20,1,0,0
+"San Antonio, TX",United States,16/2/20,1,0,0
+"Seattle, WA",United States,16/2/20,1,0,1
+"Tempe, AZ",United States,16/2/20,1,0,0
+Hubei,China,17/2/20,59989,1789,7862
+Guangdong,China,17/2/20,1322,4,524
+Henan,China,17/2/20,1246,16,509
+Zhejiang,China,17/2/20,1171,0,507
+Hunan,China,17/2/20,1006,3,498
+Anhui,China,17/2/20,973,6,280
+Jiangxi,China,17/2/20,930,1,275
+Jiangsu,China,17/2/20,626,0,258
+Chongqing,China,17/2/20,553,5,225
+Shandong,China,17/2/20,541,2,191
+Sichuan,China,17/2/20,495,3,156
+Heilongjiang,China,17/2/20,457,11,85
+Diamond Princess cruise ship,Others,17/2/20,454,0,0
+Beijing,China,17/2/20,381,4,114
+Shanghai,China,17/2/20,333,1,161
+Hebei,China,17/2/20,301,3,122
+Fujian,China,17/2/20,290,0,90
+Shaanxi,China,17/2/20,240,0,79
+Guangxi,China,17/2/20,238,2,53
+Yunnan,China,17/2/20,171,0,47
+Hainan,China,17/2/20,163,4,59
+Guizhou,China,17/2/20,146,1,57
+Shanxi,China,17/2/20,130,0,53
+Tianjin,China,17/2/20,125,3,46
+Liaoning,China,17/2/20,121,1,43
+Gansu,China,17/2/20,91,2,58
+Jilin,China,17/2/20,89,1,34
+,Singapore,17/2/20,77,0,24
+Xinjiang,China,17/2/20,75,1,12
+Inner Mongolia,China,17/2/20,72,0,8
+Ningxia,China,17/2/20,70,0,35
+,Japan,17/2/20,66,1,12
+Hong Kong,Hong Kong,17/2/20,60,1,2
+,Thailand,17/2/20,35,0,15
+,South Korea,17/2/20,30,0,10
+,Malaysia,17/2/20,22,0,7
+Taiwan,Taiwan,17/2/20,22,1,2
+Qinghai,China,17/2/20,18,0,13
+,Germany,17/2/20,16,0,1
+,Vietnam,17/2/20,16,0,7
+,France,17/2/20,12,1,4
+Macau,Macau,17/2/20,10,0,5
+,United Kingdom,17/2/20,9,0,8
+,United Arab Emirates,17/2/20,9,0,4
+Queensland,Australia,17/2/20,5,0,0
+British Columbia,Canada,17/2/20,5,0,0
+New South Wales,Australia,17/2/20,4,0,4
+Victoria,Australia,17/2/20,4,0,4
+,India,17/2/20,3,0,3
+,Italy,17/2/20,3,0,0
+,Philippines,17/2/20,3,1,1
+South Australia,Australia,17/2/20,2,0,2
+"Toronto, ON",Canada,17/2/20,2,0,0
+,RUnited Statessia,17/2/20,2,0,2
+,Spain,17/2/20,2,0,2
+"Chicago, IL",United States,17/2/20,2,0,2
+"San Benito, CA",United States,17/2/20,2,0,0
+"San Diego County, CA",United States,17/2/20,2,0,0
+"Santa Clara, CA",United States,17/2/20,2,0,0
+,Belgium,17/2/20,1,0,1
+,Cambodia,17/2/20,1,0,1
+"London, ON",Canada,17/2/20,1,0,1
+,Egypt,17/2/20,1,0,0
+,Finland,17/2/20,1,0,1
+Tibet,China,17/2/20,1,0,1
+,Nepal,17/2/20,1,0,1
+,Sri Lanka,17/2/20,1,0,1
+,Sweden,17/2/20,1,0,0
+"Boston, MA",United States,17/2/20,1,0,0
+"Los Angeles, CA",United States,17/2/20,1,0,0
+"Madison, WI",United States,17/2/20,1,0,0
+"Orange, CA",United States,17/2/20,1,0,0
+"San Antonio, TX",United States,17/2/20,1,0,0
+"Seattle, WA",United States,17/2/20,1,0,1
+"Tempe, AZ",United States,17/2/20,1,0,0
+Hubei,China,18/2/20,61682,1921,9128
+Guangdong,China,18/2/20,1328,4,565
+Henan,China,18/2/20,1257,19,522
+Zhejiang,China,18/2/20,1172,0,535
+Hunan,China,18/2/20,1007,4,527
+Anhui,China,18/2/20,982,6,361
+Jiangxi,China,18/2/20,933,1,310
+Jiangsu,China,18/2/20,629,0,280
+Chongqing,China,18/2/20,555,5,254
+Shandong,China,18/2/20,543,3,211
+Diamond Princess cruise ship,Others,18/2/20,542,0,0
+Sichuan,China,18/2/20,508,3,169
+Heilongjiang,China,18/2/20,464,11,111
+Beijing,China,18/2/20,387,4,122
+Shanghai,China,18/2/20,333,1,177
+Hebei,China,18/2/20,306,4,136
+Fujian,China,18/2/20,292,0,93
+Guangxi,China,18/2/20,242,2,69
+Shaanxi,China,18/2/20,240,0,89
+Yunnan,China,18/2/20,172,0,57
+Hainan,China,18/2/20,163,4,79
+Guizhou,China,18/2/20,146,2,66
+Shanxi,China,18/2/20,131,0,61
+Tianjin,China,18/2/20,128,3,48
+Liaoning,China,18/2/20,121,1,53
+Gansu,China,18/2/20,91,2,62
+Jilin,China,18/2/20,89,1,36
+,Singapore,18/2/20,81,0,29
+Xinjiang,China,18/2/20,76,1,12
+,Japan,18/2/20,74,1,13
+Inner Mongolia,China,18/2/20,73,0,8
+Ningxia,China,18/2/20,70,0,42
+Hong Kong,Hong Kong,18/2/20,62,1,2
+,Thailand,18/2/20,35,0,15
+,South Korea,18/2/20,31,0,12
+,Malaysia,18/2/20,22,0,13
+Taiwan,Taiwan,18/2/20,22,1,2
+Qinghai,China,18/2/20,18,0,15
+,Germany,18/2/20,16,0,12
+,Vietnam,18/2/20,16,0,7
+,France,18/2/20,12,1,4
+Macau,Macau,18/2/20,10,0,5
+,United Kingdom,18/2/20,9,0,8
+,United Arab Emirates,18/2/20,9,0,4
+Queensland,Australia,18/2/20,5,0,0
+British Columbia,Canada,18/2/20,5,0,0
+New South Wales,Australia,18/2/20,4,0,4
+Victoria,Australia,18/2/20,4,0,4
+,India,18/2/20,3,0,3
+,Italy,18/2/20,3,0,0
+,Philippines,18/2/20,3,1,1
+South Australia,Australia,18/2/20,2,0,2
+"Toronto, ON",Canada,18/2/20,2,0,0
+,RUnited Statessia,18/2/20,2,0,2
+,Spain,18/2/20,2,0,2
+"Chicago, IL",United States,18/2/20,2,0,2
+"San Benito, CA",United States,18/2/20,2,0,0
+"San Diego County, CA",United States,18/2/20,2,0,0
+"Santa Clara, CA",United States,18/2/20,2,0,0
+,Belgium,18/2/20,1,0,1
+,Cambodia,18/2/20,1,0,1
+"London, ON",Canada,18/2/20,1,0,1
+,Egypt,18/2/20,1,0,0
+,Finland,18/2/20,1,0,1
+Tibet,China,18/2/20,1,0,1
+,Nepal,18/2/20,1,0,1
+,Sri Lanka,18/2/20,1,0,1
+,Sweden,18/2/20,1,0,0
+"Boston, MA",United States,18/2/20,1,0,0
+"Los Angeles, CA",United States,18/2/20,1,0,0
+"Madison, WI",United States,18/2/20,1,0,0
+"Orange, CA",United States,18/2/20,1,0,0
+"San Antonio, TX",United States,18/2/20,1,0,0
+"Seattle, WA",United States,18/2/20,1,0,1
+"Tempe, AZ",United States,18/2/20,1,0,0
+Hubei,China,19/2/20,62031,2029,10337
+Guangdong,China,19/2/20,1331,5,606
+Henan,China,19/2/20,1262,19,573
+Zhejiang,China,19/2/20,1174,0,604
+Hunan,China,19/2/20,1008,4,561
+Anhui,China,19/2/20,986,6,413
+Jiangxi,China,19/2/20,934,1,362
+Jiangsu,China,19/2/20,631,0,318
+Diamond Princess cruise ship,Others,19/2/20,621,0,1
+Chongqing,China,19/2/20,560,5,274
+Shandong,China,19/2/20,544,3,231
+Sichuan,China,19/2/20,514,3,188
+Heilongjiang,China,19/2/20,470,12,120
+Beijing,China,19/2/20,393,4,145
+Shanghai,China,19/2/20,333,2,186
+Hebei,China,19/2/20,306,4,152
+Fujian,China,19/2/20,293,0,112
+Guangxi,China,19/2/20,244,2,86
+Shaanxi,China,19/2/20,242,0,102
+Yunnan,China,19/2/20,172,1,60
+Hainan,China,19/2/20,168,4,84
+Guizhou,China,19/2/20,146,2,70
+Shanxi,China,19/2/20,131,0,68
+Tianjin,China,19/2/20,130,3,54
+Liaoning,China,19/2/20,121,1,55
+Gansu,China,19/2/20,91,2,65
+Jilin,China,19/2/20,90,1,37
+,Japan,19/2/20,84,1,18
+,Singapore,19/2/20,84,0,34
+Xinjiang,China,19/2/20,76,1,20
+Inner Mongolia,China,19/2/20,75,0,10
+Ningxia,China,19/2/20,71,0,42
+Hong Kong,Hong Kong,19/2/20,63,2,5
+,Thailand,19/2/20,35,0,15
+,South Korea,19/2/20,31,0,12
+Taiwan,Taiwan,19/2/20,23,1,2
+,Malaysia,19/2/20,22,0,15
+Qinghai,China,19/2/20,18,0,16
+,Germany,19/2/20,16,0,12
+,Vietnam,19/2/20,16,0,7
+,France,19/2/20,12,1,4
+Macau,Macau,19/2/20,10,0,5
+,United Kingdom,19/2/20,9,0,8
+,United Arab Emirates,19/2/20,9,0,4
+Queensland,Australia,19/2/20,5,0,0
+British Columbia,Canada,19/2/20,5,0,0
+New South Wales,Australia,19/2/20,4,0,4
+Victoria,Australia,19/2/20,4,0,4
+,India,19/2/20,3,0,3
+,Italy,19/2/20,3,0,0
+,Philippines,19/2/20,3,1,1
+South Australia,Australia,19/2/20,2,0,2
+"Toronto, ON",Canada,19/2/20,2,0,0
+,Iran,19/2/20,2,2,0
+,RUnited Statessia,19/2/20,2,0,2
+,Spain,19/2/20,2,0,2
+"Chicago, IL",United States,19/2/20,2,0,2
+"San Benito, CA",United States,19/2/20,2,0,0
+"San Diego County, CA",United States,19/2/20,2,0,0
+"Santa Clara, CA",United States,19/2/20,2,0,0
+,Belgium,19/2/20,1,0,1
+,Cambodia,19/2/20,1,0,1
+"London, ON",Canada,19/2/20,1,0,1
+,Egypt,19/2/20,1,0,0
+,Finland,19/2/20,1,0,1
+Tibet,China,19/2/20,1,0,1
+,Nepal,19/2/20,1,0,1
+,Sri Lanka,19/2/20,1,0,1
+,Sweden,19/2/20,1,0,0
+"Boston, MA",United States,19/2/20,1,0,0
+"Los Angeles, CA",United States,19/2/20,1,0,0
+"Madison, WI",United States,19/2/20,1,0,0
+"Orange, CA",United States,19/2/20,1,0,0
+"San Antonio, TX",United States,19/2/20,1,0,0
+"Seattle, WA",United States,19/2/20,1,0,1
+"Tempe, AZ",United States,19/2/20,1,0,0
+Hubei,China,20/2/20,62442,2144,11788
+Guangdong,China,20/2/20,1332,5,642
+Henan,China,20/2/20,1265,19,637
+Zhejiang,China,20/2/20,1175,1,633
+Hunan,China,20/2/20,1010,4,634
+Anhui,China,20/2/20,987,6,474
+Jiangxi,China,20/2/20,934,1,433
+Diamond Princess cruise ship,Others,20/2/20,634,2,1
+Jiangsu,China,20/2/20,631,0,356
+Chongqing,China,20/2/20,567,6,299
+Shandong,China,20/2/20,546,4,254
+Sichuan,China,20/2/20,520,3,217
+Heilongjiang,China,20/2/20,476,12,136
+Beijing,China,20/2/20,395,4,153
+Shanghai,China,20/2/20,334,2,199
+Hebei,China,20/2/20,307,5,169
+Fujian,China,20/2/20,293,1,126
+Guangxi,China,20/2/20,245,2,90
+Shaanxi,China,20/2/20,245,1,118
+Yunnan,China,20/2/20,174,2,79
+Hainan,China,20/2/20,168,4,86
+Guizhou,China,20/2/20,146,2,72
+Shanxi,China,20/2/20,132,0,76
+Tianjin,China,20/2/20,131,3,59
+Liaoning,China,20/2/20,121,1,59
+,South Korea,20/2/20,104,1,16
+,Japan,20/2/20,94,1,18
+Gansu,China,20/2/20,91,2,71
+Jilin,China,20/2/20,91,1,43
+,Singapore,20/2/20,84,0,34
+Xinjiang,China,20/2/20,76,1,22
+Inner Mongolia,China,20/2/20,75,0,16
+Ningxia,China,20/2/20,71,0,44
+Hong Kong,Hong Kong,20/2/20,68,2,6
+,Thailand,20/2/20,35,0,15
+Taiwan,Taiwan,20/2/20,24,1,2
+,Malaysia,20/2/20,22,0,15
+Qinghai,China,20/2/20,18,0,16
+,Germany,20/2/20,16,0,12
+,Vietnam,20/2/20,16,0,7
+,France,20/2/20,12,1,4
+Macau,Macau,20/2/20,10,0,6
+,United Kingdom,20/2/20,9,0,8
+,United Arab Emirates,20/2/20,9,0,4
+Queensland,Australia,20/2/20,5,0,0
+British Columbia,Canada,20/2/20,5,0,0
+,Iran,20/2/20,5,2,0
+New South Wales,Australia,20/2/20,4,0,4
+Victoria,Australia,20/2/20,4,0,4
+,India,20/2/20,3,0,3
+,Italy,20/2/20,3,0,0
+,Philippines,20/2/20,3,1,1
+South Australia,Australia,20/2/20,2,0,2
+"Toronto, ON",Canada,20/2/20,2,0,0
+,RUnited Statessia,20/2/20,2,0,2
+,Spain,20/2/20,2,0,2
+"Chicago, IL",United States,20/2/20,2,0,2
+"San Benito, CA",United States,20/2/20,2,0,0
+"San Diego County, CA",United States,20/2/20,2,0,0
+"Santa Clara, CA",United States,20/2/20,2,0,0
+,Belgium,20/2/20,1,0,1
+,Cambodia,20/2/20,1,0,1
+"London, ON",Canada,20/2/20,1,0,1
+,Egypt,20/2/20,1,0,0
+,Finland,20/2/20,1,0,1
+Tibet,China,20/2/20,1,0,1
+,Nepal,20/2/20,1,0,1
+,Sri Lanka,20/2/20,1,0,1
+,Sweden,20/2/20,1,0,0
+"Boston, MA",United States,20/2/20,1,0,0
+"Los Angeles, CA",United States,20/2/20,1,0,0
+"Madison, WI",United States,20/2/20,1,0,0
+"Orange, CA",United States,20/2/20,1,0,0
+"San Antonio, TX",United States,20/2/20,1,0,0
+"Seattle, WA",United States,20/2/20,1,0,1
+"Tempe, AZ",United States,20/2/20,1,0,0
+Hubei,China,21/2/20,62662,2144,11881
+Guangdong,China,21/2/20,1333,5,690
+Henan,China,21/2/20,1267,19,736
+Zhejiang,China,21/2/20,1203,1,679
+Hunan,China,21/2/20,1011,4,661
+Anhui,China,21/2/20,988,6,539
+Jiangxi,China,21/2/20,934,1,489
+Shandong,China,21/2/20,749,4,281
+Diamond Princess cruise ship,Others,21/2/20,634,2,1
+Jiangsu,China,21/2/20,631,0,373
+Chongqing,China,21/2/20,572,6,316
+Sichuan,China,21/2/20,525,3,231
+Heilongjiang,China,21/2/20,479,12,175
+Beijing,China,21/2/20,396,4,169
+Shanghai,China,21/2/20,334,2,211
+Hebei,China,21/2/20,308,5,184
+Fujian,China,21/2/20,293,1,149
+Guangxi,China,21/2/20,246,2,97
+Shaanxi,China,21/2/20,245,1,134
+,South Korea,21/2/20,204,2,16
+Yunnan,China,21/2/20,174,2,96
+Hainan,China,21/2/20,168,4,95
+Guizhou,China,21/2/20,146,2,77
+Shanxi,China,21/2/20,132,0,78
+Tianjin,China,21/2/20,132,3,62
+Liaoning,China,21/2/20,121,1,61
+,Japan,21/2/20,105,1,22
+Gansu,China,21/2/20,91,2,76
+Jilin,China,21/2/20,91,1,45
+,Singapore,21/2/20,85,0,37
+Xinjiang,China,21/2/20,76,1,24
+Inner Mongolia,China,21/2/20,75,0,17
+Ningxia,China,21/2/20,71,0,48
+Hong Kong,Hong Kong,21/2/20,68,2,5
+,Thailand,21/2/20,35,0,17
+Taiwan,Taiwan,21/2/20,26,1,2
+,Malaysia,21/2/20,22,0,15
+,Italy,21/2/20,20,1,0
+,Iran,21/2/20,18,4,0
+Qinghai,China,21/2/20,18,0,18
+,Germany,21/2/20,16,0,14
+,Vietnam,21/2/20,16,0,14
+,France,21/2/20,12,1,4
+"Ashland, NE",United States,21/2/20,11,0,0
+Macau,Macau,21/2/20,10,0,6
+,United Kingdom,21/2/20,9,0,8
+,United Arab Emirates,21/2/20,9,0,4
+British Columbia,Canada,21/2/20,6,0,0
+Queensland,Australia,21/2/20,5,0,1
+"Travis, CA",United States,21/2/20,5,0,0
+From Diamond Princess,Australia,21/2/20,4,0,0
+New South Wales,Australia,21/2/20,4,0,4
+Victoria,Australia,21/2/20,4,0,4
+,India,21/2/20,3,0,3
+,Philippines,21/2/20,3,1,1
+South Australia,Australia,21/2/20,2,0,2
+"Toronto, ON",Canada,21/2/20,2,0,2
+,RUnited Statessia,21/2/20,2,0,2
+,Spain,21/2/20,2,0,2
+"Chicago, IL",United States,21/2/20,2,0,2
+"Lackland, TX",United States,21/2/20,2,0,0
+"San Benito, CA",United States,21/2/20,2,0,0
+"San Diego County, CA",United States,21/2/20,2,0,1
+"Santa Clara, CA",United States,21/2/20,2,0,1
+,Belgium,21/2/20,1,0,1
+,Cambodia,21/2/20,1,0,1
+"London, ON",Canada,21/2/20,1,0,1
+,Egypt,21/2/20,1,0,0
+,Finland,21/2/20,1,0,1
+From Diamond Princess,Israel,21/2/20,1,0,0
+None,Lebanon,21/2/20,1,0,0
+Tibet,China,21/2/20,1,0,1
+,Nepal,21/2/20,1,0,1
+,Sri Lanka,21/2/20,1,0,1
+,Sweden,21/2/20,1,0,0
+"Boston, MA",United States,21/2/20,1,0,0
+"Humboldt County, CA",United States,21/2/20,1,0,0
+"Los Angeles, CA",United States,21/2/20,1,0,0
+"Madison, WI",United States,21/2/20,1,0,0
+"Orange, CA",United States,21/2/20,1,0,0
+"Sacramento County, CA",United States,21/2/20,1,0,0
+"San Antonio, TX",United States,21/2/20,1,0,0
+"Seattle, WA",United States,21/2/20,1,0,1
+"Tempe, AZ",United States,21/2/20,1,0,0
