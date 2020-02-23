@@ -19,7 +19,8 @@ from sklearn.preprocessing import PolynomialFeatures
 import warnings
 warnings.filterwarnings('ignore')
 
-class Train_Dynamic_SEIR:
+
+class Train_Dynamic_SIR:
     """
     'eons' (number of time points to model, default 1000)
     'Susceptible' (number of susceptible individuals at time 0, default 950)
@@ -31,17 +32,15 @@ class Train_Dynamic_SEIR:
     'rateAl' (base rate of isolation 'altha', from E to I, default 0.1)
     """
     def __init__(self, data: pandas.core.frame.DataFrame, 
-                 population: int, epoch = 1000, rateIR=0.01, rateAl = 0.1, c = 1, b = -3, alpha = 0.1):
+                 population: int, epoch = 1000, rateIR=0.01, c = 1, b = -3, alpha = 0.1):
         self.epoch = epoch # change weights in each epoch
         self.steps = len(data) 
         # real observation
-        self.Exposed = list(data['E'])
         self.Infected = list(data['I'])
         self.Resistant = list(data['R'])
-        self.Susceptible = list(population - data['E'] - data['I'] - data['R'])
+        self.Susceptible = list(population - data['I'] - data['R'])
         # estimation
         self.S_pre = []; 
-        self.E_pre = []; 
         self.I_pre = []; 
         self.R_pre = [];
         self.past_days = data['Days'].min() # count the number of days before the first traning point
@@ -52,7 +51,6 @@ class Train_Dynamic_SEIR:
         self.alpha = alpha; # intial guess
         self.rateSI = self._calculate_beta(c = self.c, t = 0, b = self.b, alpha = self.alpha) # intial guess
         self.rateIR = rateIR
-        self.rateAl = rateAl
         self.numIndividuals = population # total population
         self.results = None
         self.estimation = None 
@@ -140,13 +138,12 @@ class Train_Dynamic_SEIR:
         """
         for e in range(self.epoch):
             # prediction list
-            self.S_pre = []; self.E_pre = []; self.I_pre = []; self.R_pre = [];
+            self.S_pre = []; self.I_pre = []; self.R_pre = [];
             
             # make prediction step by step
             for t in range(0, self.steps):
                 if t == 0:
                     self.S_pre.append(self.Susceptible[0])
-                    self.E_pre.append(self.Exposed[0])
                     self.I_pre.append(self.Infected[0])
                     self.R_pre.append(self.Resistant[0])
                     self.rateSI = self._calculate_beta(c = self.c, t = t, b = self.b, 
@@ -167,18 +164,16 @@ class Train_Dynamic_SEIR:
                         self.betalist.append(self.rateSI)
                         
                     # apply real-time data into SEIR formula
-                    S_to_E = (self.rateSI * self.Susceptible[t] * self.Infected[t]) / self.numIndividuals
-                    E_to_I = (self.rateAl * self.Exposed[t])
-                    I_to_R = (self.Infected[t] * self.rateIR)
-                    self.S_pre.append(self.Susceptible[t] - S_to_E)
-                    self.E_pre.append(self.Exposed[t] + S_to_E - E_to_I)
-                    self.I_pre.append(self.Infected[t] + E_to_I - I_to_R)
+                    S_to_I = (self.rateSI * self.Susceptible[t] * self.Infected[t]) / self.numIndividuals
+                    I_to_R = self.Infected[t] * self.rateIR
+                    self.S_pre.append(self.Susceptible[t] - S_to_I)
+                    self.I_pre.append(self.Infected[t] + S_to_I - I_to_R)
                     self.R_pre.append(self.Resistant[t] + I_to_R)
             
             # record the estimation when we do the last iteration
             if e == (self.epoch - 1):
                     self.estimation = pd.DataFrame.from_dict({'Time':list(range(len(self.Susceptible))),
-                'Estimated_Susceptible':self.S_pre, 'Estimated_Exposed': self.E_pre, 'Estimated_Infected':self.I_pre, 
+                'Estimated_Susceptible':self.S_pre,'Estimated_Infected':self.I_pre,
                                                               'Estimated_Resistant':self.R_pre},
                 orient='index').transpose()
                     self.loss = self._calculate_loss()
@@ -220,8 +215,7 @@ class Train_Dynamic_SEIR:
         fig, ax = plt.subplots(figsize=(15,6))
         plt.plot(self.estimation['Time'], self.estimation['Estimated_Infected'], color='green')
         plt.plot(self.estimation['Time'], real_obs['I'], color='y')
-        plt.plot(self.estimation['Time'], self.estimation['Estimated_Exposed'], color='blue')
-        plt.plot(self.estimation['Time'], real_obs['E'], color='royalblue')
+        
 
         # set x tricks
         datemin = real_obs['date'].min()
@@ -230,13 +224,13 @@ class Train_Dynamic_SEIR:
         plt.xticks(list(range(numdays)), labels, rotation=90, fontsize = 10)
         plt.xlabel('2020 Date')
         plt.ylabel('Population')
-        plt.title('Fitted value by Dynamic SEIR model', fontsize = 20)
-        plt.legend(['Estimated Infected','Real Infected', 'Estimated_Exposed', 'Real Exposed'], prop={'size': 12}, bbox_to_anchor=(0.5, 1.02), 
-           ncol=4, fancybox=True, shadow=True)
+        plt.title('Fitted value by Dynamic SIR model', fontsize = 20)
+        plt.legend(['Estimated Infected','Real Infected'], prop={'size': 12}, bbox_to_anchor=(0.5, 1.02), 
+           ncol=2, fancybox=True, shadow=True)
         plt.show()
 
     
-class dynamic_SEIR:
+class dynamic_SIR:
     """
     'eons' (number of time points to model, default 1000)
     'Susceptible' (number of susceptible individuals at time 0, default 950)
@@ -244,20 +238,17 @@ class dynamic_SEIR:
     'Infected' (number of infected individuals at time 0, default 50)
     'Resistant' (number of resistant individuals at time 0, default 0)
     'rateSI' (base rate 'beta' from S to E, default 0.05)
-    'rateIR' (base rate 'gamma' from I to R, default 0.01)
-    'rateAl' (base rate of isolation 'altha', from E to I, default 0.1)
+    'rateIR' (base rate 'gamma' from I to R, default 0.01
     """
-    def __init__(self, eons=1000, Susceptible=950, Exposed = 100, Infected=50, Resistant=0, rateIR=0.01, rateAl = 0.1,
+    def __init__(self, eons=1000, Susceptible=950, Infected=50, Resistant=0, rateIR=0.01, 
                  alpha = 0.3, c = 5, b = -10, past_days = 30):
         self.eons = eons # number of prediction days
         self.Susceptible = Susceptible
-        self.Exposed = Exposed
         self.Infected = Infected
         self.Resistant = Resistant
         self.rateSI = None
         self.rateIR = rateIR
-        self.rateAl = rateAl
-        self.numIndividuals = Susceptible + Infected + Resistant + Exposed # total population
+        self.numIndividuals = Susceptible + Infected + Resistant  # total population
         self.alpha = alpha
         self.c = c
         self.b = b
@@ -274,7 +265,6 @@ class dynamic_SEIR:
 
     def run(self, death_rate):
         Susceptible = [self.Susceptible]
-        Exposed = [self.Exposed]
         Infected = [self.Infected]
         Resistant = [self.Resistant]
 
@@ -282,14 +272,11 @@ class dynamic_SEIR:
             self.rateSI = self._calculate_beta(c = self.c, t = i, b = self.b, 
                                                alpha = self.alpha, past_days = self.past_days)
             
-            #print(self.rateSI)
-            S_to_E = (self.rateSI * Susceptible[-1] * Infected[-1]) / self.numIndividuals
-            E_to_I = (self.rateAl * Exposed[-1])
-            I_to_R = (Infected[-1] * self.rateIR)
+            S_to_I = (self.rateSI * Susceptible[-1] * Infected[-1]) / self.numIndividuals
+            I_to_R = Infected[-1] * self.rateIR
             
-            Susceptible.append(Susceptible[-1] - S_to_E)
-            Exposed.append(Exposed[-1] + S_to_E - E_to_I)
-            Infected.append(Infected[-1] + E_to_I - I_to_R)
+            Susceptible.append(Susceptible[-1] - S_to_I)
+            Infected.append(Infected[-1] + S_to_I - I_to_R)
             Resistant.append(Resistant[-1] + I_to_R)
         
         # Death is death_rate* recovery group
@@ -297,7 +284,7 @@ class dynamic_SEIR:
         # Heal is removed - Death
         Heal = list(map(lambda x: (x * (1-death_rate)), Resistant))
         self.results = pd.DataFrame.from_dict({'Time':list(range(len(Susceptible))),
-            'Susceptible':Susceptible, 'Exposed': Exposed, 'Infected':Infected, 'Resistant':Resistant,
+            'Susceptible':Susceptible,'Infected':Infected, 'Resistant':Resistant,
                                                'Death':Death, 'Heal': Heal},
             orient='index').transpose()
         self.modelRun = True
@@ -312,7 +299,6 @@ class dynamic_SEIR:
         fig, ax = plt.subplots(figsize=(10,6))
         plt.plot(self.results['Time'], self.results['Susceptible'], color='blue')
         plt.plot(self.results['Time'], self.results['Infected'], color='red')
-        plt.plot(self.results['Time'], self.results['Exposed'], color='orange')
         plt.plot(self.results['Time'], self.results['Resistant'], color='palegreen')
         plt.plot(self.results['Time'], self.results['Heal'], color='green')
         plt.plot(self.results['Time'], self.results['Death'], color='grey')
@@ -323,7 +309,7 @@ class dynamic_SEIR:
         plt.xticks(list(range(numdays)), labels, rotation=60)
         plt.xlabel(xlabel)
         plt.ylabel(ylabel)
-        plt.legend(['Susceptible','Infected','Exposed','Removed', 'Heal', 'Death'], prop={'size': 12}, bbox_to_anchor=(0.5, 1.02), ncol=6, fancybox=True, shadow=True)
+        plt.legend(['Susceptible','Infected','Removed', 'Heal', 'Death'], prop={'size': 12}, bbox_to_anchor=(0.5, 1.02), ncol=5, fancybox=True, shadow=True)
         plt.title(title, fontsize = 20)
         plt.show()
         
@@ -336,7 +322,6 @@ class dynamic_SEIR:
         fig, ax = plt.subplots(figsize=(10,6))
         plt.plot(self.results['Time'], self.results['Infected'], color='red')
         plt.plot(self.results['Time'], self.results['Resistant'], color='palegreen')
-        plt.plot(self.results['Time'], self.results['Exposed'], color='orange')
         plt.plot(self.results['Time'], self.results['Heal'], color='green')
         plt.plot(self.results['Time'], self.results['Death'], color='grey')
         # set x trick
@@ -347,7 +332,7 @@ class dynamic_SEIR:
         
         plt.xlabel(xlabel)
         plt.ylabel(ylabel)
-        plt.legend(['Infected','Removed','Exposed','Heal','Death'], prop={'size': 12}, bbox_to_anchor=(0.5, 1.02), ncol=5, fancybox=True, shadow=True)
+        plt.legend(['Infected','Removed','Heal','Death'], prop={'size': 12}, bbox_to_anchor=(0.5, 1.02), ncol=4, fancybox=True, shadow=True)
         plt.title(title, fontsize = 20)
         plt.show()    
     
