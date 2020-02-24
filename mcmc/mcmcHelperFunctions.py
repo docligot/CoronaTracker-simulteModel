@@ -113,6 +113,32 @@ def MCMC(shape, scale, sigma=100, niters = np.linspace(3e4,1e5,3), thetas = np.a
         print("Gelman Rubin convergence ratio: %s" %GelmanRubinTest(len(thetas), len(sampless[0]), sampless))
 
     plt.show()
+    return sampless
+
+
+def numericalMLEGamma(x):
+    '''
+    Computes the MLE of a Gamma distribution
+    argument: x -> list of gamma samples
+    
+    returns: alpha and beta -> parameters of a gamma distribution
+    
+    reference: https://tminka.github.io/papers/minka-gamma.pdf, https://github.com/tminka/fastfit/blob/master/gamma_fit.m
+    '''
+    from scipy.special import digamma, polygamma
+    m = np.mean(x)
+    s = np.log(m) - np.mean(np.log(x))
+    a = 0.5/s
+    for i in range(100):
+        old_a = a
+        g = np.log(a) - s - digamma(a)
+        h = 1/a - polygamma(1,a) # first derivative of digamma
+        a = 1/(1/a + g/(a**2*h))
+        if (abs(a - old_a) < 1e-8):
+            break
+    b = m/a
+    return a, b
+
 
 class mh:
     '''
