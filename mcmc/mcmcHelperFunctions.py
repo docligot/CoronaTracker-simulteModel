@@ -4,23 +4,126 @@ Created on Thu Feb 20 15:53:04 2020
 
 @author: david
 
-# adapted from https://people.duke.edu/~ccc14/sta-663/MCMC.html
 """
 
 
 import copy
 import numpy as np
+import matplotlib.pyplot as plt
+import emcee as mc
 
+def GelmanRubinTest(m:int, n:int, samples:list):
+    '''  
+    arguments: m -> number of MCMC chains, n -> length of chain (including burn-in), samples -> accepted MCMC samples
+    
+    returns: Gelman-Rubin ratio, close to 1 is better ie. < 1.1
+    
+    Description
+    The Gelman-Rubin diagnostic uses an analysis of variance approach to assessing convergence. That is, it calculates both the between-
+    chain variance (B) and within-chain variance (W), and assesses whether they are different enough to worry about convergence. Assuming m
+    chains, each of length n
+    
+    reference: http://iacs-courses.seas.harvard.edu/courses/am207/blog/lecture-8.html
+    
+    '''
+    m = m # number of chains
+    n = int(0.8*n) # length of chain excluding burn-in samples
+    thetas = [np.mean(sample[-n:]) for sample in samples]
+    theta_bar_bar = np.mean([np.mean(sample[-n:]) for sample in samples])
+    W_i = 0
+    
+    samples_thetas = list(zip(samples, thetas)) # (sample, theta)
+    
+    # Between chains variance
+    B = n/(m-1)*np.sum([(st[1]-theta_bar_bar)**2 for st in samples_thetas])  # sum sq difference of chain theta and global theta
+
+    # Within chain variance
+    W = 1/m*np.sum([1/(n-1)*np.sum((st[0][-n:] - st[1])**2) for st in samples_thetas]) # sum sq difference of indiv theta and chain theta
+    
+    # posterior variance
+    V = (n - 1)/n*W + 1/n*B
+
+    # corrected Gelman-Rubin ratio: with degree freedom scaling to account for sampling variability
+    d = m - 1
+    
+    # corrected Gelman-Rubin ratio: the potential scale reduction factor (PSRF)
+    R = np.sqrt((d + 3)/(d + 1)*V/W)
+
+#     print(B, W, V, R)
+    return R
+
+def MCMC(shape, scale, sigma=100, niters = np.linspace(3e4,1e5,3), thetas = np.arange(1500, 3501, 500)):
+    '''
+    arguments: 
+    shape, scale -> shape and scale parameters of gamma distribution, sigma -> the width of the random perturbation (too wide, higher 
+    rejection; too narrow, too many 'poorly' accepted samples
+    niters -> list of number of iterations, thetas -> list of starting points
+    
+    prints: Trace plot, samples distribution and ACF plot, Gelman-Rubin convergence score
+    
+    '''
+    from scipy.stats import gamma
+
+    niters = niters
+    cnt = 1
+
+    fig = plt.figure(figsize=(20,20))
+
+    for i in range(len(niters)):
+        print("iter: %s" %niters[i])
+
+        # select a sigma for the algo, 
+        # a range too wide gives you lower chances of accepting samples but allows more room for the candidate data to roam
+        # a range too narrow gives you higher chance of accepting samples but samples may not converge
+        sigma = sigma
+
+        # select different starting points for mu based on its range
+        thetas = thetas
+        sampless = [mh(niters[i], mu_, sigma, gamma, shape, scale).run() for mu_ in thetas]
+
+        # Samples plot
+        ax = fig.add_subplot(3,3,i+cnt)
+        for samples in sampless:    
+            ax.plot(samples, '--')
+        ax.set_xlim([0, niters[i]])
+        ax.set_ylabel('Theta')
+        ax.set_xlabel('Iteration')
+        ax.set_title('Accepted Theta Samples per Iteration')
+        cnt += 1
+
+        # Distribution plot
+        ax = fig.add_subplot(3,3,i+cnt)
+        last_n_samples = int(niters[i] * 0.8)
+        for samples in sampless:
+            ax.hist(samples[-last_n_samples:], bins=100, histtype='step', label=f'{niters[i]}')
+        ax.set_xlim([0, 10000*sigma/100])
+        ax.set_ylabel('Frequency')
+        ax.set_xlabel('Theta')
+        ax.set_title('Distribution of Theta')
+        cnt += 1
+
+        # Auto-correlation plot
+        ax = fig.add_subplot(3,3,i+cnt)
+        for samples in sampless:
+            ax.plot(mc.autocorr.function_1d(samples), '--')
+        ax.set_xlim([0, niters[i]])
+        ax.set_ylabel('ACF')
+        ax.set_xlabel('Iteration')
+        ax.set_title('Test for Autocorrelation')
+        print("Gelman Rubin convergence ratio: %s" %GelmanRubinTest(len(thetas), len(sampless[0]), sampless))
+
+    plt.show()
 
 class mh:
     '''
     Metropolis Hasting pseudo algorithm can be found at: http://www.mit.edu/~ilkery/papers/MetropolisHastingsSampling.pdf
     
-    The Metropolis Hastings method runs for N iterations with a starting data point theta.
-    It completes after N accepted samples are drawn and returns those samples.
+    The Metropolis Hastings method runs for N iterations with different starting points - thetas (plausible values of the mean).
+    It completes after N samples are accepted and returns those samples.
     
-    this mcmc algorithm's target is a gamma distribution
-    and the transition is a normal distribution
+    This mcmc algorithm's target (proposal) is a gamma distribution and the transition is a normal distribution (random perturbation)
+    
+    reference: https://people.duke.edu/~ccc14/sta-663/MCMC.html
     
     '''
     def __init__(self, niters: int, theta: int, sigma: float, target, t_param1, t_param2=None):
@@ -35,10 +138,6 @@ class mh:
 
     def _target_model(self, theta):
         return self.target.pdf(theta, self.shape, scale=self.scale)
-#         if self.t_param1 is not None and self.t_param1 is not None: # two parameter model, shape and scale
-#             return self.target.pdf(theta, self.t_param1, self.t_param2)
-#         elif self.t_param2 is None: # one parameter model, shape only
-#             return self.target.pdf(theta, self.t_param1) 
     
     def run(self):
         print("Theta: %s" %self.theta)
@@ -55,4 +154,4 @@ class mh:
                 self.samples.append(self.theta)
            
         print("Mean of samples: %s, Stddev of samples: %s" %(np.sum(self.samples)/len(self.samples), np.std(self.samples)))
-        return self.samples        
+        return self.samples
