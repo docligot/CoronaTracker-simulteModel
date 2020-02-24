@@ -1,4 +1,12 @@
 Province,Country,Date,Confirmed,Deaths,Recovered
+Hubei,China,20/1/20,136,0,0
+Beijing,China,20/1/20,2,0,0
+Zhejiang,China,20/1/20,5,0,0
+Guangdong,China,20/1/20,1,0,0
+Shandong,China,21/1/20,1,0,0
+Beijing,China,21/1/20,5,0,0
+Hubei,China,21/1/20,209,0,0
+Shanghai,China,21/1/20,2,0,0
 Anhui,China,22/1/20,1,0,0
 Beijing,China,22/1/20,14,0,0
 Chongqing,China,22/1/20,6,0,0
@@ -2025,3 +2033,87 @@ Tibet,China,21/2/20,1,0,1
 "San Antonio, TX",United States,21/2/20,1,0,0
 "Seattle, WA",United States,21/2/20,1,0,1
 "Tempe, AZ",United States,21/2/20,1,0,0
+Hubei,China,22/2/20,64084,2346,15299
+Guangdong,China,22/2/20,1339,5,728
+Henan,China,22/2/20,1270,19,830
+Zhejiang,China,22/2/20,1205,1,719
+Hunan,China,22/2/20,1013,4,692
+Anhui,China,22/2/20,989,6,597
+Jiangxi,China,22/2/20,934,1,555
+Shandong,China,22/2/20,750,4,302
+Diamond Princess cruise ship,Others,22/2/20,634,2,1
+Jiangsu,China,22/2/20,631,0,401
+Chongqing,China,22/2/20,573,6,328
+Sichuan,China,22/2/20,526,3,250
+Heilongjiang,China,22/2/20,479,12,204
+,South Korea,22/2/20,433,2,16
+Beijing,China,22/2/20,399,4,178
+Shanghai,China,22/2/20,335,3,227
+Hebei,China,22/2/20,309,6,203
+Fujian,China,22/2/20,293,1,162
+Guangxi,China,22/2/20,249,2,104
+Shaanxi,China,22/2/20,245,1,149
+Yunnan,China,22/2/20,174,2,107
+Hainan,China,22/2/20,168,4,104
+Guizhou,China,22/2/20,146,2,90
+Tianjin,China,22/2/20,135,3,65
+Shanxi,China,22/2/20,132,0,81
+,Japan,22/2/20,122,1,22
+Liaoning,China,22/2/20,121,1,66
+Gansu,China,22/2/20,91,2,76
+Jilin,China,22/2/20,91,1,52
+,Singapore,22/2/20,85,0,37
+Xinjiang,China,22/2/20,76,2,25
+Inner Mongolia,China,22/2/20,75,0,26
+Ningxia,China,22/2/20,71,0,48
+Hong Kong,Hong Kong,22/2/20,69,2,6
+,Italy,22/2/20,62,2,1
+,Thailand,22/2/20,35,0,17
+,Iran,22/2/20,28,5,0
+Taiwan,Taiwan,22/2/20,26,1,2
+,Malaysia,22/2/20,22,0,15
+Qinghai,China,22/2/20,18,0,18
+,Germany,22/2/20,16,0,14
+,Vietnam,22/2/20,16,0,14
+,United Arab Emirates,22/2/20,13,0,4
+,France,22/2/20,12,1,4
+"Omaha, NE (From Diamond Princess)",US,22/2/20,11,0,0
+Macau,Macau,22/2/20,10,0,6
+,UK,22/2/20,9,0,8
+From Diamond Princess,Australia,22/2/20,7,0,0
+British Columbia,Canada,22/2/20,6,0,0
+Queensland,Australia,22/2/20,5,0,1
+"Travis, CA (From Diamond Princess)",US,22/2/20,5,0,0
+New South Wales,Australia,22/2/20,4,0,4
+Victoria,Australia,22/2/20,4,0,4
+,India,22/2/20,3,0,3
+,Philippines,22/2/20,3,1,1
+South Australia,Australia,22/2/20,2,0,2
+"Toronto, ON",Canada,22/2/20,2,0,2
+,Russia,22/2/20,2,0,2
+,Spain,22/2/20,2,0,2
+"Chicago, IL",US,22/2/20,2,0,2
+"Lackland, TX (From Diamond Princess)",US,22/2/20,2,0,0
+"San Benito, CA",US,22/2/20,2,0,0
+"San Diego County, CA",US,22/2/20,2,0,1
+"Santa Clara, CA",US,22/2/20,2,0,1
+,Belgium,22/2/20,1,0,1
+,Cambodia,22/2/20,1,0,1
+"London, ON",Canada,22/2/20,1,0,1
+,Egypt,22/2/20,1,0,0
+,Finland,22/2/20,1,0,1
+From Diamond Princess,Israel,22/2/20,1,0,0
+,Lebanon,22/2/20,1,0,0
+Tibet,China,22/2/20,1,0,1
+,Nepal,22/2/20,1,0,1
+,Sri Lanka,22/2/20,1,0,1
+,Sweden,22/2/20,1,0,0
+"Boston, MA",US,22/2/20,1,0,0
+"Humboldt County, CA",US,22/2/20,1,0,0
+"Los Angeles, CA",US,22/2/20,1,0,0
+"Madison, WI",US,22/2/20,1,0,0
+"Orange, CA",US,22/2/20,1,0,0
+"Sacramento County, CA",US,22/2/20,1,0,0
+"San Antonio, TX",US,22/2/20,1,0,0
+"Seattle, WA",US,22/2/20,1,0,1
+"Tempe, AZ",US,22/2/20,1,0,0

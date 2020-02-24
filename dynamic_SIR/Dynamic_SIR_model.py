@@ -339,7 +339,7 @@ class dynamic_SIR:
 ########################
 ## Model evaluation 
 ########################
-def plot_test_data_with_MAPE(test, predict_data):
+def plot_test_data_with_MAPE(test, predict_data, title):
     """
     Calculate MAPE test score using SEIR model prediction result
     and Draw the plot to see the difference
@@ -357,7 +357,7 @@ def plot_test_data_with_MAPE(test, predict_data):
         
     plt.xlabel('2020 Date')
     plt.ylabel('Infected case')
-    plt.title('Infected cases prediction for China total', fontsize = 20)
+    plt.title(title, fontsize = 20)
     plt.legend(['Observation', 'Prediction'], loc = 'upper left', prop={'size': 12}, 
            bbox_to_anchor=(0.5, 1.02), ncol=2, fancybox=True, shadow=True)
     plt.show() 
