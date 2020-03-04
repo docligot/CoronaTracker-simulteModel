@@ -50,7 +50,7 @@ def GelmanRubinTest(m:int, n:int, samples:list):
     R = np.sqrt((d + 3)/(d + 1)*V/W)
 
 #     print(B, W, V, R)
-    return R
+    return round(R, 4)
 
 def MCMC(shape, scale, sigma=100, niters = np.linspace(3e4,1e5,3), thetas = np.arange(1500, 3501, 500)):
     '''
@@ -166,7 +166,6 @@ class mh:
         return self.target.pdf(theta, self.shape, scale=self.scale)
     
     def run(self):
-        print("Theta: %s" %self.theta)
         while len(self.samples) < self.niters:
             self.theta_p = max(self.theta + np.random.normal(0, self.sigma), 0) # q(x), if negative, assign 0
 
@@ -179,5 +178,5 @@ class mh:
                 self.theta = copy.copy(self.theta_p)
                 self.samples.append(self.theta)
            
-        print("Mean of samples: %s, Stddev of samples: %s" %(np.sum(self.samples)/len(self.samples), np.std(self.samples)))
+        print("Theta: %s, Mean of samples: %s, Stddev of samples: %s" %(round(self.theta,1),round(np.sum(self.samples)/len(self.samples),1), round(np.std(self.samples),1)))
         return self.samples
