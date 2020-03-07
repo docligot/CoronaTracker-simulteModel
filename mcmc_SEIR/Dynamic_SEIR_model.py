@@ -362,6 +362,7 @@ def plot_test_data_with_MAPE(test, predict_data, title):
     y = test["I"].reset_index(drop = True)
     predict_data['Date'] = pd.to_datetime(predict_data['Date'], format='%Y-%m-%d')
     predict_data = predict_data[(predict_data['Date'] >= test['Date'].min()) & (predict_data['Date'] <= test['Date'].max())]
+    print(predict_data)
     y_pred = predict_data['Infected'].reset_index(drop = True)
     mape = np.mean(np.abs((y-y_pred))/np.abs(y))
     print("The MAPE is: ".format(mape))
