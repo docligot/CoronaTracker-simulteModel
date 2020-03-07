@@ -285,7 +285,7 @@ class dynamic_SEIR:
             #print(self.rateSI)
             S_to_E = (self.rateSI * Susceptible[-1] * Infected[-1]) / self.numIndividuals
             E_to_I = (self.rateAl * Exposed[-1])
-            I_to_R = (self.rateIR * Infected[-1])
+            I_to_R = (Infected[-1] * self.rateIR)
             
             Susceptible.append(Susceptible[-1] - S_to_E)
             Exposed.append(Exposed[-1] + S_to_E - E_to_I)
@@ -360,19 +360,17 @@ def plot_test_data_with_MAPE(test, predict_data, title):
     and Draw the plot to see the difference
     """
     y = test["I"].reset_index(drop = True)
-    predict_data['Date'] = pd.to_datetime(predict_data['Date'], format='%Y-%m-%d')
-    predict_data = predict_data[(predict_data['Date'] >= test['Date'].min()) & (predict_data['Date'] <= test['Date'].max())]
-    y_pred = predict_data['Infected'].reset_index(drop = True)
+    y_pred = predict_data[:len(test)]['Infected'].reset_index(drop = True)
     mape = np.mean(np.abs((y-y_pred))/np.abs(y))
-    print("The MAPE is: ".format(mape))
+    print("The MAMPE is: ".format(mape))
     print(mape)
     
     # Draw plot
     fig, ax = plt.subplots(figsize=(15,6))
-    plt.plot(test['Date'], y, color='steelblue')
-    plt.plot(test['Date'], y_pred, color='orangered')
+    plt.plot(test['date'], y, color='steelblue')
+    plt.plot(test['date'], y_pred, color='orangered')
         
-    plt.xlabel('Date')
+    plt.xlabel('2020 Date')
     plt.ylabel('Infected case')
     plt.title(title, fontsize = 20)
     plt.legend(['Observation', 'Prediction'], loc = 'upper left', prop={'size': 12}, 
