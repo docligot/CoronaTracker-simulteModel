@@ -7,6 +7,7 @@ import scipy.optimize as optimization
 import pandas as pd
 import pandas
 from SEIR_model import SEIR
+from Dynamic_SEIR_model import *
 
 
 #############################
