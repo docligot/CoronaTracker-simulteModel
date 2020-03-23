@@ -5,6 +5,7 @@
 import numpy as np
 import pandas as pd
 from matplotlib import pyplot as plt
+import datetime
 
 class SEIR:
     """
@@ -57,7 +58,7 @@ class SEIR:
         self.modelRun = True
         return self.results
 
-    def plot(self, title, ylabel, xlabel):
+    def plot(self, title, ylabel, xlabel, starting_point):
         if self.modelRun == False:
             print('Error: Model has not run. Please call SIR.run()')
             return
@@ -70,13 +71,18 @@ class SEIR:
         plt.plot(self.results['Time'], self.results['Resistant'], color='palegreen')
         plt.plot(self.results['Time'], self.results['Heal'], color='green')
         plt.plot(self.results['Time'], self.results['Death'], color='grey')
+        # set x trick
+        datemin = starting_point
+        numdays = len(self.results) 
+        labels = list((datemin + datetime.timedelta(days=x)).strftime('%m-%d') for x in range(numdays))
+        plt.xticks(list(range(numdays)), labels, rotation=60)
         plt.xlabel(xlabel)
         plt.ylabel(ylabel)
         plt.legend(['Susceptible','Infected','Exposed','Removed', 'Heal', 'Death'], prop={'size': 12}, bbox_to_anchor=(0.5, 1.02), ncol=6, fancybox=True, shadow=True)
         plt.title(title, fontsize = 20)
         plt.show()
         
-    def plot_noSuscep(self, title, ylabel, xlabel):
+    def plot_noSuscep(self, title, ylabel, xlabel, starting_point):
         if self.modelRun == False:
             print('Error: Model has not run. Please call SIR.run()')
             return
@@ -88,8 +94,14 @@ class SEIR:
         plt.plot(self.results['Time'], self.results['Exposed'], color='orange')
         plt.plot(self.results['Time'], self.results['Heal'], color='green')
         plt.plot(self.results['Time'], self.results['Death'], color='grey')
+        # set x trick
+        datemin = starting_point
+        numdays = len(self.results) 
+        labels = list((datemin + datetime.timedelta(days=x)).strftime('%m-%d') for x in range(numdays))
+        plt.xticks(list(range(numdays)), labels, rotation=60)
+        
         plt.xlabel(xlabel)
         plt.ylabel(ylabel)
         plt.legend(['Infected','Removed','Exposed','Heal','Death'], prop={'size': 12}, bbox_to_anchor=(0.5, 1.02), ncol=5, fancybox=True, shadow=True)
         plt.title(title, fontsize = 20)
-        plt.show()
+        plt.show()   
